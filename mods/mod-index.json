@@ -40,14 +40,14 @@
         "version_id": "EuQErqo9"
     },
     "RfFxanNh": {
-        "checksum": "ffcb6860d0c66a93dc58edffc260b3833ee667b6a8288fed28e099a68c6eada7c082923b74c88265420c48b1e7d730d0dd4df7ad1460281e99d4b1ca42c8cbc6",
+        "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
         "client_side_only": false,
         "name": "Faster Random",
-        "pinned": false,
+        "pinned": true,
         "project_id": "RfFxanNh",
         "selected": true,
-        "version": "3.0.3-neoforge",
-        "version_id": "Gb15BtGb"
+        "version": "5.0.1",
+        "version_id": "39yHBKs1"
     },
     "Ua7DFN59": {
         "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",

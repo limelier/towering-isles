@@ -1,4 +1,24 @@
 {
+    "2gvRmQXx": {
+        "checksum": "2c857bdc6a7ba0fdfac0875a9aade7cf3247d9f62b25a95c237051e674c05a0028ffdfe6ef8b5cc431b943a28a508cb1d51d2919dac1be6739e8b5b99f9ae8f7",
+        "client_side_only": false,
+        "name": "Radium",
+        "pinned": false,
+        "project_id": "2gvRmQXx",
+        "selected": true,
+        "version": "0.12.3",
+        "version_id": "NhMILNAm"
+    },
+    "5ZwdcRci": {
+        "checksum": "c6f966e43101646744d13a05a912987618175512c5929172e9580a7bd115b33cc9d139de67ae0e5e2c40cbdee9d7881dcaaa7cb3cc9f5cc174e30adfb996ffb6",
+        "client_side_only": true,
+        "name": "ImmediatelyFast",
+        "pinned": false,
+        "project_id": "5ZwdcRci",
+        "selected": true,
+        "version": "1.2.18+1.20.4-forge",
+        "version_id": "XgQjD9fF"
+    },
     "CU0PAyzb": {
         "checksum": "3b9f61f8ad493f080d1fc96ef8acd5c3005827555d0f47d37baa9e563a971fe97142c6b9c0792b5b0c8e1caaaa2392ec49d98266fe88eaca06058edb445e2788",
         "client_side_only": false,
@@ -8,6 +28,26 @@
         "selected": true,
         "version": "1.20-Forge-4.0",
         "version_id": "C7buFh0l"
+    },
+    "KuNKN7d2": {
+        "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
+        "client_side_only": false,
+        "name": "Noisium",
+        "pinned": false,
+        "project_id": "KuNKN7d2",
+        "selected": true,
+        "version": "2.0.3+mc1.20-1.20.1",
+        "version_id": "EuQErqo9"
+    },
+    "RfFxanNh": {
+        "checksum": "ffcb6860d0c66a93dc58edffc260b3833ee667b6a8288fed28e099a68c6eada7c082923b74c88265420c48b1e7d730d0dd4df7ad1460281e99d4b1ca42c8cbc6",
+        "client_side_only": false,
+        "name": "Faster Random",
+        "pinned": false,
+        "project_id": "RfFxanNh",
+        "selected": true,
+        "version": "3.0.3-neoforge",
+        "version_id": "Gb15BtGb"
     },
     "Ua7DFN59": {
         "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
@@ -39,6 +79,16 @@
         "version": "2.4.6",
         "version_id": "5lXIJiba"
     },
+    "nmDcB62a": {
+        "checksum": "7ff44b4ae8d8c25a80862d209d9af0e2249bc6e614feaef6c8b83e9a68e0a50fa17b423e1704e4b19e6dd357864b55472dd16758b3d6a3f66c3da54c57643d33",
+        "client_side_only": false,
+        "name": "ModernFix",
+        "pinned": false,
+        "project_id": "nmDcB62a",
+        "selected": true,
+        "version": "5.18.6+mc1.20.1",
+        "version_id": "QroNBg6X"
+    },
     "ordsPcFz": {
         "checksum": "7251fd60cd3929ec11b1709807c0d3d24c33f341dfb756eb59c4dc6db392402213ab062736f9354ebdfb184e4ed1df7b589bafbd491134f47023b9f0135e5ac4",
         "client_side_only": false,
@@ -48,6 +98,25 @@
         "selected": false,
         "version": "4.11.0",
         "version_id": "hmeyC41q"
+    },
+    "sk9rgfiA": {
+        "checksum": "2c3c7294cbbaf739f0d04739cc56f18d4734060cf25935a93c625d6d98bf1292687a3a6bf948e5461747e27895297ae57451af0096a388117bb7750630cb4cc2",
+        "client_side_only": true,
+        "name": "Embeddium",
+        "pinned": false,
+        "project_id": "sk9rgfiA",
+        "selected": true,
+        "version": "0.3.25+mc1.20.1",
+        "version_id": "FI3Xe9Px"
+    },
+    "uXXizFIs": {
+        "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",
+        "client_side_only": false,
+        "name": "FerriteCore",
+        "pinned": false,
+        "project_id": "uXXizFIs",
+        "selected": true,
+        "version": "6.0.1",
+        "version_id": "DG5Fn9Sz"
     }
-}
-
+}

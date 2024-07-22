@@ -1,0 +1,52 @@
+{
+    "CU0PAyzb": {
+        "checksum": "3b9f61f8ad493f080d1fc96ef8acd5c3005827555d0f47d37baa9e563a971fe97142c6b9c0792b5b0c8e1caaaa2392ec49d98266fe88eaca06058edb445e2788",
+        "client_side_only": false,
+        "name": "Paxi",
+        "pinned": false,
+        "project_id": "CU0PAyzb",
+        "selected": true,
+        "version": "1.20-Forge-4.0",
+        "version_id": "C7buFh0l"
+    },
+    "Ua7DFN59": {
+        "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
+        "client_side_only": false,
+        "name": "YUNG's API",
+        "pinned": false,
+        "project_id": "Ua7DFN59",
+        "selected": false,
+        "version": "1.20-Forge-4.0.5",
+        "version_id": "aMs83SRk"
+    },
+    "V5ujR2yw": {
+        "checksum": "76be986150e10dc05a2b4b74863404de85b3ead72470f341dbd47eaca2203b313fbbfa0ee41b53eee3e3c114da1b777b5bbc201aa73dfcf899ab83265bfd849c",
+        "client_side_only": false,
+        "name": "Valkyrien Skies",
+        "pinned": false,
+        "project_id": "V5ujR2yw",
+        "selected": true,
+        "version": "1.20.1-forge-2.3.0-beta.5",
+        "version_id": "JmkvaGb4"
+    },
+    "WtcuxDNN": {
+        "checksum": "88713ab73bce218f23247c5b06915fe381c6868851b038c6ce06ac8aa902e02d1bc4954f541e0c30c15b672c3917dbecb46e5a48e6ada655735b0df8bfd5f92d",
+        "client_side_only": false,
+        "name": "Ecospherical Expansion",
+        "pinned": false,
+        "project_id": "WtcuxDNN",
+        "selected": true,
+        "version": "2.4.6",
+        "version_id": "5lXIJiba"
+    },
+    "ordsPcFz": {
+        "checksum": "7251fd60cd3929ec11b1709807c0d3d24c33f341dfb756eb59c4dc6db392402213ab062736f9354ebdfb184e4ed1df7b589bafbd491134f47023b9f0135e5ac4",
+        "client_side_only": false,
+        "name": "Kotlin for Forge",
+        "pinned": false,
+        "project_id": "ordsPcFz",
+        "selected": false,
+        "version": "4.11.0",
+        "version_id": "hmeyC41q"
+    }
+}

@@ -59,6 +59,16 @@
         "version": "5.0.1",
         "version_id": "39yHBKs1"
     },
+    "Tkikq67H": {
+        "checksum": "a9ee3b255625a794164353880120a4e7c0799023e0b6bb0a571b538fa32e89de735e2a2d1f3699aa43999c34e3124edcb72a8187a02b6b412f9e1022937cf19b",
+        "client_side_only": false,
+        "name": "Regions Unexplored",
+        "pinned": false,
+        "project_id": "Tkikq67H",
+        "selected": true,
+        "version": "0.5.5+1.20.1",
+        "version_id": "Vrzha1ED"
+    },
     "Ua7DFN59": {
         "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
         "client_side_only": false,
@@ -88,6 +98,16 @@
         "selected": true,
         "version": "2.4.6",
         "version_id": "5lXIJiba"
+    },
+    "kkmrDlKT": {
+        "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
+        "client_side_only": false,
+        "name": "TerraBlender",
+        "pinned": false,
+        "project_id": "kkmrDlKT",
+        "selected": false,
+        "version": "3.0.1.7",
+        "version_id": "HI0iCUpi"
     },
     "nmDcB62a": {
         "checksum": "7ff44b4ae8d8c25a80862d209d9af0e2249bc6e614feaef6c8b83e9a68e0a50fa17b423e1704e4b19e6dd357864b55472dd16758b3d6a3f66c3da54c57643d33",
@@ -128,5 +148,15 @@
         "selected": true,
         "version": "6.0.1",
         "version_id": "DG5Fn9Sz"
+    },
+    "wXiGiyGX": {
+        "checksum": "0f13ec6982b74d44684474f08f1da6383957c6b68306913bf75003eec6b90fb16cbdaaacf9017ff228d335a99d72d5ffc3f1a28547915a293f13a68b83b48580",
+        "client_side_only": false,
+        "name": "Amplified Nether",
+        "pinned": false,
+        "project_id": "wXiGiyGX",
+        "selected": true,
+        "version": "1.2.5",
+        "version_id": "qO36KEYQ"
     }
 }

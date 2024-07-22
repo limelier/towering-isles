@@ -29,6 +29,16 @@
         "version": "1.20-Forge-4.0",
         "version_id": "C7buFh0l"
     },
+    "EO8aSHxh": {
+        "checksum": "3917fb31f64d4571fc9e0a747b50d345f330199ac561751383c6c21dc82b5783c1327301da3c5e5002ee3a60f4bb1a860535f9f9fb7953ff91608904540fd2a9",
+        "client_side_only": false,
+        "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
+        "pinned": false,
+        "project_id": "EO8aSHxh",
+        "selected": true,
+        "version": "1.20.1-forge-1.5.1-beta.3",
+        "version_id": "9gbnRz82"
+    },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
         "client_side_only": false,

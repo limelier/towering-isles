@@ -26,11 +26,11 @@
 	toggle_baobab_savanna = false
 	toggle_barley_fields = true
 	toggle_bayou = false
-	toggle_blackwood_taiga = true
+	toggle_blackwood_taiga = false
 	toggle_boreal_taiga = false
 	toggle_chalk_cliffs = true
 	toggle_clover_plains = true
-	toggle_cold_boreal_taiga = true
+	toggle_cold_boreal_taiga = false
 	toggle_cold_deciduous_forest = true
 	toggle_cold_river = false
 	toggle_deciduous_forest = true

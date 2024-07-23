@@ -159,6 +159,16 @@
         "version": "1.20.1-1.11.2-forge",
         "version_id": "Og40jCNX"
     },
+    "iWMeHtdv": {
+        "checksum": "a39d9a487f05a1fb8b12be97b31251ace797dd63de331e472623abb62a3b38b7042672ca5ae1ae891d8fd102cb6dc883eae73c9f937c9b3030036d7e75c38a95",
+        "client_side_only": false,
+        "name": "No Void Structures",
+        "pinned": false,
+        "project_id": "iWMeHtdv",
+        "selected": true,
+        "version": "1.0.0",
+        "version_id": "sNMfFTww"
+    },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
         "client_side_only": false,

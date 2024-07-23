@@ -179,6 +179,26 @@
         "version": "2.4.6",
         "version_id": "5lXIJiba"
     },
+    "Z2mXHnxP": {
+        "checksum": "bec16551098648de28f72287f95d6bdca7b688662bf5d29c27d2b2eb0e60291adf41322704f304a4db6555bb380d33f26fb6f74b2f7c14b5a2357ba1211795ab",
+        "client_side_only": false,
+        "name": "YUNG's Better Nether Fortresses",
+        "pinned": false,
+        "project_id": "Z2mXHnxP",
+        "selected": true,
+        "version": "1.20-Forge-2.0.6",
+        "version_id": "2nUEz0zq"
+    },
+    "ZYgyPyfq": {
+        "checksum": "59b86035706bcfa8c636079489f934343f42f1e727e00d368ddb1eda34aa4dfe8fc8a71f356f478a0854573f0118c5752ce7e9be0cad3f176492d4449fa36df1",
+        "client_side_only": false,
+        "name": "YUNG's Extras",
+        "pinned": false,
+        "project_id": "ZYgyPyfq",
+        "selected": true,
+        "version": "1.20-Forge-4.0.3",
+        "version_id": "h4m8J7w8"
+    },
     "fPetb5Kh": {
         "checksum": "17de1bbfadeb896501dc2db97606eb3e37adb7b5c0116d7e62238aa3d1d1c277f9481b3f40425b395107b291c24eb7e934e203c319736288b46e970263536d27",
         "client_side_only": false,
@@ -259,6 +279,16 @@
         "version": "0.3.27+mc1.20.1",
         "version_id": "ylN2s7IP"
     },
+    "t5FRdP87": {
+        "checksum": "0c460955c9a78beda0a71d770954e09e55f7ab3423af51a852652506f75cc329856cbd65ba7190d40aad1021e30041a091668f9781a276a0749d430d4d8a064b",
+        "client_side_only": false,
+        "name": "YUNG's Better Witch Huts",
+        "pinned": false,
+        "project_id": "t5FRdP87",
+        "selected": true,
+        "version": "1.20-Forge-3.0.3",
+        "version_id": "mwlYB7rq"
+    },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",
         "client_side_only": false,
@@ -279,4 +309,5 @@
         "version": "1.2.5",
         "version_id": "qO36KEYQ"
     }
-}
+}
+

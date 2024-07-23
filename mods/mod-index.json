@@ -19,6 +19,26 @@
         "version": "1.2.18+1.20.4-forge",
         "version_id": "XgQjD9fF"
     },
+    "Aqlf1Shp": {
+        "checksum": "c92ebe2c7425bec3181673c17970804a9228d65521eb98c7e5e74e7a79bab50c07053d1599026baeb39123a1b3d346f74f5b50b1bae954e385f7930fa8e3ad40",
+        "client_side_only": false,
+        "name": "Forgified Fabric API",
+        "pinned": false,
+        "project_id": "Aqlf1Shp",
+        "selected": false,
+        "version": "0.92.2+1.11.8+1.20.1",
+        "version_id": "D3EZO1Kr"
+    },
+    "BgNRHReB": {
+        "checksum": "2f5f0246e189e8d8622f1bbe26214910f7fb69470956d08075e0d2a2aca29fc2ca94894fa7e9ef9ba81417e468347d18f053078f883fd7987126902755db2f83",
+        "client_side_only": false,
+        "name": "BCLib",
+        "pinned": false,
+        "project_id": "BgNRHReB",
+        "selected": false,
+        "version": "3.0.14",
+        "version_id": "TPC86Pyz"
+    },
     "CU0PAyzb": {
         "checksum": "3b9f61f8ad493f080d1fc96ef8acd5c3005827555d0f47d37baa9e563a971fe97142c6b9c0792b5b0c8e1caaaa2392ec49d98266fe88eaca06058edb445e2788",
         "client_side_only": false,
@@ -28,6 +48,16 @@
         "selected": true,
         "version": "1.20-Forge-4.0",
         "version_id": "C7buFh0l"
+    },
+    "HaaH232J": {
+        "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
+        "client_side_only": true,
+        "name": "Yeetus Experimentus",
+        "pinned": false,
+        "project_id": "HaaH232J",
+        "selected": true,
+        "version": "build.4+mc1.20.1",
+        "version_id": "LgPc1FbC"
     },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
@@ -39,6 +69,26 @@
         "version": "2.0.3+mc1.20-1.20.1",
         "version_id": "EuQErqo9"
     },
+    "LPjGiSO4": {
+        "checksum": "bcfdb384868daa93ab9672303a5d58b1e1195305e50b297edf806d118f826c79c87df83061e96af5254e2660100d510f9d9a7c7bed070441570f44b0f9e40040",
+        "client_side_only": false,
+        "name": "Nullscape",
+        "pinned": false,
+        "project_id": "LPjGiSO4",
+        "selected": true,
+        "version": "1.2.7",
+        "version_id": "IGSIk1BM"
+    },
+    "MVARlG2f": {
+        "checksum": "031f1bb90dcf6d06d70a0d938c99bb8c670bbf849eaf4f9cbf359f1128d994f0c22f940e9810ec9dd011e31f08abdf2eae0284d9eb5cddc5031c519cfbaf367f",
+        "client_side_only": false,
+        "name": "Zeta",
+        "pinned": false,
+        "project_id": "MVARlG2f",
+        "selected": false,
+        "version": "1.20.1-1.0-19",
+        "version_id": "VDiwJ2Xr"
+    },
     "RfFxanNh": {
         "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
         "client_side_only": false,
@@ -48,6 +98,16 @@
         "selected": true,
         "version": "5.0.1",
         "version_id": "39yHBKs1"
+    },
+    "Tkikq67H": {
+        "checksum": "a1e3d77562c232fd44979c3d47b0c77a2d26a2bfaeb2c8284326f4826180ecc87ad6f7f1d30d1e75968ca2aae3ca6dc6a20768e4994e37b9d37519ac7e9fce90",
+        "client_side_only": false,
+        "name": "Regions Unexplored",
+        "pinned": false,
+        "project_id": "Tkikq67H",
+        "selected": true,
+        "version": "F-0.5.6+1.20.1",
+        "version_id": "XTrgsfIB"
     },
     "Ua7DFN59": {
         "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
@@ -79,6 +139,26 @@
         "version": "2.4.6",
         "version_id": "5lXIJiba"
     },
+    "fPetb5Kh": {
+        "checksum": "17de1bbfadeb896501dc2db97606eb3e37adb7b5c0116d7e62238aa3d1d1c277f9481b3f40425b395107b291c24eb7e934e203c319736288b46e970263536d27",
+        "client_side_only": false,
+        "name": "Nature's Compass",
+        "pinned": false,
+        "project_id": "fPetb5Kh",
+        "selected": true,
+        "version": "1.20.1-1.11.2-forge",
+        "version_id": "Og40jCNX"
+    },
+    "kkmrDlKT": {
+        "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
+        "client_side_only": false,
+        "name": "TerraBlender",
+        "pinned": false,
+        "project_id": "kkmrDlKT",
+        "selected": true,
+        "version": "3.0.1.7",
+        "version_id": "HI0iCUpi"
+    },
     "nmDcB62a": {
         "checksum": "7ff44b4ae8d8c25a80862d209d9af0e2249bc6e614feaef6c8b83e9a68e0a50fa17b423e1704e4b19e6dd357864b55472dd16758b3d6a3f66c3da54c57643d33",
         "client_side_only": false,
@@ -98,6 +178,16 @@
         "selected": false,
         "version": "4.11.0",
         "version_id": "hmeyC41q"
+    },
+    "qnQsVE2z": {
+        "checksum": "3e299eed6d1f16c9b79e352653add4a1a8fcb29d6307f34c7b8f46f579bef0c66401c4549fb6ff3b0662bcd1ea9e4fa56f63938a81f2b1e20ddab57d92b2c471",
+        "client_side_only": false,
+        "name": "Quark",
+        "pinned": false,
+        "project_id": "qnQsVE2z",
+        "selected": true,
+        "version": "4.0-458",
+        "version_id": "J3etK5WK"
     },
     "sk9rgfiA": {
         "checksum": "2c3c7294cbbaf739f0d04739cc56f18d4734060cf25935a93c625d6d98bf1292687a3a6bf948e5461747e27895297ae57451af0096a388117bb7750630cb4cc2",
@@ -119,4 +209,5 @@
         "version": "6.0.1",
         "version_id": "DG5Fn9Sz"
     }
-}
+}
+

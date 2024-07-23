@@ -49,6 +49,16 @@
         "version": "1.20-Forge-4.0",
         "version_id": "C7buFh0l"
     },
+    "EO8aSHxh": {
+        "checksum": "3917fb31f64d4571fc9e0a747b50d345f330199ac561751383c6c21dc82b5783c1327301da3c5e5002ee3a60f4bb1a860535f9f9fb7953ff91608904540fd2a9",
+        "client_side_only": false,
+        "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
+        "pinned": false,
+        "project_id": "EO8aSHxh",
+        "selected": true,
+        "version": "1.20.1-forge-1.5.1-beta.3",
+        "version_id": "9gbnRz82"
+    },
     "HaaH232J": {
         "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
         "client_side_only": true,
@@ -208,6 +218,16 @@
         "selected": true,
         "version": "6.0.1",
         "version_id": "DG5Fn9Sz"
+    },
+    "wXiGiyGX": {
+        "checksum": "0f13ec6982b74d44684474f08f1da6383957c6b68306913bf75003eec6b90fb16cbdaaacf9017ff228d335a99d72d5ffc3f1a28547915a293f13a68b83b48580",
+        "client_side_only": false,
+        "name": "Amplified Nether",
+        "pinned": false,
+        "project_id": "wXiGiyGX",
+        "selected": true,
+        "version": "1.2.5",
+        "version_id": "qO36KEYQ"
     }
 }
 

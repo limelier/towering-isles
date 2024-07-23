@@ -69,6 +69,16 @@
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
     },
+    "GchcoXML": {
+        "checksum": "f3ee8bb8e53d117278c141e71d4ceaee9f162171f1a8cadd7419dd2a9d9ea02e0317972876768946769e33f2e3312c8c10a5b7c4038becaf2dc60cb063649ed6",
+        "client_side_only": true,
+        "name": "Oculus",
+        "pinned": false,
+        "project_id": "GchcoXML",
+        "selected": true,
+        "version": "1.20.1-1.7.0",
+        "version_id": "vVuYfukI"
+    },
     "HaaH232J": {
         "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
         "client_side_only": true,
@@ -199,6 +209,16 @@
         "version": "3.0.1.7",
         "version_id": "HI0iCUpi"
     },
+    "ndHYMY2K": {
+        "checksum": "64ce64a1ccb1ef7ae5c36c978d95aedee41a20810a91383d681694f944268a0cba1264f0c304fb2f3a2e5a07a1ecad38fdb6e862a16028d7c3b4078e38669aac",
+        "client_side_only": true,
+        "name": "Iris & Oculus Flywheel Compat",
+        "pinned": false,
+        "project_id": "ndHYMY2K",
+        "selected": true,
+        "version": "oculus-1.20.1-0.2.5",
+        "version_id": "RCITAe7H"
+    },
     "nmDcB62a": {
         "checksum": "7ff44b4ae8d8c25a80862d209d9af0e2249bc6e614feaef6c8b83e9a68e0a50fa17b423e1704e4b19e6dd357864b55472dd16758b3d6a3f66c3da54c57643d33",
         "client_side_only": false,
@@ -230,14 +250,14 @@
         "version_id": "J3etK5WK"
     },
     "sk9rgfiA": {
-        "checksum": "2c3c7294cbbaf739f0d04739cc56f18d4734060cf25935a93c625d6d98bf1292687a3a6bf948e5461747e27895297ae57451af0096a388117bb7750630cb4cc2",
+        "checksum": "86f999fb126ca0d2717d08b29ea553a7815b60977ca572b99fb8b669571ce44bd4b9d3fc5a840e9839fb30a5f4a578ffee9553f024655cec89bf08bde7942053",
         "client_side_only": true,
         "name": "Embeddium",
         "pinned": false,
         "project_id": "sk9rgfiA",
         "selected": true,
-        "version": "0.3.25+mc1.20.1",
-        "version_id": "FI3Xe9Px"
+        "version": "0.3.27+mc1.20.1",
+        "version_id": "ylN2s7IP"
     },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",

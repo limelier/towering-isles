@@ -89,6 +89,16 @@
         "version": "build.4+mc1.20.1",
         "version_id": "LgPc1FbC"
     },
+    "Hcy2DFKF": {
+        "checksum": "5c5ad4d1ccc6bbcab3d2809604b069198fe3ae705fe1717d75eaf5e4ba609d8ec8e3b0a6b085a0a732a3b46053b61329431010f3febd5e91509fec21cdc96d3e",
+        "client_side_only": true,
+        "name": "YUNG's Menu Tweaks",
+        "pinned": false,
+        "project_id": "Hcy2DFKF",
+        "selected": true,
+        "version": "1.20.1-Forge-1.0.2",
+        "version_id": "3FmFt8jI"
+    },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
         "client_side_only": false,
@@ -309,5 +319,4 @@
         "version": "1.2.5",
         "version_id": "qO36KEYQ"
     }
-}
-
+}

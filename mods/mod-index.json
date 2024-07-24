@@ -29,6 +29,16 @@
         "version": "1.2.18+1.20.4-forge",
         "version_id": "XgQjD9fF"
     },
+    "6iTJugQR": {
+        "checksum": "8374ea8fca00d2b275bb9211fb31983aac2d486ba8799a6a676f46136098e6de226b9dd6c69fb513caffba20fa7c5529f8f30e1942d0df0c9e6ad975d9d63416",
+        "client_side_only": false,
+        "name": "Amendments",
+        "pinned": false,
+        "project_id": "6iTJugQR",
+        "selected": true,
+        "version": "1.20-1.2.8",
+        "version_id": "rygiK2go"
+    },
     "84USeAvk": {
         "checksum": "146bc6742be12f32bea00ecb6d7310bd9b433c2bbca8e437d8371529664b4f7c1826b198bfee0ad0be9f656f38ac628d621cf843c1abc25f75ecdb497c226576",
         "client_side_only": false,
@@ -409,6 +419,16 @@
         "version": "4.0-458",
         "version_id": "J3etK5WK"
     },
+    "rGWEHQrP": {
+        "checksum": "2abd17720658682e803d794f07e155a1aa16dd382569621f538e809efe207f14e381e66202d2fc66807e59fa7f33d78773ad3850020f9522e9fe2bcf546d467e",
+        "client_side_only": false,
+        "name": "Small Ships",
+        "pinned": false,
+        "project_id": "rGWEHQrP",
+        "selected": true,
+        "version": "2.0.0-b1.3.1",
+        "version_id": "xZcRn9eT"
+    },
     "sk9rgfiA": {
         "checksum": "86f999fb126ca0d2717d08b29ea553a7815b60977ca572b99fb8b669571ce44bd4b9d3fc5a840e9839fb30a5f4a578ffee9553f024655cec89bf08bde7942053",
         "client_side_only": true,
@@ -468,6 +488,16 @@
         "selected": true,
         "version": "1.2.5",
         "version_id": "qO36KEYQ"
+    },
+    "x3HZvrj6": {
+        "checksum": "0b004351567710de74ee6f59b886a4b2244bc7726e3120a860dd6ccebbd40547420e310979ccbda8bfaaea1aa4cf339588fb99c0c483756b98e23a5f64f79a36",
+        "client_side_only": false,
+        "name": "Immersive Aircraft",
+        "pinned": false,
+        "project_id": "x3HZvrj6",
+        "selected": true,
+        "version": "1.0.1+1.20.1",
+        "version_id": "Tju2o3p2"
     },
     "zi3Fnfmc": {
         "checksum": "75e4883affff9cb2e578ebc474da18b721e7c265b96fecf0d085de4cf149fe459aada468956685e916cdc1091ad32882096825a63d661e7f67f1b5d9544fcd16",

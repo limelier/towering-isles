@@ -93,7 +93,14 @@
       "regions_unexplored:stone_bud_dense",
       "regions_unexplored:white_trillium",
       "regions_unexplored:fallen_maple_tree",
-      "regions_unexplored:maple_shrub_mix"
+      "regions_unexplored:maple_shrub_mix",
+      "regions_unexplored:giant_green_bioshroom",
+      "regions_unexplored:giant_blue_bioshroom",
+      "regions_unexplored:cave_grass",
+      "regions_unexplored:cave_tall_grass",
+      "regions_unexplored:blue_bioshroom",
+      "regions_unexplored:green_bioshroom",
+      "regions_unexplored:pink_bioshroom"
     ],
     [
       "minecraft:freeze_top_layer"

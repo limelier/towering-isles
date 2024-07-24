@@ -19,6 +19,16 @@
         "version": "0.12.3",
         "version_id": "NhMILNAm"
     },
+    "4I1XuqiY": {
+        "checksum": "3254ab10ca652134c00545bc45f3d48535b5d0893f854a640edd6b1e3aa75c8fb44a50e84021f2963066c95830a631c4232ee1f86f2f49618424e76f08834365",
+        "client_side_only": true,
+        "name": "[EMF] Entity Model Features",
+        "pinned": false,
+        "project_id": "4I1XuqiY",
+        "selected": true,
+        "version": "2.1.3",
+        "version_id": "7Jih1uiK"
+    },
     "5ZwdcRci": {
         "checksum": "c6f966e43101646744d13a05a912987618175512c5929172e9580a7bd115b33cc9d139de67ae0e5e2c40cbdee9d7881dcaaa7cb3cc9f5cc174e30adfb996ffb6",
         "client_side_only": true,
@@ -58,6 +68,16 @@
         "selected": true,
         "version": "2.0+mod",
         "version_id": "Te91BHKO"
+    },
+    "BVzZfTc1": {
+        "checksum": "21b853be9d91c946eaa702ce6c0ad2675c0dc699752884803cf95804bf2f205b4ca18edc59609e22fe895315144e3ded4adfbf6effc4e0333c705a75441cb59d",
+        "client_side_only": true,
+        "name": "[ETF] Entity Texture Features",
+        "pinned": false,
+        "project_id": "BVzZfTc1",
+        "selected": true,
+        "version": "6.1.1",
+        "version_id": "wzrdfTio"
     },
     "BgNRHReB": {
         "checksum": "2f5f0246e189e8d8622f1bbe26214910f7fb69470956d08075e0d2a2aca29fc2ca94894fa7e9ef9ba81417e468347d18f053078f883fd7987126902755db2f83",
@@ -499,5 +519,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

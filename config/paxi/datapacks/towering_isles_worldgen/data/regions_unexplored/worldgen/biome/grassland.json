@@ -87,7 +87,13 @@
       "regions_unexplored:oak_tree_shrub_sparse",
       "regions_unexplored:tulips",
       "regions_unexplored:grass",
-      "regions_unexplored:windswept_grass"
+      "regions_unexplored:windswept_grass",
+      "regions_unexplored:mineral_pool",
+      "regions_unexplored:bladed_grass",
+      "regions_unexplored:corpse_flower",
+      "regions_unexplored:duskmelon",
+      "regions_unexplored:dusktrap",
+      "regions_unexplored:dropleaf"
     ],
     [
       "minecraft:freeze_top_layer"

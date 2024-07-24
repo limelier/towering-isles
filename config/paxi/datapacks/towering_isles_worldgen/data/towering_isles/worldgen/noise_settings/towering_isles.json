@@ -42,7 +42,11 @@
       "shift_y": 0,
       "shift_z": "minecraft:shift_z"
     },
-    "continents": 0.115,
+    "continents": {
+      "type": "minecraft:mul",
+      "argument1": 10,
+      "argument2": "towering_isles:ocean_noise"
+    },
     "erosion": "minecraft:overworld_large_biomes/erosion",
     "depth": {
       "type": "minecraft:add",
@@ -111,12 +115,7 @@
             }
           }
         },
-        "argument2": {
-          "type": "minecraft:noise",
-          "noise": "minecraft:gravel",
-          "xz_scale": 0.3,
-          "y_scale": 0.1
-        }
+        "argument2": "towering_isles:ocean_noise"
       },
       "argument2": {
         "type": "minecraft:y_clamped_gradient",

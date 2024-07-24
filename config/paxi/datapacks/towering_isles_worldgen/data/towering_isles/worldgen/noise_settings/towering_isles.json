@@ -74,7 +74,7 @@
       "when_in_range": {
         "type": "minecraft:y_clamped_gradient",
         "from_y": -64,
-        "to_y": 320,
+        "to_y": 160,
         "from_value": 1.5,
         "to_value": -1.5
       },

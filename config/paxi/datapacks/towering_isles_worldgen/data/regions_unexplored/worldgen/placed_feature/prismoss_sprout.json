@@ -1,0 +1,24 @@
+{
+  "feature": "regions_unexplored:patch_prismoss_sprout",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 25
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": -48
+        },
+        "max_inclusive": {
+          "absolute": 62
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

@@ -1,4 +1,14 @@
 {
+    "2BwBOmBQ": {
+        "checksum": "cc4ec2183c1d18967145959b629e2d5f122dfff2ea26bac3b76bb07defb729d1bb62fb9655377deca535d78b4e42f6e9d4e916fe91925ab7a19dffec5170c39e",
+        "client_side_only": false,
+        "name": "YUNG's Better End Island",
+        "pinned": false,
+        "project_id": "2BwBOmBQ",
+        "selected": true,
+        "version": "1.20-Forge-2.0.6",
+        "version_id": "Izqhg3Va"
+    },
     "2gvRmQXx": {
         "checksum": "2c857bdc6a7ba0fdfac0875a9aade7cf3247d9f62b25a95c237051e674c05a0028ffdfe6ef8b5cc431b943a28a508cb1d51d2919dac1be6739e8b5b99f9ae8f7",
         "client_side_only": false,
@@ -39,6 +49,16 @@
         "version": "0.92.2+1.11.8+1.20.1",
         "version_id": "D3EZO1Kr"
     },
+    "BORRKwOq": {
+        "checksum": "c298ee9db61aa6dcb821c84b221035a94b45cc1b369e00a92ae6250fe42e7c10c8d3c735e799babf0252061b11f0fc5da144725cd43e66f70f7ef8b82c39824e",
+        "client_side_only": false,
+        "name": "CTOV - Domesticated Innovation Compat",
+        "pinned": false,
+        "project_id": "BORRKwOq",
+        "selected": true,
+        "version": "2.0+mod",
+        "version_id": "Te91BHKO"
+    },
     "BgNRHReB": {
         "checksum": "2f5f0246e189e8d8622f1bbe26214910f7fb69470956d08075e0d2a2aca29fc2ca94894fa7e9ef9ba81417e468347d18f053078f883fd7987126902755db2f83",
         "client_side_only": false,
@@ -58,6 +78,16 @@
         "selected": true,
         "version": "1.20-Forge-4.0",
         "version_id": "C7buFh0l"
+    },
+    "CdRC4fyI": {
+        "checksum": "65ec47de33918f7c9ec0c938e9586b7bd378677c1c64a9011eec807176d0b3345680fbbb6af56078aa33544708c3eb8feeeccf8d71fc138dc685fd076e20e1dd",
+        "client_side_only": false,
+        "name": "CTOV - Farmer Delight Compat",
+        "pinned": false,
+        "project_id": "CdRC4fyI",
+        "selected": true,
+        "version": "2.1+mod",
+        "version_id": "qWJ0YcQq"
     },
     "EO8aSHxh": {
         "checksum": "3917fb31f64d4571fc9e0a747b50d345f330199ac561751383c6c21dc82b5783c1327301da3c5e5002ee3a60f4bb1a860535f9f9fb7953ff91608904540fd2a9",
@@ -79,6 +109,16 @@
         "version": "1.20.1-1.7.0",
         "version_id": "vVuYfukI"
     },
+    "HSfsxuTo": {
+        "checksum": "455a5238e56d3482a6de2a21a3cfbb3fff0f18acafcf8847377f11c738703249941d9b2e4f3294ea15381f1d9b54ebae4cc21ee1739342cf219b110169bcaced",
+        "client_side_only": false,
+        "name": "Explorify",
+        "pinned": false,
+        "project_id": "HSfsxuTo",
+        "selected": true,
+        "version": "1.6.1",
+        "version_id": "ovtuGAG4"
+    },
     "HaaH232J": {
         "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
         "client_side_only": true,
@@ -98,6 +138,16 @@
         "selected": true,
         "version": "1.20.1-Forge-1.0.2",
         "version_id": "3FmFt8jI"
+    },
+    "IAnP4np7": {
+        "checksum": "4b1514f5adf1248e550fb93b2a1db69886cda3e911cdf2ff0a8f3ee77c30df2982bcd90605361010c64601c0c5ea34c1a4991852b1741629350d9df5f3a4bf37",
+        "client_side_only": false,
+        "name": "Create: Structures",
+        "pinned": false,
+        "project_id": "IAnP4np7",
+        "selected": true,
+        "version": "0.1.1",
+        "version_id": "XALEBs0a"
     },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
@@ -138,6 +188,16 @@
         "selected": false,
         "version": "1.20.1-1.0-19",
         "version_id": "VDiwJ2Xr"
+    },
+    "R2OftAxM": {
+        "checksum": "7ef7759227e6f64d80b998462b54ec02be1ca6be7be1c8aef4426894758c211890c53965f9ed10ee68d9321cf8ccbadaeb7c26b50056ed577cdb1ea753c4e4ba",
+        "client_side_only": false,
+        "name": "Farmer's Delight",
+        "pinned": false,
+        "project_id": "R2OftAxM",
+        "selected": true,
+        "version": "1.20.1-1.2.4",
+        "version_id": "AxgOboGq"
     },
     "RfFxanNh": {
         "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
@@ -189,6 +249,16 @@
         "version": "2.4.6",
         "version_id": "5lXIJiba"
     },
+    "XaDC71GB": {
+        "checksum": "7177365a0a134d501d32203104528ff397d390cce827e0aa80eeb23a5742f864bc3bc0623ba6fbe220bd323411799950afec52b5d57376dd4f38e0691a0a386c",
+        "client_side_only": false,
+        "name": "Lithostitched",
+        "pinned": false,
+        "project_id": "XaDC71GB",
+        "selected": false,
+        "version": "1.1.6",
+        "version_id": "leDMJ3Pd"
+    },
     "Z2mXHnxP": {
         "checksum": "bec16551098648de28f72287f95d6bdca7b688662bf5d29c27d2b2eb0e60291adf41322704f304a4db6555bb380d33f26fb6f74b2f7c14b5a2357ba1211795ab",
         "client_side_only": false,
@@ -209,6 +279,26 @@
         "version": "1.20-Forge-4.0.3",
         "version_id": "h4m8J7w8"
     },
+    "Zi15pXgt": {
+        "checksum": "f6f79dfbe78eb6b1c1928b87cfb7626f7b11819f8577a61f7aa08d334ae526f49bad6cc2f004f25bbcabfa2964147d1bf7c99a1291dd77150b84aab5fda0e303",
+        "client_side_only": false,
+        "name": "CTOV - Immersive Engineering Compat",
+        "pinned": false,
+        "project_id": "Zi15pXgt",
+        "selected": true,
+        "version": "2.0+mod",
+        "version_id": "6zcErTq1"
+    },
+    "fFEIiSDQ": {
+        "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
+        "client_side_only": false,
+        "name": "Supplementaries",
+        "pinned": false,
+        "project_id": "fFEIiSDQ",
+        "selected": true,
+        "version": "1.20-2.8.17",
+        "version_id": "KAx6eLAF"
+    },
     "fPetb5Kh": {
         "checksum": "17de1bbfadeb896501dc2db97606eb3e37adb7b5c0116d7e62238aa3d1d1c277f9481b3f40425b395107b291c24eb7e934e203c319736288b46e970263536d27",
         "client_side_only": false,
@@ -218,6 +308,26 @@
         "selected": true,
         "version": "1.20.1-1.11.2-forge",
         "version_id": "Og40jCNX"
+    },
+    "fgmhI8kH": {
+        "checksum": "df0673b6bd208f6e0db8bb4b58bed973c6b28a87e174c283fa05adbf9c40d412caf09e8196aca54db3ab0f56d83ae93221cf0dec61248b666ef0a168b3485bc9",
+        "client_side_only": false,
+        "name": "ChoiceTheorem's Overhauled Village",
+        "pinned": false,
+        "project_id": "fgmhI8kH",
+        "selected": true,
+        "version": "3.4.5",
+        "version_id": "Hxo3cge6"
+    },
+    "h5JyLdjM": {
+        "checksum": "dc4330c78056fbc4d755616a15bc562c1ca901eda9d1f14819436dbdb04585a6c18ddef06304f2a2ed969d7696bdb26e657d73856571882e45c055b6d72fb097",
+        "client_side_only": false,
+        "name": "Domestication Innovation",
+        "pinned": false,
+        "project_id": "h5JyLdjM",
+        "selected": true,
+        "version": "1.7.0",
+        "version_id": "dbdSXAji"
     },
     "iWMeHtdv": {
         "checksum": "a39d9a487f05a1fb8b12be97b31251ace797dd63de331e472623abb62a3b38b7042672ca5ae1ae891d8fd102cb6dc883eae73c9f937c9b3030036d7e75c38a95",
@@ -229,6 +339,16 @@
         "version": "1.0.0",
         "version_id": "sNMfFTww"
     },
+    "jJfV67b1": {
+        "checksum": "54afd794f0386911987eaa166f898baa3db910dc0423d3dd5fbe894ddf7afadab7174911e088638e63056f93af02438198282f053f581fe30c6a7f64538e8b91",
+        "client_side_only": false,
+        "name": "Citadel",
+        "pinned": false,
+        "project_id": "jJfV67b1",
+        "selected": false,
+        "version": "2.5.6",
+        "version_id": "lAATACbp"
+    },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
         "client_side_only": false,
@@ -238,6 +358,16 @@
         "selected": true,
         "version": "3.0.1.7",
         "version_id": "HI0iCUpi"
+    },
+    "l9fldtN4": {
+        "checksum": "12c78c3c1921ce9ac13194726cfd4b049cc7458c623f02c7f7b245e428ba0cebcbdfda82f94e1127daf7fba136d0e71fb9a4f6b0ba26b8e89bac9468fe601e32",
+        "client_side_only": false,
+        "name": "CTOV - Create: Structures",
+        "pinned": false,
+        "project_id": "l9fldtN4",
+        "selected": true,
+        "version": "1.0+mod",
+        "version_id": "hwClzDIs"
     },
     "ndHYMY2K": {
         "checksum": "64ce64a1ccb1ef7ae5c36c978d95aedee41a20810a91383d681694f944268a0cba1264f0c304fb2f3a2e5a07a1ecad38fdb6e862a16028d7c3b4078e38669aac",
@@ -299,6 +429,26 @@
         "version": "1.20-Forge-3.0.3",
         "version_id": "mwlYB7rq"
     },
+    "tIm2nV03": {
+        "checksum": "c9a8ca06e9c5db92f9b7bca766d94c0159b6f4c78000d90a9fe540b80982f2e0af5e223bda0bb5dfe2a4acb46670598f05178bd2d1fe73e675ba918b455a77c4",
+        "client_side_only": false,
+        "name": "Immersive Engineering",
+        "pinned": false,
+        "project_id": "tIm2nV03",
+        "selected": true,
+        "version": "1.20.1-10.1.0-171",
+        "version_id": "MAqXk6P8"
+    },
+    "twkfQtEc": {
+        "checksum": "1ae794de4c4e7a83b625619db8f4a386c5f1558f4ea9ade093ef039c76c5315ea0612001731fa51d2d293a7f5b2e77518b9398e2bc0b8ff781556fcf0d394431",
+        "client_side_only": false,
+        "name": "Moonlight Lib",
+        "pinned": false,
+        "project_id": "twkfQtEc",
+        "selected": false,
+        "version": "forge_1.20-2.12.9",
+        "version_id": "DJ6tP5np"
+    },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",
         "client_side_only": false,
@@ -318,5 +468,15 @@
         "selected": true,
         "version": "1.2.5",
         "version_id": "qO36KEYQ"
+    },
+    "zi3Fnfmc": {
+        "checksum": "75e4883affff9cb2e578ebc474da18b721e7c265b96fecf0d085de4cf149fe459aada468956685e916cdc1091ad32882096825a63d661e7f67f1b5d9544fcd16",
+        "client_side_only": false,
+        "name": "Etched",
+        "pinned": false,
+        "project_id": "zi3Fnfmc",
+        "selected": true,
+        "version": "3.0.2",
+        "version_id": "M178L4Do"
     }
 }

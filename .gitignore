@@ -2,3 +2,4 @@ localpack.toml
 
 # config files that update themselves for no reason
 config/fabric/indigo-renderer.properties
+config/oculus.properties

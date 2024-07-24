@@ -70,14 +70,14 @@
         "version_id": "Te91BHKO"
     },
     "BVzZfTc1": {
-        "checksum": "21b853be9d91c946eaa702ce6c0ad2675c0dc699752884803cf95804bf2f205b4ca18edc59609e22fe895315144e3ded4adfbf6effc4e0333c705a75441cb59d",
+        "checksum": "eef0cf3649f8227ba7974e929c48f54c5132414a1d382415cf8a34985a23e83765fdf42c5750731f820f3f97f2beaa3a9e8182f83d5f4d96eec9c50f5b27d0d4",
         "client_side_only": true,
         "name": "[ETF] Entity Texture Features",
         "pinned": false,
         "project_id": "BVzZfTc1",
         "selected": true,
-        "version": "6.1.1",
-        "version_id": "wzrdfTio"
+        "version": "6.1.3",
+        "version_id": "VzqvqFHV"
     },
     "BgNRHReB": {
         "checksum": "2f5f0246e189e8d8622f1bbe26214910f7fb69470956d08075e0d2a2aca29fc2ca94894fa7e9ef9ba81417e468347d18f053078f883fd7987126902755db2f83",
@@ -368,6 +368,16 @@
         "selected": false,
         "version": "2.5.6",
         "version_id": "lAATACbp"
+    },
+    "jkskOO9i": {
+        "checksum": "495da87ead71580cbb437e15ad6ca9a7e2d12c824f10208c0ec56d3c69bcf4ab6775063fe153d42cb3bba343668a2269b08e4eb5120abc21058ebf2b7b398fd0",
+        "client_side_only": false,
+        "name": "Immersive Weathering",
+        "pinned": false,
+        "project_id": "jkskOO9i",
+        "selected": true,
+        "version": "1.20.1-2.0.1",
+        "version_id": "f3ttCid9"
     },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",

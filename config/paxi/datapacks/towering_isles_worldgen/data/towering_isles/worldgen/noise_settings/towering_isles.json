@@ -43,21 +43,42 @@
       "shift_z": "minecraft:shift_z"
     },
     "continents": {
-      "type": "minecraft:mul",
-      "argument1": 10,
-      "argument2": "towering_isles:ocean_noise"
+      "type": "minecraft:range_choice",
+      "input": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:gravel",
+        "xz_scale": 0.3,
+        "y_scale": 0.1
+      },
+      "min_inclusive": 0,
+      "max_exclusive": 1000,
+      "when_in_range": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:gravel",
+        "xz_scale": 0.3,
+        "y_scale": 0.1
+      },
+      "when_out_of_range": -0.3
     },
     "erosion": "minecraft:overworld_large_biomes/erosion",
     "depth": {
-      "type": "minecraft:add",
-      "argument1": {
+      "type": "minecraft:range_choice",
+      "input": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:gravel",
+        "xz_scale": 0.3,
+        "y_scale": 0.1
+      },
+      "min_inclusive": 0,
+      "max_exclusive": 1000,
+      "when_in_range": {
         "type": "minecraft:y_clamped_gradient",
         "from_y": -64,
         "to_y": 320,
         "from_value": 1.5,
         "to_value": -1.5
       },
-      "argument2": "minecraft:overworld/offset"
+      "when_out_of_range": 0.1
     },
     "ridges": "minecraft:overworld/ridges",
     "initial_density_without_jaggedness": 0,

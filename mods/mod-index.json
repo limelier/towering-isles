@@ -29,6 +29,16 @@
         "version": "2.1.3",
         "version_id": "7Jih1uiK"
     },
+    "54eqfZSC": {
+        "checksum": "4bf3338d069359eb3282fbc6f76442cde9c5bb38798d8805b1838921e837caf1e9f205b7e4bd6e99d514612378a4ea764245d63b2e415ac99ba6c884380e4e26",
+        "client_side_only": false,
+        "name": "Towers of the Wild Modded",
+        "pinned": false,
+        "project_id": "54eqfZSC",
+        "selected": true,
+        "version": "1.0.5",
+        "version_id": "kYlLoQ9i"
+    },
     "5ZwdcRci": {
         "checksum": "c6f966e43101646744d13a05a912987618175512c5929172e9580a7bd115b33cc9d139de67ae0e5e2c40cbdee9d7881dcaaa7cb3cc9f5cc174e30adfb996ffb6",
         "client_side_only": true,
@@ -48,6 +58,26 @@
         "selected": true,
         "version": "1.20-1.2.8",
         "version_id": "rygiK2go"
+    },
+    "9VEHG3zg": {
+        "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
+        "client_side_only": false,
+        "name": "Structure Credits",
+        "pinned": false,
+        "project_id": "9VEHG3zg",
+        "selected": true,
+        "version": "1.6",
+        "version_id": "nw5H0kE3"
+    },
+    "9s6osm5g": {
+        "checksum": "2f6c78de05f0c60fcd61a05ee272618a6522f8039805ab8c97b28c9cd123ff55ff7153224203f824261e509a478cee2ae100a5d428ae488239d089916a70e6ed",
+        "client_side_only": false,
+        "name": "Cloth Config API",
+        "pinned": false,
+        "project_id": "9s6osm5g",
+        "selected": false,
+        "version": "11.1.118+forge",
+        "version_id": "nr1znv5v"
     },
     "Aqlf1Shp": {
         "checksum": "c92ebe2c7425bec3181673c17970804a9228d65521eb98c7e5e74e7a79bab50c07053d1599026baeb39123a1b3d346f74f5b50b1bae954e385f7930fa8e3ad40",
@@ -118,6 +148,16 @@
         "selected": true,
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
+    },
+    "FGlHZl7X": {
+        "checksum": "9727d12abc307767ede77b0d41fe6669ee3f9c0692158a2154bd90e0766ab411cb7357048155bbbcfbf48f317e860a33dd657cb45d8276962eed6a3b74c0cd77",
+        "client_side_only": false,
+        "name": "The Lost Castle",
+        "pinned": false,
+        "project_id": "FGlHZl7X",
+        "selected": true,
+        "version": "1.0.3",
+        "version_id": "hbZaVz0H"
     },
     "GchcoXML": {
         "checksum": "f3ee8bb8e53d117278c141e71d4ceaee9f162171f1a8cadd7419dd2a9d9ea02e0317972876768946769e33f2e3312c8c10a5b7c4038becaf2dc60cb063649ed6",
@@ -209,6 +249,36 @@
         "version": "1.20.1-1.0-19",
         "version_id": "VDiwJ2Xr"
     },
+    "OCJRPujW": {
+        "checksum": "6be632ce92a2ca2ab7ab9d0a63c3b401384800e333fec4e28e257ecb4c6df6fb7c06732cc766a95fc8a1876408c2256a5e3c0d4b7044fb65109c688e2c19144a",
+        "client_side_only": false,
+        "name": "Relics",
+        "pinned": false,
+        "project_id": "OCJRPujW",
+        "selected": true,
+        "version": "0.6.5.2",
+        "version_id": "yFEzE2vm"
+    },
+    "OQAgZMH1": {
+        "checksum": "beb4d9b0f4c925c927195298a1295adc1f8ece88ac215c9f7b8aa9c2707d64d1e3c90dae45fa6c000eb57ae3aec644161600ad17c8a6b6e1ea236bfae85b0752",
+        "client_side_only": false,
+        "name": "MVS - Moog's Voyager Structures",
+        "pinned": false,
+        "project_id": "OQAgZMH1",
+        "selected": true,
+        "version": "4.1.2-1.20-forge",
+        "version_id": "iYOyd0Bu"
+    },
+    "P0Mu4wcQ": {
+        "checksum": "ef98c44f7e98706f8f62dd7883238a8c5123d552350db30e99037d558a70057c46355b6b8f411fb150bb2d29346ebd0890e5b5811254faeae9fe0a62e764cde6",
+        "client_side_only": false,
+        "name": "Artifacts",
+        "pinned": false,
+        "project_id": "P0Mu4wcQ",
+        "selected": true,
+        "version": "9.5.11",
+        "version_id": "jDAjEp8X"
+    },
     "R2OftAxM": {
         "checksum": "7ef7759227e6f64d80b998462b54ec02be1ca6be7be1c8aef4426894758c211890c53965f9ed10ee68d9321cf8ccbadaeb7c26b50056ed577cdb1ea753c4e4ba",
         "client_side_only": false,
@@ -219,6 +289,16 @@
         "version": "1.20.1-1.2.4",
         "version_id": "AxgOboGq"
     },
+    "RH2KUdKJ": {
+        "checksum": "cc98d4af6a1322ef3e1fdd942a58fe23370ec1e49dba3844439ce95ed0beede44168cf39a362ad2eaffd6cec8b8265026c85c5a2eb937c502aebb8da0aecb37d",
+        "client_side_only": false,
+        "name": "OctoLib",
+        "pinned": false,
+        "project_id": "RH2KUdKJ",
+        "selected": true,
+        "version": "0.3",
+        "version_id": "DGHuSq0v"
+    },
     "RfFxanNh": {
         "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
         "client_side_only": false,
@@ -228,6 +308,16 @@
         "selected": true,
         "version": "5.0.1",
         "version_id": "39yHBKs1"
+    },
+    "TWsbC6jW": {
+        "checksum": "8266dff727311c3234fc4fb212b356cc634d9cad65102291509515b36ece422d11716d356390a528d825037dae95578c2d66959a3470cc80e472d318d0ad7827",
+        "client_side_only": false,
+        "name": "Additional Structures",
+        "pinned": false,
+        "project_id": "TWsbC6jW",
+        "selected": true,
+        "version": "v.4.2.0",
+        "version_id": "jMnNjoky"
     },
     "Tkikq67H": {
         "checksum": "a1e3d77562c232fd44979c3d47b0c77a2d26a2bfaeb2c8284326f4826180ecc87ad6f7f1d30d1e75968ca2aae3ca6dc6a20768e4994e37b9d37519ac7e9fce90",
@@ -349,6 +439,16 @@
         "version": "1.7.0",
         "version_id": "dbdSXAji"
     },
+    "hGWjTxOA": {
+        "checksum": "93d155b5258b8c0c2e49c2500866e3364e3e64c49f03544c25b6bb2038346bd21d39af6b7aa3e67c9cb64b70a9c1614b322a8b7921f84fb9dd6e5ed714d51096",
+        "client_side_only": false,
+        "name": "Grappling Hook Mod",
+        "pinned": false,
+        "project_id": "hGWjTxOA",
+        "selected": true,
+        "version": "v13-1.20.1",
+        "version_id": "RGcgyxBt"
+    },
     "iWMeHtdv": {
         "checksum": "a39d9a487f05a1fb8b12be97b31251ace797dd63de331e472623abb62a3b38b7042672ca5ae1ae891d8fd102cb6dc883eae73c9f937c9b3030036d7e75c38a95",
         "client_side_only": false,
@@ -398,6 +498,16 @@
         "selected": true,
         "version": "1.0+mod",
         "version_id": "hwClzDIs"
+    },
+    "lhGA9TYQ": {
+        "checksum": "fc3a762fd6a7ef7cf9243efd317950bcc6e8e7eca1119aa97fa190fb5f5d4db2d0d53081cd805532e3f080d5c6e9f2b3d051f45f834f5d6f0dba27420a00260a",
+        "client_side_only": false,
+        "name": "Architectury API",
+        "pinned": false,
+        "project_id": "lhGA9TYQ",
+        "selected": false,
+        "version": "9.2.14+forge",
+        "version_id": "1MKTLiiG"
     },
     "ndHYMY2K": {
         "checksum": "64ce64a1ccb1ef7ae5c36c978d95aedee41a20810a91383d681694f944268a0cba1264f0c304fb2f3a2e5a07a1ecad38fdb6e862a16028d7c3b4078e38669aac",
@@ -479,6 +589,16 @@
         "version": "1.20.1-10.1.0-171",
         "version_id": "MAqXk6P8"
     },
+    "tpehi7ww": {
+        "checksum": "ec788accfd9258ec8e7826b41a18db68e196c9bd74df8ca155962673c8e74388f3e32b353b7afaaeb82a222daea1c66b3452a5f0f286a627396630df1ed0293f",
+        "client_side_only": false,
+        "name": "Dungeons and Taverns",
+        "pinned": false,
+        "project_id": "tpehi7ww",
+        "selected": true,
+        "version": "3.0.3.f+mod",
+        "version_id": "ojHpWOrz"
+    },
     "twkfQtEc": {
         "checksum": "1ae794de4c4e7a83b625619db8f4a386c5f1558f4ea9ade093ef039c76c5315ea0612001731fa51d2d293a7f5b2e77518b9398e2bc0b8ff781556fcf0d394431",
         "client_side_only": false,
@@ -498,6 +618,16 @@
         "selected": true,
         "version": "6.0.1",
         "version_id": "DG5Fn9Sz"
+    },
+    "vvuO3ImH": {
+        "checksum": "786c6c34e3f1a5358075cf95330b3e732293861a4ca60e4aa1780b55d32d3ab5b998b014bd521b3567f474a7bab738f821d46b71a7da201e0fa9321bb8e7e03b",
+        "client_side_only": false,
+        "name": "Curios API",
+        "pinned": false,
+        "project_id": "vvuO3ImH",
+        "selected": false,
+        "version": "5.9.1+1.20.1",
+        "version_id": "moWmAnjY"
     },
     "wXiGiyGX": {
         "checksum": "0f13ec6982b74d44684474f08f1da6383957c6b68306913bf75003eec6b90fb16cbdaaacf9017ff228d335a99d72d5ffc3f1a28547915a293f13a68b83b48580",
@@ -519,6 +649,16 @@
         "version": "1.0.1+1.20.1",
         "version_id": "Tju2o3p2"
     },
+    "zCh7omyG": {
+        "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",
+        "client_side_only": false,
+        "name": "Better Archeology",
+        "pinned": false,
+        "project_id": "zCh7omyG",
+        "selected": true,
+        "version": "1.1.9-1.20.1",
+        "version_id": "8f9j7B3i"
+    },
     "zi3Fnfmc": {
         "checksum": "75e4883affff9cb2e578ebc474da18b721e7c265b96fecf0d085de4cf149fe459aada468956685e916cdc1091ad32882096825a63d661e7f67f1b5d9544fcd16",
         "client_side_only": false,
@@ -529,4 +669,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

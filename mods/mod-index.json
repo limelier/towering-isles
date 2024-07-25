@@ -209,16 +209,6 @@
         "version": "0.1.1",
         "version_id": "XALEBs0a"
     },
-    "KdJhOYVV": {
-        "checksum": "ba24363fe25aeb87c31ccebb145be8f8905bcffc857685884c57154b3dc57b5f7845cfa17c4f2efaaa74cacae73d14c296d677c4438e7623cc031e9c19ba308d",
-        "client_side_only": false,
-        "name": "Philips Ruins",
-        "pinned": false,
-        "project_id": "KdJhOYVV",
-        "selected": true,
-        "version": "1.20.1-2.8",
-        "version_id": "M0mUdx54"
-    },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
         "client_side_only": false,
@@ -679,4 +669,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

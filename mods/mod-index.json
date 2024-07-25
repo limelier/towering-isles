@@ -1,4 +1,14 @@
 {
+    "1DWmBJVA": {
+        "checksum": "5be1cdecfabce11751615f1f50c03b654b5399a854078912f2183c9c9a9d3b8718938f7b680d54b1adf31ea9c5f3145fc268193fc3d27c7d4092423d6ce3bdc4",
+        "client_side_only": false,
+        "name": "[Let's Do] Vinery",
+        "pinned": false,
+        "project_id": "1DWmBJVA",
+        "selected": true,
+        "version": "1.4.26",
+        "version_id": "IVgBjB7L"
+    },
     "1dxbxzCg": {
         "checksum": "1de85665225be7db5cea6a29a72667f84227a9fd2825941c11fc16c838985b15a1dc0dd48e7888cba79cec8901b6a9e48e40510333077c42da02d821a914a05e",
         "client_side_only": false,
@@ -38,6 +48,26 @@
         "selected": true,
         "version": "2.1.3",
         "version_id": "7Jih1uiK"
+    },
+    "4TTDxtOx": {
+        "checksum": "d413c37cf2a432112fc0583ee0af5b4960e7793bd85899b4e71356735f7616b4ffe06b0939039b4a02698ba4f4eab8cb4bf4fa924950f2be3aa4d879601067fa",
+        "client_side_only": false,
+        "name": "[Let's Do] NetherVinery",
+        "pinned": false,
+        "project_id": "4TTDxtOx",
+        "selected": true,
+        "version": "1.2.14",
+        "version_id": "CeoWrWDK"
+    },
+    "4XJZeZbM": {
+        "checksum": "b2c3e3baa1ef61d3d3ccc4b0cb10dd54726dd75c1897d839a6daed2076ce621b6cfffa704f30ab9c35640b954194c659304abd9cfae701ab8dd294c96e624f10",
+        "client_side_only": false,
+        "name": "[Let's Do] API",
+        "pinned": false,
+        "project_id": "4XJZeZbM",
+        "selected": false,
+        "version": "1.2.15",
+        "version_id": "uEaTMht9"
     },
     "54eqfZSC": {
         "checksum": "4bf3338d069359eb3282fbc6f76442cde9c5bb38798d8805b1838921e837caf1e9f205b7e4bd6e99d514612378a4ea764245d63b2e415ac99ba6c884380e4e26",
@@ -188,6 +218,16 @@
         "selected": true,
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
+    },
+    "Eh11TaTm": {
+        "checksum": "ee069dcc8cd9942e58280ab4417897ae3746130afbc65396641aa0823c7aba4a9c3cf016cd2fed88be42f52c9d198daabea267e508baad5d21d3dbf40e2d5ebf",
+        "client_side_only": false,
+        "name": "[Let's Do] HerbalBrews",
+        "pinned": false,
+        "project_id": "Eh11TaTm",
+        "selected": true,
+        "version": "1.0.8",
+        "version_id": "zDQYiIfV"
     },
     "EsAfCjCV": {
         "checksum": "0f4a47a4310ab1af7d88cc9a5b5a817a173611f617cdea24af78b9b972c10500d308e6ac9abcf6ab0fefdcd2a0d148488ba281134a3b3bd7aac2b3db43778a61",
@@ -469,6 +509,16 @@
         "version": "1.20.1-4.0",
         "version_id": "MTDQhZd2"
     },
+    "WFwYiVoG": {
+        "checksum": "c371fecaec737c48c35a6a2bc55e880fb3dc1d68c1bc3c9f0144f1e1f9343a3f924dc3eb6904612df2664fbce48606baa894acfeac5f91dba28a88ede960e5e8",
+        "client_side_only": false,
+        "name": "[Let's Do] Bakery",
+        "pinned": false,
+        "project_id": "WFwYiVoG",
+        "selected": true,
+        "version": "1.1.14",
+        "version_id": "TsfsouU8"
+    },
     "WtcuxDNN": {
         "checksum": "88713ab73bce218f23247c5b06915fe381c6868851b038c6ce06ac8aa902e02d1bc4954f541e0c30c15b672c3917dbecb46e5a48e6ada655735b0df8bfd5f92d",
         "client_side_only": false,
@@ -518,6 +568,16 @@
         "selected": true,
         "version": "2.0+mod",
         "version_id": "6zcErTq1"
+    },
+    "cV5LQXKx": {
+        "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",
+        "client_side_only": false,
+        "name": "[Let's Do] Brewery",
+        "pinned": false,
+        "project_id": "cV5LQXKx",
+        "selected": true,
+        "version": "1.1.9",
+        "version_id": "vqYszE4F"
     },
     "fFEIiSDQ": {
         "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
@@ -678,6 +738,16 @@
         "selected": false,
         "version": "9.2.14+forge",
         "version_id": "1MKTLiiG"
+    },
+    "mPND0Adp": {
+        "checksum": "df996ffef122652b4d827b413673b0d3d64f5ec44716932379346802ce86ccd64f17d27df336fb925fc4c8bbed631d729272a20ce4346d59ba9bb55a66f6ab46",
+        "client_side_only": false,
+        "name": "[Let's Do] Candlelight",
+        "pinned": false,
+        "project_id": "mPND0Adp",
+        "selected": true,
+        "version": "1.2.13",
+        "version_id": "ImuP9F4N"
     },
     "ndHYMY2K": {
         "checksum": "64ce64a1ccb1ef7ae5c36c978d95aedee41a20810a91383d681694f944268a0cba1264f0c304fb2f3a2e5a07a1ecad38fdb6e862a16028d7c3b4078e38669aac",

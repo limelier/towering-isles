@@ -109,6 +109,16 @@
         "version": "1.20-1.2.8",
         "version_id": "rygiK2go"
     },
+    "84USeAvk": {
+        "checksum": "146bc6742be12f32bea00ecb6d7310bd9b433c2bbca8e437d8371529664b4f7c1826b198bfee0ad0be9f656f38ac628d621cf843c1abc25f75ecdb497c226576",
+        "client_side_only": false,
+        "name": "Clockwork",
+        "pinned": false,
+        "project_id": "84USeAvk",
+        "selected": true,
+        "version": "1.20.1-0.1.16",
+        "version_id": "Bk2kwZr0"
+    },
     "8BmcQJ2H": {
         "checksum": "eacdc10dd055aa8d26e6c95df28a92201e1284706dfb1baa967e9611bb5a05e4850d26f3240af863df7d627fe52c174ce78c2fbeb522238cd6fe603cb0ae148f",
         "client_side_only": false,
@@ -949,5 +959,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

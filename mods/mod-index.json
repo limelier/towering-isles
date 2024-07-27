@@ -1,4 +1,24 @@
 {
+    "1DWmBJVA": {
+        "checksum": "5be1cdecfabce11751615f1f50c03b654b5399a854078912f2183c9c9a9d3b8718938f7b680d54b1adf31ea9c5f3145fc268193fc3d27c7d4092423d6ce3bdc4",
+        "client_side_only": false,
+        "name": "[Let's Do] Vinery",
+        "pinned": false,
+        "project_id": "1DWmBJVA",
+        "selected": true,
+        "version": "1.4.26",
+        "version_id": "IVgBjB7L"
+    },
+    "1dxbxzCg": {
+        "checksum": "1de85665225be7db5cea6a29a72667f84227a9fd2825941c11fc16c838985b15a1dc0dd48e7888cba79cec8901b6a9e48e40510333077c42da02d821a914a05e",
+        "client_side_only": false,
+        "name": "Moderately Enough Effect Descriptions (MEED) - A JEED Addon",
+        "pinned": false,
+        "project_id": "1dxbxzCg",
+        "selected": true,
+        "version": "4.7.0",
+        "version_id": "NICdzU31"
+    },
     "2BwBOmBQ": {
         "checksum": "cc4ec2183c1d18967145959b629e2d5f122dfff2ea26bac3b76bb07defb729d1bb62fb9655377deca535d78b4e42f6e9d4e916fe91925ab7a19dffec5170c39e",
         "client_side_only": false,
@@ -19,6 +39,16 @@
         "version": "0.12.3",
         "version_id": "NhMILNAm"
     },
+    "4H6sumDB": {
+        "checksum": "ad34421ca91b2729196e34a00d671aa661182ff6575056233226eba4d3e3add24063665c1681a44ecf4efb4a1752fe1b376d2d7c8b89159c4224451494f7698a",
+        "client_side_only": true,
+        "name": "Euphoria Patches",
+        "pinned": false,
+        "project_id": "4H6sumDB",
+        "selected": true,
+        "version": "0.3.4-forge",
+        "version_id": "jKEAiweG"
+    },
     "4I1XuqiY": {
         "checksum": "3254ab10ca652134c00545bc45f3d48535b5d0893f854a640edd6b1e3aa75c8fb44a50e84021f2963066c95830a631c4232ee1f86f2f49618424e76f08834365",
         "client_side_only": true,
@@ -28,6 +58,26 @@
         "selected": true,
         "version": "2.1.3",
         "version_id": "7Jih1uiK"
+    },
+    "4TTDxtOx": {
+        "checksum": "d413c37cf2a432112fc0583ee0af5b4960e7793bd85899b4e71356735f7616b4ffe06b0939039b4a02698ba4f4eab8cb4bf4fa924950f2be3aa4d879601067fa",
+        "client_side_only": false,
+        "name": "[Let's Do] NetherVinery",
+        "pinned": false,
+        "project_id": "4TTDxtOx",
+        "selected": true,
+        "version": "1.2.14",
+        "version_id": "CeoWrWDK"
+    },
+    "4XJZeZbM": {
+        "checksum": "b2c3e3baa1ef61d3d3ccc4b0cb10dd54726dd75c1897d839a6daed2076ce621b6cfffa704f30ab9c35640b954194c659304abd9cfae701ab8dd294c96e624f10",
+        "client_side_only": false,
+        "name": "[Let's Do] API",
+        "pinned": false,
+        "project_id": "4XJZeZbM",
+        "selected": false,
+        "version": "1.2.15",
+        "version_id": "uEaTMht9"
     },
     "54eqfZSC": {
         "checksum": "4bf3338d069359eb3282fbc6f76442cde9c5bb38798d8805b1838921e837caf1e9f205b7e4bd6e99d514612378a4ea764245d63b2e415ac99ba6c884380e4e26",
@@ -59,6 +109,16 @@
         "version": "1.20-1.2.8",
         "version_id": "rygiK2go"
     },
+    "8BmcQJ2H": {
+        "checksum": "eacdc10dd055aa8d26e6c95df28a92201e1284706dfb1baa967e9611bb5a05e4850d26f3240af863df7d627fe52c174ce78c2fbeb522238cd6fe603cb0ae148f",
+        "client_side_only": false,
+        "name": "Geckolib",
+        "pinned": false,
+        "project_id": "8BmcQJ2H",
+        "selected": true,
+        "version": "4.4.7",
+        "version_id": "4ysPVX1z"
+    },
     "9VEHG3zg": {
         "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
         "client_side_only": false,
@@ -68,6 +128,16 @@
         "selected": true,
         "version": "1.6",
         "version_id": "nw5H0kE3"
+    },
+    "9rlXSyLg": {
+        "checksum": "bf9f1b4eeda0f197108fc593fdd6eb2fc8f94ffc764ac4dda873dfb475306c8356c3a6adb871a4caae7824e6c499fd1b698c9fd731868fce30dc9edd835dd5cd",
+        "client_side_only": false,
+        "name": "Crate Delight - Farmer's Delight",
+        "pinned": false,
+        "project_id": "9rlXSyLg",
+        "selected": true,
+        "version": "2024.07.12-1.20.1-forge",
+        "version_id": "AkIYQu82"
     },
     "9s6osm5g": {
         "checksum": "2f6c78de05f0c60fcd61a05ee272618a6522f8039805ab8c97b28c9cd123ff55ff7153224203f824261e509a478cee2ae100a5d428ae488239d089916a70e6ed",
@@ -139,6 +209,16 @@
         "version": "2.1+mod",
         "version_id": "qWJ0YcQq"
     },
+    "EO27GKs1": {
+        "checksum": "afc7367b0693f3f0bcaf8efe37442b6ae8fda094b1bbb4a1b0e579548aae197dc78ff6502f9ba5f437865e22fe294c9d6f82cae81e0e9007aeda9e45f386b8a6",
+        "client_side_only": true,
+        "name": "Just Enough Effect Descriptions (JEED)",
+        "pinned": false,
+        "project_id": "EO27GKs1",
+        "selected": false,
+        "version": "1.20-2.2.1",
+        "version_id": "cCbKMLHm"
+    },
     "EO8aSHxh": {
         "checksum": "3917fb31f64d4571fc9e0a747b50d345f330199ac561751383c6c21dc82b5783c1327301da3c5e5002ee3a60f4bb1a860535f9f9fb7953ff91608904540fd2a9",
         "client_side_only": false,
@@ -148,6 +228,26 @@
         "selected": true,
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
+    },
+    "Eh11TaTm": {
+        "checksum": "ee069dcc8cd9942e58280ab4417897ae3746130afbc65396641aa0823c7aba4a9c3cf016cd2fed88be42f52c9d198daabea267e508baad5d21d3dbf40e2d5ebf",
+        "client_side_only": false,
+        "name": "[Let's Do] HerbalBrews",
+        "pinned": false,
+        "project_id": "Eh11TaTm",
+        "selected": true,
+        "version": "1.0.8",
+        "version_id": "zDQYiIfV"
+    },
+    "EsAfCjCV": {
+        "checksum": "0f4a47a4310ab1af7d88cc9a5b5a817a173611f617cdea24af78b9b972c10500d308e6ac9abcf6ab0fefdcd2a0d148488ba281134a3b3bd7aac2b3db43778a61",
+        "client_side_only": false,
+        "name": "AppleSkin",
+        "pinned": false,
+        "project_id": "EsAfCjCV",
+        "selected": true,
+        "version": "2.5.1+mc1.20.1",
+        "version_id": "XdXDExVF"
     },
     "FGlHZl7X": {
         "checksum": "9727d12abc307767ede77b0d41fe6669ee3f9c0692158a2154bd90e0766ab411cb7357048155bbbcfbf48f317e860a33dd657cb45d8276962eed6a3b74c0cd77",
@@ -159,6 +259,16 @@
         "version": "1.0.3",
         "version_id": "hbZaVz0H"
     },
+    "GWp4jCJj": {
+        "checksum": "a0320a7d2a53a8482bff142728a47d894316ed19c6b9677ef16777f58007ff99b2573fd34be10f7044283ceb37059b49dcd2cb1bd62843af8f8dc064344ac6bb",
+        "client_side_only": false,
+        "name": "Create Big Cannons",
+        "pinned": false,
+        "project_id": "GWp4jCJj",
+        "selected": true,
+        "version": "0.5.4",
+        "version_id": "cqmtHAOe"
+    },
     "GchcoXML": {
         "checksum": "f3ee8bb8e53d117278c141e71d4ceaee9f162171f1a8cadd7419dd2a9d9ea02e0317972876768946769e33f2e3312c8c10a5b7c4038becaf2dc60cb063649ed6",
         "client_side_only": true,
@@ -168,6 +278,16 @@
         "selected": true,
         "version": "1.20.1-1.7.0",
         "version_id": "vVuYfukI"
+    },
+    "GmjmRQ0A": {
+        "checksum": "17f60a7b1cd3b6c49ce5945600fd2760a99949ab83e9a3bc2d560332190fddef749063a2f72c9dad750550ee561f8697797b665b3ef5f8fb2d1bbe04f93d5db9",
+        "client_side_only": false,
+        "name": "Create Slice & Dice",
+        "pinned": false,
+        "project_id": "GmjmRQ0A",
+        "selected": true,
+        "version": "3.2.1",
+        "version_id": "GDyNpDy7"
     },
     "HSfsxuTo": {
         "checksum": "455a5238e56d3482a6de2a21a3cfbb3fff0f18acafcf8847377f11c738703249941d9b2e4f3294ea15381f1d9b54ebae4cc21ee1739342cf219b110169bcaced",
@@ -209,6 +329,26 @@
         "version": "0.1.1",
         "version_id": "XALEBs0a"
     },
+    "JmybsfWs": {
+        "checksum": "7c5ae304ee21ba37631e2a08333e358f890e4eb4e487e78bec7536b66ecc40985a1a026f5a282ca2b74845d62ea8d3d5eac2046e88924b3850be4b72ceb99601",
+        "client_side_only": false,
+        "name": "Create: Dreams & Desires",
+        "pinned": false,
+        "project_id": "JmybsfWs",
+        "selected": true,
+        "version": "1.20.1-0.1b.Release-Early-Dev",
+        "version_id": "GZxkqfDv"
+    },
+    "JtSnhtNJ": {
+        "checksum": "c3e2197c5f1e4f672bed472f7468fdea1ded97167a5e8ef2e86e2639791e695cf347cb43318f817baf883ad2b4bf630a13b59a3db040a836ccbb8669c725e8ca",
+        "client_side_only": false,
+        "name": "Delightful",
+        "pinned": false,
+        "project_id": "JtSnhtNJ",
+        "selected": true,
+        "version": "3.5.9-1.20.1",
+        "version_id": "E2BNWtJP"
+    },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
         "client_side_only": false,
@@ -248,6 +388,16 @@
         "selected": false,
         "version": "1.20.1-1.0-19",
         "version_id": "VDiwJ2Xr"
+    },
+    "NRjRiSSD": {
+        "checksum": "cea9f9053aba0f04c50ab54eeac04a9417c825ae4955192c2757a6e80b9c96598d374d34ba63488e6bd293a00f685c5cc5a198557d5d0d2eda6f14af541ee209",
+        "client_side_only": false,
+        "name": "Memory Leak Fix",
+        "pinned": false,
+        "project_id": "NRjRiSSD",
+        "selected": true,
+        "version": "v1.1.5",
+        "version_id": "3w0IxNtk"
     },
     "OCJRPujW": {
         "checksum": "6be632ce92a2ca2ab7ab9d0a63c3b401384800e333fec4e28e257ecb4c6df6fb7c06732cc766a95fc8a1876408c2256a5e3c0d4b7044fb65109c688e2c19144a",
@@ -339,6 +489,16 @@
         "version": "1.20-Forge-4.0.5",
         "version_id": "aMs83SRk"
     },
+    "UbFnAd4l": {
+        "checksum": "b946ae99a919cf918f73f3faa5d8d7ee80a75ed46728501c1f4c2133d5d527273e3d8f03c16a2cb7a711dd386ed85e35f1ba5e35667c991e41dfcdf8fc7b1462",
+        "client_side_only": false,
+        "name": "Create Jetpack",
+        "pinned": false,
+        "project_id": "UbFnAd4l",
+        "selected": true,
+        "version": "4.2.1",
+        "version_id": "r9jMwK81"
+    },
     "V5ujR2yw": {
         "checksum": "76be986150e10dc05a2b4b74863404de85b3ead72470f341dbd47eaca2203b313fbbfa0ee41b53eee3e3c114da1b777b5bbc201aa73dfcf899ab83265bfd849c",
         "client_side_only": false,
@@ -348,6 +508,36 @@
         "selected": true,
         "version": "1.20.1-forge-2.3.0-beta.5",
         "version_id": "JmkvaGb4"
+    },
+    "Vv0RM7WN": {
+        "checksum": "94694b85dcc22d6f05604441059be1d0063d50883675ad46ad8bea967521a1a560979d29612eb32bc718f6f6ee045a1b9b20029d331ae3aeeffe0474b8ef4ca8",
+        "client_side_only": false,
+        "name": "Nether's Delight",
+        "pinned": false,
+        "project_id": "Vv0RM7WN",
+        "selected": true,
+        "version": "1.20.1-4.0",
+        "version_id": "MTDQhZd2"
+    },
+    "WFwYiVoG": {
+        "checksum": "c371fecaec737c48c35a6a2bc55e880fb3dc1d68c1bc3c9f0144f1e1f9343a3f924dc3eb6904612df2664fbce48606baa894acfeac5f91dba28a88ede960e5e8",
+        "client_side_only": false,
+        "name": "[Let's Do] Bakery",
+        "pinned": false,
+        "project_id": "WFwYiVoG",
+        "selected": true,
+        "version": "1.1.14",
+        "version_id": "TsfsouU8"
+    },
+    "WrpuIfhw": {
+        "checksum": "bf629657522ed00314490208fc04a424277cca0ec34e8fc507be86ca10a45345bce11e934ac169bf7afaab7359c3c350a643c79cc1154e298f4d490615d4e22c",
+        "client_side_only": false,
+        "name": "Corpse",
+        "pinned": false,
+        "project_id": "WrpuIfhw",
+        "selected": true,
+        "version": "forge-1.20.1-1.0.9",
+        "version_id": "kVSwG79H"
     },
     "WtcuxDNN": {
         "checksum": "88713ab73bce218f23247c5b06915fe381c6868851b038c6ce06ac8aa902e02d1bc4954f541e0c30c15b672c3917dbecb46e5a48e6ada655735b0df8bfd5f92d",
@@ -399,6 +589,16 @@
         "version": "2.0+mod",
         "version_id": "6zcErTq1"
     },
+    "cV5LQXKx": {
+        "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",
+        "client_side_only": false,
+        "name": "[Let's Do] Brewery",
+        "pinned": false,
+        "project_id": "cV5LQXKx",
+        "selected": true,
+        "version": "1.1.9",
+        "version_id": "vqYszE4F"
+    },
     "fFEIiSDQ": {
         "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
         "client_side_only": false,
@@ -419,6 +619,16 @@
         "version": "1.20.1-1.11.2-forge",
         "version_id": "Og40jCNX"
     },
+    "fRiHVvU7": {
+        "checksum": "de1f48b515f1914bce2c07e06c97b8a20f954c9c8f6f178617df45b9cdf191124207815e3f96dae0a60597657832ced1a723d72528923aab75e42b1f3cb66226",
+        "client_side_only": true,
+        "name": "EMI",
+        "pinned": false,
+        "project_id": "fRiHVvU7",
+        "selected": true,
+        "version": "1.1.10+1.20.1+forge",
+        "version_id": "HhQ69HxF"
+    },
     "fgmhI8kH": {
         "checksum": "df0673b6bd208f6e0db8bb4b58bed973c6b28a87e174c283fa05adbf9c40d412caf09e8196aca54db3ab0f56d83ae93221cf0dec61248b666ef0a168b3485bc9",
         "client_side_only": false,
@@ -428,6 +638,26 @@
         "selected": true,
         "version": "3.4.5",
         "version_id": "Hxo3cge6"
+    },
+    "gBGdVBJy": {
+        "checksum": "17696d446312b7cd3bd4fd4bd1f718ba5756657499a39519141b001ca5a59bacb24d5de09d3b36ed26ee57fb5d3e71adf9e835e13b87f6dea39edb2e13c2572f",
+        "client_side_only": false,
+        "name": "Crabber's Delight",
+        "pinned": false,
+        "project_id": "gBGdVBJy",
+        "selected": true,
+        "version": "1.1.5a",
+        "version_id": "A3o1TT9P"
+    },
+    "gOQjCAAD": {
+        "checksum": "1baa64873b6a677809211c214dd422ab804c3b0f0706697bbb5df556bfb14a4a85fac030cd6dce8c7475964078bb0e6d6cf228f25ba6197c4e9a8ed75754cd24",
+        "client_side_only": false,
+        "name": "Cuisine Delight",
+        "pinned": false,
+        "project_id": "gOQjCAAD",
+        "selected": true,
+        "version": "1.1.14",
+        "version_id": "8yeZOJDQ"
     },
     "h5JyLdjM": {
         "checksum": "dc4330c78056fbc4d755616a15bc562c1ca901eda9d1f14819436dbdb04585a6c18ddef06304f2a2ed969d7696bdb26e657d73856571882e45c055b6d72fb097",
@@ -479,6 +709,26 @@
         "version": "1.20.1-2.0.1",
         "version_id": "f3ttCid9"
     },
+    "k6hi4lMv": {
+        "checksum": "a98d3ea84ab3e1f1d2f9b41b22e5ddc9adabf71a7e04ad1bd037801d99ed83cbcf49dbacc08fa6b9608cc487e93afcf8df02945c6ad1784bbc9a5c2efea55788",
+        "client_side_only": true,
+        "name": "[Let's Do Addon] EMI Compat",
+        "pinned": false,
+        "project_id": "k6hi4lMv",
+        "selected": true,
+        "version": "1.2",
+        "version_id": "mjFf60qW"
+    },
+    "kU1G12Nn": {
+        "checksum": "be4fb5d0a640e594275251064ae97f80ce9e09e56b95e798e88af2a9f11e423d623f29372815ce1bdb31cfd57d18b40e9e4e6fa84644eef0634d6622994f1c35",
+        "client_side_only": false,
+        "name": "Create Crafts & Additions",
+        "pinned": false,
+        "project_id": "kU1G12Nn",
+        "selected": true,
+        "version": "1.20.1-1.2.4d",
+        "version_id": "eh2ccol5"
+    },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
         "client_side_only": false,
@@ -508,6 +758,16 @@
         "selected": false,
         "version": "9.2.14+forge",
         "version_id": "1MKTLiiG"
+    },
+    "mPND0Adp": {
+        "checksum": "df996ffef122652b4d827b413673b0d3d64f5ec44716932379346802ce86ccd64f17d27df336fb925fc4c8bbed631d729272a20ce4346d59ba9bb55a66f6ab46",
+        "client_side_only": false,
+        "name": "[Let's Do] Candlelight",
+        "pinned": false,
+        "project_id": "mPND0Adp",
+        "selected": true,
+        "version": "1.2.13",
+        "version_id": "ImuP9F4N"
     },
     "ndHYMY2K": {
         "checksum": "64ce64a1ccb1ef7ae5c36c978d95aedee41a20810a91383d681694f944268a0cba1264f0c304fb2f3a2e5a07a1ecad38fdb6e862a16028d7c3b4078e38669aac",
@@ -548,6 +808,16 @@
         "selected": true,
         "version": "4.0-458",
         "version_id": "J3etK5WK"
+    },
+    "r4Knci2k": {
+        "checksum": "0b377ed1e3c79e17bc95959fc472180df8baf50a0003c69ad6a8a69fcf8fde7efa50b29d452fd0804d71456e14c506ed67f51b58ad3ac90f9b3e63fbdbf97903",
+        "client_side_only": false,
+        "name": "Create: Interiors",
+        "pinned": false,
+        "project_id": "r4Knci2k",
+        "selected": true,
+        "version": "0.5.3+forge-mc1.20.1",
+        "version_id": "tTCNkCHu"
     },
     "rGWEHQrP": {
         "checksum": "2abd17720658682e803d794f07e155a1aa16dd382569621f538e809efe207f14e381e66202d2fc66807e59fa7f33d78773ad3850020f9522e9fe2bcf546d467e",
@@ -609,6 +879,16 @@
         "version": "forge_1.20-2.12.9",
         "version_id": "DJ6tP5np"
     },
+    "u6dRKJwZ": {
+        "checksum": "0af018fc2ab27d85ba6feb137d52e095f837f7cf58e5a5f484c672134986f427ae3494b67e807a44c4c43191b03666d60f5dbe8c2b8c3f73ce167e64892131bb",
+        "client_side_only": true,
+        "name": "Just Enough Items",
+        "pinned": false,
+        "project_id": "u6dRKJwZ",
+        "selected": true,
+        "version": "15.8.0.18",
+        "version_id": "W59qO0OE"
+    },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",
         "client_side_only": false,
@@ -669,4 +949,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

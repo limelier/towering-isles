@@ -709,6 +709,16 @@
         "version": "1.20.1-2.0.1",
         "version_id": "f3ttCid9"
     },
+    "k2ZPuTBm": {
+        "checksum": "c5a292a04a3b5782c8750a4cd84fb8a9e3c14a994f1a1b1ab3dcaa81b9637773dcf75024b88a7dba372585cd43b04327b72fe325734d59ad8136c701c8702113",
+        "client_side_only": true,
+        "name": "Essential Mod",
+        "pinned": false,
+        "project_id": "k2ZPuTBm",
+        "selected": true,
+        "version": "1.3.2.8",
+        "version_id": "DANpdWey"
+    },
     "k6hi4lMv": {
         "checksum": "a98d3ea84ab3e1f1d2f9b41b22e5ddc9adabf71a7e04ad1bd037801d99ed83cbcf49dbacc08fa6b9608cc487e93afcf8df02945c6ad1784bbc9a5c2efea55788",
         "client_side_only": true,

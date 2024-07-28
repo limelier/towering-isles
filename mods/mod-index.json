@@ -599,6 +599,16 @@
         "version": "2.0+mod",
         "version_id": "6zcErTq1"
     },
+    "aC3cM3Vq": {
+        "checksum": "55761388ccd5ceda59be1138f0a1b543c4885bbeaf57b6e742d3a45244236966c580d77289dfcca8eb36cc82658f87fd7d06464bcf4c462e91cf69fb55a78d5f",
+        "client_side_only": true,
+        "name": "Mouse Tweaks",
+        "pinned": false,
+        "project_id": "aC3cM3Vq",
+        "selected": true,
+        "version": "1.20.1-2.25.1-forge",
+        "version_id": "7JVXOe3K"
+    },
     "cV5LQXKx": {
         "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",
         "client_side_only": false,
@@ -738,6 +748,16 @@
         "selected": true,
         "version": "1.20.1-1.2.4d",
         "version_id": "eh2ccol5"
+    },
+    "kidLKymU": {
+        "checksum": "78ec395fbc6907216820880b0285a2d72c533ec977f016616bf862f71aaeafe21fef8f44affd2defa1e9011dbf95f1d2ea970dbae07710156f0cc46b06925dbe",
+        "client_side_only": false,
+        "name": "YUNG's Better Strongholds",
+        "pinned": false,
+        "project_id": "kidLKymU",
+        "selected": true,
+        "version": "1.20-Forge-4.0.3",
+        "version_id": "rwiShgsc"
     },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",

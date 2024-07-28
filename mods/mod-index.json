@@ -129,6 +129,16 @@
         "version": "4.4.7",
         "version_id": "4ysPVX1z"
     },
+    "8DfbfASn": {
+        "checksum": "5530f14fda845dec4457af9959a22b0d8cfe4a0bbaf28bab7edd5c32c3c8982dc5bb77128bbfd1ff7f845b132a796ede9c87a7f59fcb60a75419ab7750987053",
+        "client_side_only": false,
+        "name": "When Dungeons Arise",
+        "pinned": false,
+        "project_id": "8DfbfASn",
+        "selected": true,
+        "version": "2.1.57-1.20.1",
+        "version_id": "wiCQJUDT"
+    },
     "9VEHG3zg": {
         "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
         "client_side_only": false,
@@ -168,6 +178,16 @@
         "selected": false,
         "version": "0.92.2+1.11.8+1.20.1",
         "version_id": "D3EZO1Kr"
+    },
+    "BCLngNKp": {
+        "checksum": "715d97f7a79a22ebef4659b22db2fd247a2c5fb2eb4fce1b154417a4372132803351eb5058148d1c4c02a3439e2ea5f5a27f11570b6d51b2858604b227777d82",
+        "client_side_only": false,
+        "name": "Stalwart Dungeons",
+        "pinned": false,
+        "project_id": "BCLngNKp",
+        "selected": true,
+        "version": "1.2.8",
+        "version_id": "vgD645b7"
     },
     "BORRKwOq": {
         "checksum": "c298ee9db61aa6dcb821c84b221035a94b45cc1b369e00a92ae6250fe42e7c10c8d3c735e799babf0252061b11f0fc5da144725cd43e66f70f7ef8b82c39824e",
@@ -459,6 +479,16 @@
         "version": "0.3",
         "version_id": "DGHuSq0v"
     },
+    "RV4ezinu": {
+        "checksum": "11ab6179ee73cce32fc2ec06b51d5580d1fc96ba494a200a4f2c6363116c0b03e4a7327607326356171045629f06cea7cade34eef3d5761b4852c7bed48e176d",
+        "client_side_only": false,
+        "name": "Call of Yucat\u00e1n",
+        "pinned": false,
+        "project_id": "RV4ezinu",
+        "selected": true,
+        "version": "1.0.11",
+        "version_id": "XRYU68wO"
+    },
     "RfFxanNh": {
         "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
         "client_side_only": false,
@@ -608,6 +638,16 @@
         "selected": true,
         "version": "1.20.1-2.25.1-forge",
         "version_id": "7JVXOe3K"
+    },
+    "bK3Ubu9p": {
+        "checksum": "2bf56741bbf54a422482ae9de32319f9bfb877e49ed96d7b623f25dc7af4ae79c8c62a3573979e6b45c85dab3114cbaf301e7a9a16b7970010ce25c5a4261ca9",
+        "client_side_only": false,
+        "name": "Simply Swords",
+        "pinned": false,
+        "project_id": "bK3Ubu9p",
+        "selected": true,
+        "version": "1.55.0-1.20.1",
+        "version_id": "XmUCc1mp"
     },
     "cV5LQXKx": {
         "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",

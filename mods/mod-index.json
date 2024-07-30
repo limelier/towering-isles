@@ -29,6 +29,16 @@
         "version": "1.20-Forge-2.0.6",
         "version_id": "Izqhg3Va"
     },
+    "2cMuAZAp": {
+        "checksum": "4c4a965bda239b29befb09070967f401e59defbe64c7d4e34403d9acc3ec51e44d3719863125a84ada3a60934d269206c541ee39ad3fca21ac51f554120c07f0",
+        "client_side_only": false,
+        "name": "Alex's Mobs",
+        "pinned": false,
+        "project_id": "2cMuAZAp",
+        "selected": true,
+        "version": "1.22.8",
+        "version_id": "oaRqJ7uM"
+    },
     "2gvRmQXx": {
         "checksum": "2c857bdc6a7ba0fdfac0875a9aade7cf3247d9f62b25a95c237051e674c05a0028ffdfe6ef8b5cc431b943a28a508cb1d51d2919dac1be6739e8b5b99f9ae8f7",
         "client_side_only": false,
@@ -658,6 +668,16 @@
         "selected": true,
         "version": "1.20-Forge-2.0.6",
         "version_id": "2nUEz0zq"
+    },
+    "Z6ykjRlM": {
+        "checksum": "c4c9e3bb02d512347c50337aadf718c26217b21526516c38f75e0dd18b287d73411cc209936caac53d65f18291c59d541b54bb9bc9d0a74c8aadf1da25a67801",
+        "client_side_only": true,
+        "name": "Spyglass Improvements",
+        "pinned": false,
+        "project_id": "Z6ykjRlM",
+        "selected": true,
+        "version": "1.5+mc1.20+forge",
+        "version_id": "chgnA6zJ"
     },
     "ZYgyPyfq": {
         "checksum": "59b86035706bcfa8c636079489f934343f42f1e727e00d368ddb1eda34aa4dfe8fc8a71f356f478a0854573f0118c5752ce7e9be0cad3f176492d4449fa36df1",

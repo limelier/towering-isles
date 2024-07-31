@@ -1,4 +1,7 @@
 localpack.toml
 
 # config files ignored by default
-config/*
+config/embeddium-fingerprint.json
+config/oculus.properties
+config/quark-common.toml
+config/fabric/indigo-renderer.properties

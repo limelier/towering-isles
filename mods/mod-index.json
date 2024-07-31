@@ -29,6 +29,16 @@
         "version": "1.20-Forge-2.0.6",
         "version_id": "Izqhg3Va"
     },
+    "2cMuAZAp": {
+        "checksum": "4c4a965bda239b29befb09070967f401e59defbe64c7d4e34403d9acc3ec51e44d3719863125a84ada3a60934d269206c541ee39ad3fca21ac51f554120c07f0",
+        "client_side_only": false,
+        "name": "Alex's Mobs",
+        "pinned": false,
+        "project_id": "2cMuAZAp",
+        "selected": true,
+        "version": "1.22.8",
+        "version_id": "oaRqJ7uM"
+    },
     "2gvRmQXx": {
         "checksum": "2c857bdc6a7ba0fdfac0875a9aade7cf3247d9f62b25a95c237051e674c05a0028ffdfe6ef8b5cc431b943a28a508cb1d51d2919dac1be6739e8b5b99f9ae8f7",
         "client_side_only": false,
@@ -38,6 +48,16 @@
         "selected": true,
         "version": "0.12.3",
         "version_id": "NhMILNAm"
+    },
+    "40FYwb4z": {
+        "checksum": "a92069ba40d6cb77c7daed252012f642141f313658cc807d66c4fe17b04714cc05cf68d4c268cf8b14a8eef659f5892249cc9c912c5daa7389e6038bd730c6c2",
+        "client_side_only": false,
+        "name": "Caelus API",
+        "pinned": false,
+        "project_id": "40FYwb4z",
+        "selected": false,
+        "version": "3.2.0+1.20.1",
+        "version_id": "mRry0DgY"
     },
     "4H6sumDB": {
         "checksum": "ad34421ca91b2729196e34a00d671aa661182ff6575056233226eba4d3e3add24063665c1681a44ecf4efb4a1752fe1b376d2d7c8b89159c4224451494f7698a",
@@ -129,6 +149,16 @@
         "version": "4.4.7",
         "version_id": "4ysPVX1z"
     },
+    "8DfbfASn": {
+        "checksum": "5530f14fda845dec4457af9959a22b0d8cfe4a0bbaf28bab7edd5c32c3c8982dc5bb77128bbfd1ff7f845b132a796ede9c87a7f59fcb60a75419ab7750987053",
+        "client_side_only": false,
+        "name": "When Dungeons Arise",
+        "pinned": false,
+        "project_id": "8DfbfASn",
+        "selected": true,
+        "version": "2.1.57-1.20.1",
+        "version_id": "wiCQJUDT"
+    },
     "9VEHG3zg": {
         "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
         "client_side_only": false,
@@ -168,6 +198,26 @@
         "selected": false,
         "version": "0.92.2+1.11.8+1.20.1",
         "version_id": "D3EZO1Kr"
+    },
+    "AtB5mHky": {
+        "checksum": "91148296c6ba1871dbbc69d5e2de351b08695f059d1c8d6cc1110e0fe1c276593e3e53f40daae78cdd7894e0bfb88319c633c9b1e428cab2d1e614e658fa756f",
+        "client_side_only": false,
+        "name": "What Are They Up To (Watut)",
+        "pinned": false,
+        "project_id": "AtB5mHky",
+        "selected": true,
+        "version": "1.20.1-1.1.1",
+        "version_id": "VAZtNTND"
+    },
+    "BCLngNKp": {
+        "checksum": "715d97f7a79a22ebef4659b22db2fd247a2c5fb2eb4fce1b154417a4372132803351eb5058148d1c4c02a3439e2ea5f5a27f11570b6d51b2858604b227777d82",
+        "client_side_only": false,
+        "name": "Stalwart Dungeons",
+        "pinned": false,
+        "project_id": "BCLngNKp",
+        "selected": true,
+        "version": "1.2.8",
+        "version_id": "vgD645b7"
     },
     "BORRKwOq": {
         "checksum": "c298ee9db61aa6dcb821c84b221035a94b45cc1b369e00a92ae6250fe42e7c10c8d3c735e799babf0252061b11f0fc5da144725cd43e66f70f7ef8b82c39824e",
@@ -239,6 +289,16 @@
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
     },
+    "EdBSdqge": {
+        "checksum": "78412569bd583155bf338d79043bfac402e0fcfe5578c770a57b2ce4551be61506cfc1d501161e27f5f6f802c004657aadd31203d5727add750290301fe5e74c",
+        "client_side_only": true,
+        "name": "Spyglass Astronomy",
+        "pinned": false,
+        "project_id": "EdBSdqge",
+        "selected": true,
+        "version": "1.0.10.1",
+        "version_id": "lUMJvYpW"
+    },
     "Eh11TaTm": {
         "checksum": "ee069dcc8cd9942e58280ab4417897ae3746130afbc65396641aa0823c7aba4a9c3cf016cd2fed88be42f52c9d198daabea267e508baad5d21d3dbf40e2d5ebf",
         "client_side_only": false,
@@ -289,6 +349,16 @@
         "version": "1.20.1-1.7.0",
         "version_id": "vVuYfukI"
     },
+    "GkIc6rRo": {
+        "checksum": "5608b830c59f35f9b3bbbb7099e467089f3fc519769e79737e1c28144452ce60807ef1fe75f1bf91064d795d26a06bf94464df05c8acc2a4f1d0cc4a8726a907",
+        "client_side_only": false,
+        "name": "CERBON's API",
+        "pinned": false,
+        "project_id": "GkIc6rRo",
+        "selected": false,
+        "version": "1.1.0",
+        "version_id": "XWZQbKsr"
+    },
     "GmjmRQ0A": {
         "checksum": "17f60a7b1cd3b6c49ce5945600fd2760a99949ab83e9a3bc2d560332190fddef749063a2f72c9dad750550ee561f8697797b665b3ef5f8fb2d1bbe04f93d5db9",
         "client_side_only": false,
@@ -308,6 +378,16 @@
         "selected": true,
         "version": "1.6.1",
         "version_id": "ovtuGAG4"
+    },
+    "HWHl8Evb": {
+        "checksum": "5793e90fda4698d634dcd4c53584b2b368d9856e11636b94c5179ca8236c815d424e9339bf01088506c50206d647ee234cace6b44e0b671e4d59a477e2d6bf2e",
+        "client_side_only": false,
+        "name": "mutil",
+        "pinned": false,
+        "project_id": "HWHl8Evb",
+        "selected": false,
+        "version": "6.1.1",
+        "version_id": "PI1cIWsh"
     },
     "HaaH232J": {
         "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
@@ -459,6 +539,16 @@
         "version": "0.3",
         "version_id": "DGHuSq0v"
     },
+    "RV4ezinu": {
+        "checksum": "11ab6179ee73cce32fc2ec06b51d5580d1fc96ba494a200a4f2c6363116c0b03e4a7327607326356171045629f06cea7cade34eef3d5761b4852c7bed48e176d",
+        "client_side_only": false,
+        "name": "Call of Yucat\u00e1n",
+        "pinned": false,
+        "project_id": "RV4ezinu",
+        "selected": true,
+        "version": "1.0.11",
+        "version_id": "XRYU68wO"
+    },
     "RfFxanNh": {
         "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
         "client_side_only": false,
@@ -579,6 +669,16 @@
         "version": "1.20-Forge-2.0.6",
         "version_id": "2nUEz0zq"
     },
+    "Z6ykjRlM": {
+        "checksum": "c4c9e3bb02d512347c50337aadf718c26217b21526516c38f75e0dd18b287d73411cc209936caac53d65f18291c59d541b54bb9bc9d0a74c8aadf1da25a67801",
+        "client_side_only": true,
+        "name": "Spyglass Improvements",
+        "pinned": false,
+        "project_id": "Z6ykjRlM",
+        "selected": true,
+        "version": "1.5+mc1.20+forge",
+        "version_id": "chgnA6zJ"
+    },
     "ZYgyPyfq": {
         "checksum": "59b86035706bcfa8c636079489f934343f42f1e727e00d368ddb1eda34aa4dfe8fc8a71f356f478a0854573f0118c5752ce7e9be0cad3f176492d4449fa36df1",
         "client_side_only": false,
@@ -599,6 +699,26 @@
         "version": "2.0+mod",
         "version_id": "6zcErTq1"
     },
+    "aC3cM3Vq": {
+        "checksum": "55761388ccd5ceda59be1138f0a1b543c4885bbeaf57b6e742d3a45244236966c580d77289dfcca8eb36cc82658f87fd7d06464bcf4c462e91cf69fb55a78d5f",
+        "client_side_only": true,
+        "name": "Mouse Tweaks",
+        "pinned": false,
+        "project_id": "aC3cM3Vq",
+        "selected": true,
+        "version": "1.20.1-2.25.1-forge",
+        "version_id": "7JVXOe3K"
+    },
+    "bK3Ubu9p": {
+        "checksum": "2bf56741bbf54a422482ae9de32319f9bfb877e49ed96d7b623f25dc7af4ae79c8c62a3573979e6b45c85dab3114cbaf301e7a9a16b7970010ce25c5a4261ca9",
+        "client_side_only": false,
+        "name": "Simply Swords",
+        "pinned": false,
+        "project_id": "bK3Ubu9p",
+        "selected": true,
+        "version": "1.55.0-1.20.1",
+        "version_id": "XmUCc1mp"
+    },
     "cV5LQXKx": {
         "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",
         "client_side_only": false,
@@ -608,6 +728,26 @@
         "selected": true,
         "version": "1.1.9",
         "version_id": "vqYszE4F"
+    },
+    "egyqODDj": {
+        "checksum": "ec08510a915642c26408eee7a772231dffb0f146f08558743f23cb4dd59fe779d4adeafab92d30f88c99db0a91a028ba04b08bded406fa0bdda43ee6cd783db0",
+        "client_side_only": false,
+        "name": "Spellbound Weapons",
+        "pinned": false,
+        "project_id": "egyqODDj",
+        "selected": true,
+        "version": "4.0.5m",
+        "version_id": "nxtkgmc5"
+    },
+    "eiktJyw1": {
+        "checksum": "be29664a8f163df9974b447c9f33f6051fd323f4042188633e7c31a05e4059b444b4e50895183fbc035ca91cf1c63de57a4ef41de8de2b310203a2e3fd25ffbe",
+        "client_side_only": false,
+        "name": "Every Compat (Wood Good)",
+        "pinned": false,
+        "project_id": "eiktJyw1",
+        "selected": true,
+        "version": "1.20-2.6.69",
+        "version_id": "4VChPEGH"
     },
     "fFEIiSDQ": {
         "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
@@ -669,6 +809,26 @@
         "version": "1.1.14",
         "version_id": "8yeZOJDQ"
     },
+    "gedNE4y2": {
+        "checksum": "dd05171b8b2b01f2daa0a1d370d4f64760b59f26169830dc0bb38449a84ff233d756c4a8e81db0e4b5a8297e37a3842f931bbb66e0f68eab39f34ddc02b68923",
+        "client_side_only": false,
+        "name": "playerAnimator",
+        "pinned": false,
+        "project_id": "gedNE4y2",
+        "selected": false,
+        "version": "1.0.2-rc1+1.20-forge",
+        "version_id": "xe2EVE6q"
+    },
+    "gu9PQOOc": {
+        "checksum": "9b1e745427000635a200920e387d9f5eec7c9e759c08a2942755d4dd18b517b4732ee9dcd355053463f7b502e22341ba8d862c7c98963f2e699d75b04f44728e",
+        "client_side_only": false,
+        "name": "trolldom",
+        "pinned": false,
+        "project_id": "gu9PQOOc",
+        "selected": true,
+        "version": "2.0.1",
+        "version_id": "HrAKzfqQ"
+    },
     "h5JyLdjM": {
         "checksum": "dc4330c78056fbc4d755616a15bc562c1ca901eda9d1f14819436dbdb04585a6c18ddef06304f2a2ed969d7696bdb26e657d73856571882e45c055b6d72fb097",
         "client_side_only": false,
@@ -678,6 +838,26 @@
         "selected": true,
         "version": "1.7.0",
         "version_id": "dbdSXAji"
+    },
+    "hB899VmG": {
+        "checksum": "7942e0f41480202fe5f6dc30895017e0eab55b0798ab1e4e67b43fd898e444c262ae9bcc4fd833c7fd8455f1957f28b0be2fcf7b910e2c56f4e92f77c60852b3",
+        "client_side_only": false,
+        "name": "Exposure",
+        "pinned": false,
+        "project_id": "hB899VmG",
+        "selected": true,
+        "version": "1.7.5",
+        "version_id": "vNOYdEJg"
+    },
+    "hFUzfDsn": {
+        "checksum": "a8846143ed17ece94fea70d97912e740b625e0b9fb6378821af11b72bc82c82409b2595aaaa94bde0138977b6e6832a7af0410837575071e1f821ff2dac21d24",
+        "client_side_only": false,
+        "name": "Bosses of Mass Destruction Forge",
+        "pinned": false,
+        "project_id": "hFUzfDsn",
+        "selected": true,
+        "version": "1.1.2",
+        "version_id": "2Kw4xPhp"
     },
     "hGWjTxOA": {
         "checksum": "93d155b5258b8c0c2e49c2500866e3364e3e64c49f03544c25b6bb2038346bd21d39af6b7aa3e67c9cb64b70a9c1614b322a8b7921f84fb9dd6e5ed714d51096",
@@ -739,6 +919,16 @@
         "version": "1.20.1-1.2.4d",
         "version_id": "eh2ccol5"
     },
+    "kidLKymU": {
+        "checksum": "78ec395fbc6907216820880b0285a2d72c533ec977f016616bf862f71aaeafe21fef8f44affd2defa1e9011dbf95f1d2ea970dbae07710156f0cc46b06925dbe",
+        "client_side_only": false,
+        "name": "YUNG's Better Strongholds",
+        "pinned": false,
+        "project_id": "kidLKymU",
+        "selected": true,
+        "version": "1.20-Forge-4.0.3",
+        "version_id": "rwiShgsc"
+    },
     "kkmrDlKT": {
         "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
         "client_side_only": false,
@@ -799,6 +989,16 @@
         "version": "5.18.6+mc1.20.1",
         "version_id": "QroNBg6X"
     },
+    "nvQzSEkH": {
+        "checksum": "f24f5668a1ace8ba79b8b05cf5d858ad2af6bb098d083f2eb13eceeba093eb47564922b8dbb59e4f2efb03f101f866069d7f270963e0d1e05f2ce26ecc5d3e6f",
+        "client_side_only": false,
+        "name": "Jade \ud83d\udd0d",
+        "pinned": false,
+        "project_id": "nvQzSEkH",
+        "selected": true,
+        "version": "11.9.4+forge",
+        "version_id": "MLYKnVCk"
+    },
     "ordsPcFz": {
         "checksum": "7251fd60cd3929ec11b1709807c0d3d24c33f341dfb756eb59c4dc6db392402213ab062736f9354ebdfb184e4ed1df7b589bafbd491134f47023b9f0135e5ac4",
         "client_side_only": false,
@@ -808,6 +1008,16 @@
         "selected": false,
         "version": "4.11.0",
         "version_id": "hmeyC41q"
+    },
+    "qANg5Jrr": {
+        "checksum": "f7986b09cc9b29419260476203534908c385f3034285cf23d82f59e650df7f48afb32a36a08501375f03dc7b5ed0c65dc9d48cd030ae2167400c10e4a2b25d8f",
+        "client_side_only": false,
+        "name": "e4mc",
+        "pinned": false,
+        "project_id": "qANg5Jrr",
+        "selected": true,
+        "version": "4.0.1+1.19.4-forge",
+        "version_id": "bFG2YxbQ"
     },
     "qnQsVE2z": {
         "checksum": "3e299eed6d1f16c9b79e352653add4a1a8fcb29d6307f34c7b8f46f579bef0c66401c4549fb6ff3b0662bcd1ea9e4fa56f63938a81f2b1e20ddab57d92b2c471",
@@ -839,6 +1049,26 @@
         "version": "2.0.0-b1.3.1",
         "version_id": "xZcRn9eT"
     },
+    "rLLJ1OZM": {
+        "checksum": "2d68928bcefe3d63221b9eac7cb584b9600ace2cbe2065cfe6dbeefca04d91301168f366d0d4d18f79855eb89eb1b73b96b325ffcb2c98c2766f207b8a106371",
+        "client_side_only": false,
+        "name": "CoroUtil",
+        "pinned": false,
+        "project_id": "rLLJ1OZM",
+        "selected": false,
+        "version": "1.20.1-1.3.7",
+        "version_id": "6rPDKAT8"
+    },
+    "s4OWxYQQ": {
+        "checksum": "341cb4e6881083a75b4ae78d8b959dbf27df7bd5a80f0206bfde436e7ca08512ec0581c9b5096b2969bbfce9f87b2f56299975f04ff3c025bcd53d07092d1b1c",
+        "client_side_only": false,
+        "name": "Iron's Spells 'n Spellbooks",
+        "pinned": false,
+        "project_id": "s4OWxYQQ",
+        "selected": true,
+        "version": "1.20.1-3.3.0",
+        "version_id": "aiINLOkN"
+    },
     "sk9rgfiA": {
         "checksum": "86f999fb126ca0d2717d08b29ea553a7815b60977ca572b99fb8b669571ce44bd4b9d3fc5a840e9839fb30a5f4a578ffee9553f024655cec89bf08bde7942053",
         "client_side_only": true,
@@ -868,6 +1098,16 @@
         "selected": true,
         "version": "1.20.1-10.1.0-171",
         "version_id": "MAqXk6P8"
+    },
+    "tagwiZkJ": {
+        "checksum": "d4fa5a8c5d65b2de5881ce9d5576a69b11f38e79ac2d7fe671ca09568f56eff6674f99248e11f26038f097628b224f72658bf3b6a324d3f96c7abe59f536d05d",
+        "client_side_only": false,
+        "name": "Polymorph",
+        "pinned": false,
+        "project_id": "tagwiZkJ",
+        "selected": true,
+        "version": "0.49.2+1.20.1",
+        "version_id": "km82tZAr"
     },
     "tpehi7ww": {
         "checksum": "ec788accfd9258ec8e7826b41a18db68e196c9bd74df8ca155962673c8e74388f3e32b353b7afaaeb82a222daea1c66b3452a5f0f286a627396630df1ed0293f",
@@ -938,6 +1178,16 @@
         "selected": true,
         "version": "1.0.1+1.20.1",
         "version_id": "Tju2o3p2"
+    },
+    "xuDOzCLy": {
+        "checksum": "d5e50d7e877501d0f6c9ea343560e78e4c20786a1b2ecf1d78d3fecab74e97d6dae646b4a2f44a43b0d863f58c12a8e7adad219810e22a8fbd6baa29d0b0f262",
+        "client_side_only": false,
+        "name": "Jade Addons (Forge)",
+        "pinned": false,
+        "project_id": "xuDOzCLy",
+        "selected": true,
+        "version": "5.2.2",
+        "version_id": "AdyaTuHw"
     },
     "zCh7omyG": {
         "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",

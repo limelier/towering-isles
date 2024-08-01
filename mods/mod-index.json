@@ -1069,6 +1069,16 @@
         "version": "1.20.1-3.3.0",
         "version_id": "aiINLOkN"
     },
+    "sMHZd2kw": {
+        "checksum": "f806615170ec0baad905c11fd66741f8c8942f621713b147dd7db962e33e59be9497e05f2741485bde0abe33e0dc7d1cbb9cde47958ecc367c0c99f0bbac32f7",
+        "client_side_only": false,
+        "name": "Sparse Structures Reforged",
+        "pinned": false,
+        "project_id": "sMHZd2kw",
+        "selected": true,
+        "version": "0.0.1",
+        "version_id": "5z0uxlH9"
+    },
     "sk9rgfiA": {
         "checksum": "86f999fb126ca0d2717d08b29ea553a7815b60977ca572b99fb8b669571ce44bd4b9d3fc5a840e9839fb30a5f4a578ffee9553f024655cec89bf08bde7942053",
         "client_side_only": true,

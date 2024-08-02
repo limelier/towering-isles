@@ -179,6 +179,16 @@
         "version": "2.1.57-1.20.1",
         "version_id": "wiCQJUDT"
     },
+    "8shC1gFX": {
+        "checksum": "1ae64dc8d0b8e42aea0bc630e2ffa162c4c4d15d02e72d38cb24a22a12a7a10a103e636ed13c3f29ea926a0a809e5d85ae117539816a6a8354f39cdd475d09f0",
+        "client_side_only": true,
+        "name": "BetterF3",
+        "pinned": false,
+        "project_id": "8shC1gFX",
+        "selected": true,
+        "version": "7.0.2",
+        "version_id": "xo6HmgWj"
+    },
     "9VEHG3zg": {
         "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
         "client_side_only": false,

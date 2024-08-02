@@ -219,6 +219,16 @@
         "version": "11.1.118+forge",
         "version_id": "nr1znv5v"
     },
+    "AVq17PqV": {
+        "checksum": "5924ecfdae525df816e83ca1bac7d6f917d8f43df952df7a384382e3390d1b57b4e1eea7988f52bab5f4b9e0780780f03b9ab7564d3e18426fc7345846bc4672",
+        "client_side_only": false,
+        "name": "Leaves Be Gone",
+        "pinned": false,
+        "project_id": "AVq17PqV",
+        "selected": true,
+        "version": "v8.0.0-1.20.1-Forge",
+        "version_id": "slScQFdb"
+    },
     "Aqlf1Shp": {
         "checksum": "c92ebe2c7425bec3181673c17970804a9228d65521eb98c7e5e74e7a79bab50c07053d1599026baeb39123a1b3d346f74f5b50b1bae954e385f7930fa8e3ad40",
         "client_side_only": false,
@@ -548,6 +558,16 @@
         "selected": true,
         "version": "9.5.11",
         "version_id": "jDAjEp8X"
+    },
+    "QAGBst4M": {
+        "checksum": "e4576bc4a5f646cdd861d568daefe250ca810c9f80af7ed75ce6413c8c4d3461c37a570c8aa06f99f6fe89190dc2ea1f490037136a092827334eed7aab3fda71",
+        "client_side_only": false,
+        "name": "Puzzles Lib",
+        "pinned": false,
+        "project_id": "QAGBst4M",
+        "selected": false,
+        "version": "v8.1.21-1.20.1-Forge",
+        "version_id": "z0kHAGDv"
     },
     "R2OftAxM": {
         "checksum": "7ef7759227e6f64d80b998462b54ec02be1ca6be7be1c8aef4426894758c211890c53965f9ed10ee68d9321cf8ccbadaeb7c26b50056ed577cdb1ea753c4e4ba",

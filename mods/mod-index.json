@@ -629,6 +629,16 @@
         "version": "F-0.5.6+1.20.1",
         "version_id": "XTrgsfIB"
     },
+    "UVtY3ZAC": {
+        "checksum": "9d237103dae9caf75bc7515277241e6d6241c8f6f1893e816e38b66aad74af6c54944396ea0d73b6285f49b63fc55125991c1038ae9554924a6bf2ebae2e93da",
+        "client_side_only": true,
+        "name": "Enchantment Descriptions",
+        "pinned": false,
+        "project_id": "UVtY3ZAC",
+        "selected": true,
+        "version": "17.0.16",
+        "version_id": "zzrCQ69V"
+    },
     "Ua7DFN59": {
         "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
         "client_side_only": false,
@@ -1248,6 +1258,16 @@
         "selected": true,
         "version": "6.0.1",
         "version_id": "DG5Fn9Sz"
+    },
+    "uy4Cnpcm": {
+        "checksum": "348ac9efb39abfbb5311e1cc6c244c7eac8e779d5e8efd1d48076f1b2b1938d7224ff7173c3f7fc1ad7993cfc32dda4c66b9940943f6f78c416f96429f4e7b86",
+        "client_side_only": false,
+        "name": "Bookshelf",
+        "pinned": false,
+        "project_id": "uy4Cnpcm",
+        "selected": false,
+        "version": "20.2.13",
+        "version_id": "tNwsir0K"
     },
     "vvuO3ImH": {
         "checksum": "786c6c34e3f1a5358075cf95330b3e732293861a4ca60e4aa1780b55d32d3ab5b998b014bd521b3567f474a7bab738f821d46b71a7da201e0fa9321bb8e7e03b",

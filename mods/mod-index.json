@@ -819,6 +819,16 @@
         "version": "forge-0.4.2",
         "version_id": "dcVcnZ7u"
     },
+    "fuuu3xnx": {
+        "checksum": "a9ff55588e577256d98b20d1d7af19bf7ed703a597e86e59b88c9c13260063bc7185a9d511f75216bfa21062c075e603bc1cbc5c3b81e75da3a376189ef64661",
+        "client_side_only": true,
+        "name": "Searchables",
+        "pinned": false,
+        "project_id": "fuuu3xnx",
+        "selected": false,
+        "version": "1.0.3",
+        "version_id": "PM9yAW1G"
+    },
     "gBGdVBJy": {
         "checksum": "17696d446312b7cd3bd4fd4bd1f718ba5756657499a39519141b001ca5a59bacb24d5de09d3b36ed26ee57fb5d3e71adf9e835e13b87f6dea39edb2e13c2572f",
         "client_side_only": false,
@@ -1248,6 +1258,16 @@
         "selected": true,
         "version": "5.2.2",
         "version_id": "AdyaTuHw"
+    },
+    "xv94TkTM": {
+        "checksum": "98cf6f7b5d08d4d64999666ca61ca52785496b8e8c3c5f715280b7b59fbfb1765aea69fbc7b4593a90ac1784253f0b2038b18bd26978512a63542f566b60d2d9",
+        "client_side_only": true,
+        "name": "Controlling",
+        "pinned": false,
+        "project_id": "xv94TkTM",
+        "selected": true,
+        "version": "12.0.2",
+        "version_id": "LH6Bi6Am"
     },
     "zCh7omyG": {
         "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",

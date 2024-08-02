@@ -1,4 +1,14 @@
 {
+    "11hKNQb2": {
+        "checksum": "45931ea58f61404da843cb621aa5e1f2b5bea9ff6686175f9bd88863c0820335514f2e47d10314472617e9986f0ade74a0846d5da0b6286939243faf409af10d",
+        "client_side_only": true,
+        "name": "EMI Enchants",
+        "pinned": false,
+        "project_id": "11hKNQb2",
+        "selected": true,
+        "version": "1.0.0",
+        "version_id": "Lzvq7JEE"
+    },
     "1DWmBJVA": {
         "checksum": "5be1cdecfabce11751615f1f50c03b654b5399a854078912f2183c9c9a9d3b8718938f7b680d54b1adf31ea9c5f3145fc268193fc3d27c7d4092423d6ce3bdc4",
         "client_side_only": false,
@@ -128,6 +138,16 @@
         "selected": true,
         "version": "1.20-1.2.8",
         "version_id": "rygiK2go"
+    },
+    "705gWllI": {
+        "checksum": "17d6a7c57630f88b3b0f7300fb99c4fbb1776c1f5bcf8f35776fa0db2f6c6f4eb6ee57655755099b7e1860939fc3d94d87bcd9c2724fce65f454d948a8462d14",
+        "client_side_only": true,
+        "name": "EMIffect",
+        "pinned": false,
+        "project_id": "705gWllI",
+        "selected": true,
+        "version": "forge-1.1.2+mc1.20.1",
+        "version_id": "cwzXpY1E"
     },
     "84USeAvk": {
         "checksum": "146bc6742be12f32bea00ecb6d7310bd9b433c2bbca8e437d8371529664b4f7c1826b198bfee0ad0be9f656f38ac628d621cf843c1abc25f75ecdb497c226576",
@@ -789,6 +809,16 @@
         "version": "3.4.5",
         "version_id": "Hxo3cge6"
     },
+    "ftdbN0KK": {
+        "checksum": "2456e4876827ba922fa2629c3a7970205a8f9cef08636d78468038433a0cf1d1806d140b20c470fa4b13dbb4800abe32f1a8421c5385c37681d9222f72045310",
+        "client_side_only": false,
+        "name": "bad packets",
+        "pinned": false,
+        "project_id": "ftdbN0KK",
+        "selected": false,
+        "version": "forge-0.4.2",
+        "version_id": "dcVcnZ7u"
+    },
     "gBGdVBJy": {
         "checksum": "17696d446312b7cd3bd4fd4bd1f718ba5756657499a39519141b001ca5a59bacb24d5de09d3b36ed26ee57fb5d3e71adf9e835e13b87f6dea39edb2e13c2572f",
         "client_side_only": false,
@@ -878,6 +908,16 @@
         "selected": true,
         "version": "1.0.0",
         "version_id": "sNMfFTww"
+    },
+    "j2HhbEE7": {
+        "checksum": "d31a86839deafd2f9d1f507f15fa7c02b565d7e21b3951c4819e4f036165539676c6f49990a7986d864c3874a4654c979accf024b32f529476aaea8ce8110bf5",
+        "client_side_only": true,
+        "name": "EMI Trades",
+        "pinned": false,
+        "project_id": "j2HhbEE7",
+        "selected": true,
+        "version": "forge-1.2.1+mc1.20.1",
+        "version_id": "LBT7pcVH"
     },
     "jJfV67b1": {
         "checksum": "54afd794f0386911987eaa166f898baa3db910dc0423d3dd5fbe894ddf7afadab7174911e088638e63056f93af02438198282f053f581fe30c6a7f64538e8b91",
@@ -1018,6 +1058,16 @@
         "selected": true,
         "version": "4.0.1+1.19.4-forge",
         "version_id": "bFG2YxbQ"
+    },
+    "qbbO7Jns": {
+        "checksum": "dc32b8411d87e19c53bcff7e6cf392a4268c1a948e8661c63b9e1896a5377bedb2a2c579881ef8e140daf93896d54b9411799b9cbad2c2547fd248993ac3eed9",
+        "client_side_only": false,
+        "name": "EMI Loot",
+        "pinned": false,
+        "project_id": "qbbO7Jns",
+        "selected": true,
+        "version": "0.6.5+1.20.1+forge",
+        "version_id": "91c49w5V"
     },
     "qnQsVE2z": {
         "checksum": "3e299eed6d1f16c9b79e352653add4a1a8fcb29d6307f34c7b8f46f579bef0c66401c4549fb6ff3b0662bcd1ea9e4fa56f63938a81f2b1e20ddab57d92b2c471",

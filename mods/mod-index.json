@@ -309,6 +309,16 @@
         "version": "2.1+mod",
         "version_id": "qWJ0YcQq"
     },
+    "CrDd9QcD": {
+        "checksum": "5e7c857fa7704e05a35aaa1a79fc2b86928aebefc7b8c5e87eb8197d081b308bbf8fa954a52fb73ad2f942f3182faeaa9d0d0eb91925b6ed91b3873972d4080a",
+        "client_side_only": false,
+        "name": "Salt",
+        "pinned": false,
+        "project_id": "CrDd9QcD",
+        "selected": true,
+        "version": "1.2.6",
+        "version_id": "8A75yWDg"
+    },
     "EO27GKs1": {
         "checksum": "afc7367b0693f3f0bcaf8efe37442b6ae8fda094b1bbb4a1b0e579548aae197dc78ff6502f9ba5f437865e22fe294c9d6f82cae81e0e9007aeda9e45f386b8a6",
         "client_side_only": true,
@@ -719,6 +729,16 @@
         "version": "1.1.6",
         "version_id": "leDMJ3Pd"
     },
+    "YWGP4Y1d": {
+        "checksum": "1e7f343e4ec049618fab4bce12ae431fb44cd1a5b8330f05d728eacb460118fd7e4995b75970caaf59865e5f1b8508f92427f67e35ac925aebfce63ca08932e2",
+        "client_side_only": false,
+        "name": "Chalk",
+        "pinned": false,
+        "project_id": "YWGP4Y1d",
+        "selected": true,
+        "version": "1.6.4",
+        "version_id": "YhueAXpz"
+    },
     "Z2mXHnxP": {
         "checksum": "bec16551098648de28f72287f95d6bdca7b688662bf5d29c27d2b2eb0e60291adf41322704f304a4db6555bb380d33f26fb6f74b2f7c14b5a2357ba1211795ab",
         "client_side_only": false,
@@ -768,6 +788,16 @@
         "selected": true,
         "version": "1.20.1-2.25.1-forge",
         "version_id": "7JVXOe3K"
+    },
+    "b3w1XM9H": {
+        "checksum": "a90c6ad56ccc59970f761beee0d06dd5dd4c501019622d664aa4c8acfe50230d970e53f120b0cd93c0bfbcb9292b3e6cb5e038aba5ae0b45a61e961e42a81719",
+        "client_side_only": false,
+        "name": "Sooty Chimneys",
+        "pinned": false,
+        "project_id": "b3w1XM9H",
+        "selected": true,
+        "version": "1.2.1",
+        "version_id": "antfC9D5"
     },
     "bK3Ubu9p": {
         "checksum": "2bf56741bbf54a422482ae9de32319f9bfb877e49ed96d7b623f25dc7af4ae79c8c62a3573979e6b45c85dab3114cbaf301e7a9a16b7970010ce25c5a4261ca9",

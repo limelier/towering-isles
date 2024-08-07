@@ -1269,6 +1269,16 @@
         "version": "forge_1.20-2.12.9",
         "version_id": "DJ6tP5np"
     },
+    "u58R1TMW": {
+        "checksum": "30dd90593359d17e69212580d4754d8ce1dfff217d6a4dcbdd748da162a2d58baa44800149107d0e4c936cc75374107a1c9ccd72c7cff89e8b33383084e21847",
+        "client_side_only": false,
+        "name": "Sinytra Connector",
+        "pinned": false,
+        "project_id": "u58R1TMW",
+        "selected": true,
+        "version": "1.0.0-beta.44+1.20.1",
+        "version_id": "74Z0Kmgx"
+    },
     "u6dRKJwZ": {
         "checksum": "0af018fc2ab27d85ba6feb137d52e095f837f7cf58e5a5f484c672134986f427ae3494b67e807a44c4c43191b03666d60f5dbe8c2b8c3f73ce167e64892131bb",
         "client_side_only": true,
@@ -1369,4 +1379,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

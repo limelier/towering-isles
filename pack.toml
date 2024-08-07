@@ -12,3 +12,4 @@ include_directories = []
 [loader]
 type = "neoforge"
 sinytra_compat = true
+prefer_fabric_geckolib = false

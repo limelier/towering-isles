@@ -19,6 +19,16 @@
         "version": "1.4.26",
         "version_id": "IVgBjB7L"
     },
+    "1IjD5062": {
+        "checksum": "0b5abbaface8895293b8ca689a63aa08dd2550991547515cc382dcc379395a5ec208d182042b34fe7ef085fc219696a178c3db4c67ff2490c0176ab9e7566f54",
+        "client_side_only": true,
+        "name": "Continuity",
+        "pinned": false,
+        "project_id": "1IjD5062",
+        "selected": true,
+        "version": "3.0.0-beta.5+1.20.1",
+        "version_id": "84Zs6tNo"
+    },
     "1dxbxzCg": {
         "checksum": "1de85665225be7db5cea6a29a72667f84227a9fd2825941c11fc16c838985b15a1dc0dd48e7888cba79cec8901b6a9e48e40510333077c42da02d821a914a05e",
         "client_side_only": false,
@@ -1349,6 +1359,16 @@
         "version": "1.0.1+1.20.1",
         "version_id": "Tju2o3p2"
     },
+    "x6r7yhfi": {
+        "checksum": "52e1db55a291a69f38eaf5fa3156751bd2351f2f24d7c31e043e13f8a7f9ecf3419adc7bb72db85a9bd6b80040b3c175e2bcf41f2d4992738a3e99d639b849be",
+        "client_side_only": false,
+        "name": "Storage Labels",
+        "pinned": false,
+        "project_id": "x6r7yhfi",
+        "selected": true,
+        "version": "1.20-1.20.1",
+        "version_id": "ra0opL4S"
+    },
     "xuDOzCLy": {
         "checksum": "d5e50d7e877501d0f6c9ea343560e78e4c20786a1b2ecf1d78d3fecab74e97d6dae646b4a2f44a43b0d863f58c12a8e7adad219810e22a8fbd6baa29d0b0f262",
         "client_side_only": false,
@@ -1368,6 +1388,16 @@
         "selected": true,
         "version": "12.0.2",
         "version_id": "LH6Bi6Am"
+    },
+    "yBW8D80W": {
+        "checksum": "d0789d237ac15e6df0fe58e6272055defd72a49de1d3e133e4568aa42984beb65ccc07b88d44fb41ea70971f09ea9c02a71fa83c13e8ec7f7e9db377728c0526",
+        "client_side_only": true,
+        "name": "LambDynamicLights",
+        "pinned": false,
+        "project_id": "yBW8D80W",
+        "selected": true,
+        "version": "2.3.2+1.20.1",
+        "version_id": "mYl4RvKg"
     },
     "zCh7omyG": {
         "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",

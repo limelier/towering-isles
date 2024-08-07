@@ -59,6 +59,16 @@
         "version": "0.12.3",
         "version_id": "NhMILNAm"
     },
+    "3qAYkBMB": {
+        "checksum": "91e7b670861d02584301a85436691f684e16fdd1bf8b021164f2958fe76597583a9685e5d0f2fd530fe98d188422a363f9f5b6749433d5f66dab134532842928",
+        "client_side_only": true,
+        "name": "Polytone",
+        "pinned": false,
+        "project_id": "3qAYkBMB",
+        "selected": true,
+        "version": "1.20-2.2.2",
+        "version_id": "mxTzAT0A"
+    },
     "40FYwb4z": {
         "checksum": "a92069ba40d6cb77c7daed252012f642141f313658cc807d66c4fe17b04714cc05cf68d4c268cf8b14a8eef659f5892249cc9c912c5daa7389e6038bd730c6c2",
         "client_side_only": false,
@@ -1379,5 +1389,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

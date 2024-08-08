@@ -159,6 +159,16 @@
         "version": "1.2.18+1.20.4-forge",
         "version_id": "XgQjD9fF"
     },
+    "67kVxsaO": {
+        "checksum": "46c9b0818d14b81818fa2c412bce66ed32c10426da4a266a4e30720b214cc3081e3c2ca746b762f1a97138307faa4fdbf16e486cd039c09452ea614db3444a82",
+        "client_side_only": false,
+        "name": "Load My F***ing Tags",
+        "pinned": false,
+        "project_id": "67kVxsaO",
+        "selected": true,
+        "version": "1.0.4+1.20.1",
+        "version_id": "XJdD8eB6"
+    },
     "6iTJugQR": {
         "checksum": "8374ea8fca00d2b275bb9211fb31983aac2d486ba8799a6a676f46136098e6de226b9dd6c69fb513caffba20fa7c5529f8f30e1942d0df0c9e6ad975d9d63416",
         "client_side_only": false,
@@ -1429,5 +1439,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

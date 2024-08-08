@@ -379,16 +379,6 @@
         "version": "1.20.1-forge-1.5.1-beta.3",
         "version_id": "9gbnRz82"
     },
-    "EdBSdqge": {
-        "checksum": "78412569bd583155bf338d79043bfac402e0fcfe5578c770a57b2ce4551be61506cfc1d501161e27f5f6f802c004657aadd31203d5727add750290301fe5e74c",
-        "client_side_only": true,
-        "name": "Spyglass Astronomy",
-        "pinned": false,
-        "project_id": "EdBSdqge",
-        "selected": true,
-        "version": "1.0.10.1",
-        "version_id": "lUMJvYpW"
-    },
     "Eh11TaTm": {
         "checksum": "ee069dcc8cd9942e58280ab4417897ae3746130afbc65396641aa0823c7aba4a9c3cf016cd2fed88be42f52c9d198daabea267e508baad5d21d3dbf40e2d5ebf",
         "client_side_only": false,
@@ -1439,4 +1429,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

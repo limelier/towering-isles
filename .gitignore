@@ -3,5 +3,6 @@ localpack.toml
 
 # config files ignored by default
 config/*
+!config/paxi
 !config/lmft.json
 !config/oculus.properties

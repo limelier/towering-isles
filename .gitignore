@@ -4,3 +4,4 @@ localpack.toml
 # config files ignored by default
 config/*
 !config/lmft.json
+!config/oculus.properties

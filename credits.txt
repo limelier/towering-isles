@@ -1,2 +1,5 @@
 Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
+Biome Berries: https://www.planetminecraft.com/texture-pack/biome-berries/
+Complementary Shaders: https://www.complementary.dev/shaders/
+Euphoria Patches: https://modrinth.com/mod/euphoria-patches

@@ -6,3 +6,4 @@ config/*
 !config/paxi
 !config/lmft.json
 !config/oculus.properties
+!config/defaultoptions

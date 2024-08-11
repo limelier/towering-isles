@@ -39,6 +39,16 @@
         "version": "4.7.0",
         "version_id": "NICdzU31"
     },
+    "1eAoo2KR": {
+        "checksum": "e4e038f932f68ed6bd8c2d2ed943afe4437cd96617077880b17330ad13d377c37e712852840a77dbc73b087b565c045cf932491515e857cff06eff6b17b89f43",
+        "client_side_only": true,
+        "name": "YetAnotherConfigLib",
+        "pinned": false,
+        "project_id": "1eAoo2KR",
+        "selected": true,
+        "version": "3.5.0+1.20.1-forge",
+        "version_id": "C0nuSdTs"
+    },
     "2BwBOmBQ": {
         "checksum": "cc4ec2183c1d18967145959b629e2d5f122dfff2ea26bac3b76bb07defb729d1bb62fb9655377deca535d78b4e42f6e9d4e916fe91925ab7a19dffec5170c39e",
         "client_side_only": false,
@@ -288,6 +298,16 @@
         "selected": true,
         "version": "1.20.1-1.1.3",
         "version_id": "Sp0NpaDe"
+    },
+    "B5uMasrz": {
+        "checksum": "1f70f91f6d588b07dc51724ceb8840961172025f3815a65f87c85cd5e2f0deba50bf27fd168b302c28cc72010546b015b5b05799c242c95e3749beb3fcf1c748",
+        "client_side_only": true,
+        "name": "Dust's Keymap",
+        "pinned": false,
+        "project_id": "B5uMasrz",
+        "selected": true,
+        "version": "0.9.0-beta.1+1.20.1-forge",
+        "version_id": "uQyJAqKe"
     },
     "BCLngNKp": {
         "checksum": "715d97f7a79a22ebef4659b22db2fd247a2c5fb2eb4fce1b154417a4372132803351eb5058148d1c4c02a3439e2ea5f5a27f11570b6d51b2858604b227777d82",
@@ -549,6 +569,16 @@
         "version": "1.2.7",
         "version_id": "IGSIk1BM"
     },
+    "MPCX6s5C": {
+        "checksum": "d9d35369436580b9a53986b60185da760da7ed5249de11f0b0c3c5a79a73ab041505da3a851ec89ace3055dfa9d6473e066620dbe56b846f47cfb59f7eacfbc1",
+        "client_side_only": true,
+        "name": "Not Enough Animations",
+        "pinned": false,
+        "project_id": "MPCX6s5C",
+        "selected": true,
+        "version": "1.7.4",
+        "version_id": "Wse7FiBl"
+    },
     "MVARlG2f": {
         "checksum": "a33c5e3e4efb6a8edca0acfb5fe246810d902e574be76ccda0bf43629d9b993478ad7c68dbe348457aff8873294df46851512a100b73cea054efeab366499e11",
         "client_side_only": false,
@@ -649,6 +679,16 @@
         "version": "5.0.1",
         "version_id": "39yHBKs1"
     },
+    "SNVQ2c0g": {
+        "checksum": "244ee2954f845a0ccd3ab786e29c405da50f8aa33b98b9f5448c2deb42e5ddc7f50c408f65c4df9b45cf4846110de9f3c5b01ace4f652b91ded5eb77a2618b45",
+        "client_side_only": false,
+        "name": "M.R.U",
+        "pinned": false,
+        "project_id": "SNVQ2c0g",
+        "selected": false,
+        "version": "0.4.4+1.20.1",
+        "version_id": "IWJh0MMO"
+    },
     "TWsbC6jW": {
         "checksum": "8266dff727311c3234fc4fb212b356cc634d9cad65102291509515b36ece422d11716d356390a528d825037dae95578c2d66959a3470cc80e472d318d0ad7827",
         "client_side_only": false,
@@ -668,6 +708,16 @@
         "selected": true,
         "version": "F-0.5.6+1.20.1",
         "version_id": "XTrgsfIB"
+    },
+    "TyTPFOiF": {
+        "checksum": "c7f4c066dfdb85c76bebe60e53f470946d1b6ef2c9184090b966f1323e2151281090554bd9467e4da2de05bcade48d001289690077523c33103a85dc1d8016d6",
+        "client_side_only": true,
+        "name": "Seamless Loading Screen ",
+        "pinned": false,
+        "project_id": "TyTPFOiF",
+        "selected": true,
+        "version": "2.0.3+1.20.1",
+        "version_id": "iguviUFl"
     },
     "UVtY3ZAC": {
         "checksum": "e8acc1cd2d09b606a4b199bc8841b88ad2d43cbf6488916d20ed7ff6c464580942a68e11a4cba76db1411861b1ae0ee7d98a7d93558ffc4d03666f0da116aaab",
@@ -1189,6 +1239,16 @@
         "version": "1.20.1-4.0-460",
         "version_id": "vIWYw2yn"
     },
+    "qyVF9oeo": {
+        "checksum": "e2356b92111584c9cba9cad1b336b9d0f50f169139dd9d2c8dffeb39b04ddf76da802973dfa5409ef69bfcc258b53127d446df353896b7194712fe6fcdc6b64e",
+        "client_side_only": true,
+        "name": "Sound Physics Remastered",
+        "pinned": false,
+        "project_id": "qyVF9oeo",
+        "selected": true,
+        "version": "forge-1.20.1-1.4.5",
+        "version_id": "AGRkYn5p"
+    },
     "r4Knci2k": {
         "checksum": "cee7e6b162459703d388378b3eed674585e2059f08b48c8fce33a015fe00b30b0b80a4aad8e0d969a7c01433631765a4ddacf04cbbae6b6879a475a6ae083982",
         "client_side_only": false,
@@ -1218,6 +1278,16 @@
         "selected": false,
         "version": "1.20.1-1.3.7",
         "version_id": "6rPDKAT8"
+    },
+    "rcTfTZr3": {
+        "checksum": "53529f3337317e6b230e3d8eca3e3a4f8c4f96324983ad85d1222b75872e6d260f62e9c1480deefbb1fbb69c3e4ba3fd0c84485ada05c51b4e8c026d0252d718",
+        "client_side_only": true,
+        "name": "Presence Footsteps",
+        "pinned": false,
+        "project_id": "rcTfTZr3",
+        "selected": true,
+        "version": "1.9.4+1.20.1",
+        "version_id": "LjDXTyEn"
     },
     "s4OWxYQQ": {
         "checksum": "341cb4e6881083a75b4ae78d8b959dbf27df7bd5a80f0206bfde436e7ca08512ec0581c9b5096b2969bbfce9f87b2f56299975f04ff3c025bcd53d07092d1b1c",
@@ -1389,16 +1459,6 @@
         "version": "5.3.0+forge",
         "version_id": "vSfJX8UF"
     },
-    "xv94TkTM": {
-        "checksum": "98cf6f7b5d08d4d64999666ca61ca52785496b8e8c3c5f715280b7b59fbfb1765aea69fbc7b4593a90ac1784253f0b2038b18bd26978512a63542f566b60d2d9",
-        "client_side_only": true,
-        "name": "Controlling",
-        "pinned": false,
-        "project_id": "xv94TkTM",
-        "selected": true,
-        "version": "12.0.2",
-        "version_id": "LH6Bi6Am"
-    },
     "yBW8D80W": {
         "checksum": "d0789d237ac15e6df0fe58e6272055defd72a49de1d3e133e4568aa42984beb65ccc07b88d44fb41ea70971f09ea9c02a71fa83c13e8ec7f7e9db377728c0526",
         "client_side_only": true,
@@ -1408,6 +1468,16 @@
         "selected": true,
         "version": "2.3.2+1.20.1",
         "version_id": "mYl4RvKg"
+    },
+    "yM94ont6": {
+        "checksum": "ef3328fd379c5ee0e832530648f289ac049856474a3cf3acffe178afd0af2de2db73b7b766632806781ecd3fab3945eb1b9426b15a124e5c98a16c8810824331",
+        "client_side_only": false,
+        "name": "Not Enough Crashes",
+        "pinned": false,
+        "project_id": "yM94ont6",
+        "selected": true,
+        "version": "4.4.7+1.20.1-forge",
+        "version_id": "W6W0bVtN"
     },
     "zCh7omyG": {
         "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",
@@ -1429,5 +1499,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

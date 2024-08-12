@@ -239,16 +239,6 @@
         "version": "7.0.2",
         "version_id": "xo6HmgWj"
     },
-    "9VEHG3zg": {
-        "checksum": "82bf9fad7f03d8bfc66bc46058db96fb19aae2655d7f75de0fb758d34449b1026f476f2c1db79d9b806a9a84a42d3942411dae76b71a0975bbf0416c63322312",
-        "client_side_only": false,
-        "name": "Structure Credits",
-        "pinned": false,
-        "project_id": "9VEHG3zg",
-        "selected": true,
-        "version": "1.6",
-        "version_id": "nw5H0kE3"
-    },
     "9rlXSyLg": {
         "checksum": "bf9f1b4eeda0f197108fc593fdd6eb2fc8f94ffc764ac4dda873dfb475306c8356c3a6adb871a4caae7824e6c499fd1b698c9fd731868fce30dc9edd835dd5cd",
         "client_side_only": false,
@@ -1529,4 +1519,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

@@ -939,6 +939,16 @@
         "version": "1.20-2.6.70",
         "version_id": "8WIQXgHC"
     },
+    "fALzjamp": {
+        "checksum": "f27d5e0ccd6772f676ff1fbd7d713c3ec03f3176314d57e3e479c21568643ae120843d655d1314ffc6985b5052766fef3ea43d47da3a762ca9cc43a3ee959e01",
+        "client_side_only": false,
+        "name": "Chunky",
+        "pinned": false,
+        "project_id": "fALzjamp",
+        "selected": true,
+        "version": "1.3.146",
+        "version_id": "4FTDk9wv"
+    },
     "fFEIiSDQ": {
         "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
         "client_side_only": false,
@@ -1519,5 +1529,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

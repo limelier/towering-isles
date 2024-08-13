@@ -859,16 +859,6 @@
         "version": "1.20-Forge-4.0.3",
         "version_id": "h4m8J7w8"
     },
-    "Zi15pXgt": {
-        "checksum": "f6f79dfbe78eb6b1c1928b87cfb7626f7b11819f8577a61f7aa08d334ae526f49bad6cc2f004f25bbcabfa2964147d1bf7c99a1291dd77150b84aab5fda0e303",
-        "client_side_only": false,
-        "name": "CTOV - Immersive Engineering Compat",
-        "pinned": false,
-        "project_id": "Zi15pXgt",
-        "selected": true,
-        "version": "2.0+mod",
-        "version_id": "6zcErTq1"
-    },
     "aC3cM3Vq": {
         "checksum": "55761388ccd5ceda59be1138f0a1b543c4885bbeaf57b6e742d3a45244236966c580d77289dfcca8eb36cc82658f87fd7d06464bcf4c462e91cf69fb55a78d5f",
         "client_side_only": true,
@@ -1519,4 +1509,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

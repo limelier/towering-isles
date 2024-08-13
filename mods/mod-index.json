@@ -1241,7 +1241,7 @@
     },
     "qbbO7Jns": {
         "checksum": "dc32b8411d87e19c53bcff7e6cf392a4268c1a948e8661c63b9e1896a5377bedb2a2c579881ef8e140daf93896d54b9411799b9cbad2c2547fd248993ac3eed9",
-        "client_side_only": false,
+        "client_side_only": true,
         "name": "EMI Loot",
         "pinned": false,
         "project_id": "qbbO7Jns",

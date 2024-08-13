@@ -690,14 +690,14 @@
         "version_id": "IWJh0MMO"
     },
     "TWsbC6jW": {
-        "checksum": "8266dff727311c3234fc4fb212b356cc634d9cad65102291509515b36ece422d11716d356390a528d825037dae95578c2d66959a3470cc80e472d318d0ad7827",
+        "checksum": "14f497116aacd63e2ec4429220e4b5203e6af6855198406789e7a5066531365fb402fa1d90573abb9473e98467a110bbe33cb96a69bdffc2c760ac3901342dbb",
         "client_side_only": false,
         "name": "Additional Structures",
         "pinned": false,
         "project_id": "TWsbC6jW",
         "selected": true,
-        "version": "v.4.2.0",
-        "version_id": "jMnNjoky"
+        "version": "v.4.2.1",
+        "version_id": "Y5xnelKV"
     },
     "Tkikq67H": {
         "checksum": "a1e3d77562c232fd44979c3d47b0c77a2d26a2bfaeb2c8284326f4826180ecc87ad6f7f1d30d1e75968ca2aae3ca6dc6a20768e4994e37b9d37519ac7e9fce90",
@@ -1519,5 +1519,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

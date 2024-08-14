@@ -7,4 +7,3 @@ config/*
 !config/lmft.json
 !config/oculus.properties
 !config/defaultoptions
-!config/plasmovoice/client.toml

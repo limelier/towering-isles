@@ -239,6 +239,16 @@
         "version": "7.0.2",
         "version_id": "xo6HmgWj"
     },
+    "9eGKb6K1": {
+        "checksum": "9beaa3bf54792d467c1cd7614286b871e255a9c66ba8499dbd906cf6cdb26ac157df8d86de3b851b88147392aa50c2263d7ed129a72e3749192169b873dc2733",
+        "client_side_only": false,
+        "name": "Simple Voice Chat",
+        "pinned": false,
+        "project_id": "9eGKb6K1",
+        "selected": true,
+        "version": "forge-1.20.1-2.4.32",
+        "version_id": "nHtyikTv"
+    },
     "9rlXSyLg": {
         "checksum": "bf9f1b4eeda0f197108fc593fdd6eb2fc8f94ffc764ac4dda873dfb475306c8356c3a6adb871a4caae7824e6c499fd1b698c9fd731868fce30dc9edd835dd5cd",
         "client_side_only": false,
@@ -368,6 +378,16 @@
         "selected": true,
         "version": "1.2.6",
         "version_id": "8A75yWDg"
+    },
+    "D157Rgyf": {
+        "checksum": "97184664d8fbdaeab446051a2671d97476444c3dcca3099b4967773e52742584b03dc1c7db1df61c547d0dc8b7f7b7d030fec112377e29cce0c98856b4836c8d",
+        "client_side_only": false,
+        "name": "Lexiconfig",
+        "pinned": false,
+        "project_id": "D157Rgyf",
+        "selected": true,
+        "version": "1.3.11",
+        "version_id": "lwVdnWWV"
     },
     "EO27GKs1": {
         "checksum": "566869d87ed16508011138732b97aa84b8537756db6bbce2840e0cdb1e4c58e04d16bd7aecee8f2990e312b45734c9edf5c8a9fd598ec8658ced376792b893f8",
@@ -678,6 +698,16 @@
         "selected": true,
         "version": "5.0.1",
         "version_id": "39yHBKs1"
+    },
+    "S7b8mMXS": {
+        "checksum": "0a1e55d564cc79f724965303ded55adf663802b0ec6c460685b0c985228f6efd9265271554a0f3af69cf1ee9ad84e84846453e36206d6e0c7d11505afe0e3bb5",
+        "client_side_only": false,
+        "name": "Simple Voice Radio",
+        "pinned": false,
+        "project_id": "S7b8mMXS",
+        "selected": true,
+        "version": "2.4.6.1",
+        "version_id": "WQ689CyS"
     },
     "SNVQ2c0g": {
         "checksum": "244ee2954f845a0ccd3ab786e29c405da50f8aa33b98b9f5448c2deb42e5ddc7f50c408f65c4df9b45cf4846110de9f3c5b01ace4f652b91ded5eb77a2618b45",
@@ -1249,6 +1279,16 @@
         "version": "1.20.1-4.0-460",
         "version_id": "vIWYw2yn"
     },
+    "qsSP2ZZ0": {
+        "checksum": "9f7b8b40e329c4117d37f1b296c56937a6f3a8ba363119d1af2faa91aab6299c0e4778865a136c025eb5d811aecc2dfdcce22c6c2676b536e759b858d65f1259",
+        "client_side_only": false,
+        "name": "Voice Chat Interaction",
+        "pinned": false,
+        "project_id": "qsSP2ZZ0",
+        "selected": true,
+        "version": "fabric-1.20.1-1.0.6",
+        "version_id": "LX0uNyw4"
+    },
     "qyVF9oeo": {
         "checksum": "e2356b92111584c9cba9cad1b336b9d0f50f169139dd9d2c8dffeb39b04ddf76da802973dfa5409ef69bfcc258b53127d446df353896b7194712fe6fcdc6b64e",
         "client_side_only": true,
@@ -1509,5 +1549,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

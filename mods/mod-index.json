@@ -129,6 +129,16 @@
         "version": "2.1.3",
         "version_id": "7Jih1uiK"
     },
+    "4KjqhPc9": {
+        "checksum": "e31bdee980e63563faaef39733db2b125e69645e89e53f19473537fe13cb233f8bdfb2840f06a4ba94235a57eb1e9d292a0729fb7b53d83eeb767c10212f155f",
+        "client_side_only": false,
+        "name": "Surveyor Map Framework",
+        "pinned": false,
+        "project_id": "4KjqhPc9",
+        "selected": true,
+        "version": "0.6.21+1.20",
+        "version_id": "XNwDex7s"
+    },
     "4TTDxtOx": {
         "checksum": "d413c37cf2a432112fc0583ee0af5b4960e7793bd85899b4e71356735f7616b4ffe06b0939039b4a02698ba4f4eab8cb4bf4fa924950f2be3aa4d879601067fa",
         "client_side_only": false,
@@ -1599,4 +1609,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

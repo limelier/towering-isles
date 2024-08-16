@@ -419,6 +419,16 @@
         "version": "1.0.8",
         "version_id": "zDQYiIfV"
     },
+    "EpKz6cxj": {
+        "checksum": "864b3dc20b24d93820175720466c5972cf5a02e90f1e97413986cb528f8c4bc25ab5a82c8905770c8d2cf03b34f69c441f06349585f19368f4cc4ca85d51a494",
+        "client_side_only": true,
+        "name": "Map In Slot",
+        "pinned": false,
+        "project_id": "EpKz6cxj",
+        "selected": true,
+        "version": "3.0.0",
+        "version_id": "u9rQ5EKn"
+    },
     "EsAfCjCV": {
         "checksum": "0f4a47a4310ab1af7d88cc9a5b5a817a173611f617cdea24af78b9b972c10500d308e6ac9abcf6ab0fefdcd2a0d148488ba281134a3b3bd7aac2b3db43778a61",
         "client_side_only": false,
@@ -438,6 +448,16 @@
         "selected": true,
         "version": "1.0.3",
         "version_id": "hbZaVz0H"
+    },
+    "GNtptqqU": {
+        "checksum": "b44906c6c2cf9c8c364385813da7d269e69fa67783b8d1993c1c133a51a5669e75006cf9bb2b01b2cefca41ccf20f404c8a0a430f3d04ace38373cdc5a8c666a",
+        "client_side_only": true,
+        "name": "Map Tooltip",
+        "pinned": false,
+        "project_id": "GNtptqqU",
+        "selected": true,
+        "version": "3.0.1",
+        "version_id": "Lp7DWTvI"
     },
     "GWp4jCJj": {
         "checksum": "057487e38b635f1887248ac4a104cfae6998cdb1f300457d8e755d84480db6ee2bcd396fec48d12e12b3641e66ebb9ffefa2c45ad31f57f832c01b469016039b",
@@ -548,6 +568,16 @@
         "selected": true,
         "version": "3.5.9-1.20.1",
         "version_id": "E2BNWtJP"
+    },
+    "K7BL4mb2": {
+        "checksum": "68a99b277b46ada4652bd7ec62d5d3288642fed9c624b03a5b812a30f077656d01e88ff3f51b996b35ee340f6bbb9382c5f1a07b1292e060a946474aa306c4f5",
+        "client_side_only": true,
+        "name": "Client Maps",
+        "pinned": false,
+        "project_id": "K7BL4mb2",
+        "selected": true,
+        "version": "1.0.3+1.20.1",
+        "version_id": "8HOvJwsl"
     },
     "KuNKN7d2": {
         "checksum": "a4ff659e01a7077a43e487d4f8ff55111dd4282706352a94a5bcd7c77a999530892e11a19606bf5ad08585235054eeb64b81cbe6863f71e50f0dfd590e31ef73",
@@ -849,6 +879,16 @@
         "version": "1.1.8",
         "version_id": "Lhb8AZxY"
     },
+    "Y5Ve4Ui4": {
+        "checksum": "77760feadf30d7a355cb80f3cbaf0a888f0c44de8ba98dfdb320308f6cd219c7dec35776002b6f655314fcc05350a5579f49e34d85c15fe31387f6d9603ecfb5",
+        "client_side_only": true,
+        "name": "Antique Atlas 4",
+        "pinned": false,
+        "project_id": "Y5Ve4Ui4",
+        "selected": true,
+        "version": "2.9.13+1.20",
+        "version_id": "x4gOhuty"
+    },
     "YWGP4Y1d": {
         "checksum": "1e7f343e4ec049618fab4bce12ae431fb44cd1a5b8330f05d728eacb460118fd7e4995b75970caaf59865e5f1b8508f92427f67e35ac925aebfce63ca08932e2",
         "client_side_only": false,
@@ -1138,6 +1178,16 @@
         "selected": true,
         "version": "1.20.1-2.0.1",
         "version_id": "f3ttCid9"
+    },
+    "k040zVg5": {
+        "checksum": "440ced80572291c28867527d26f4af8978990f4ddefac5f0074ece1c4da77cd83f89f53bcae956ffca59324a2fc3d053e374a2d8464fac4e76c5b64cab108cdf",
+        "client_side_only": false,
+        "name": "Map Album",
+        "pinned": false,
+        "project_id": "k040zVg5",
+        "selected": true,
+        "version": "1.2.0",
+        "version_id": "7N4fnDj1"
     },
     "k6hi4lMv": {
         "checksum": "a98d3ea84ab3e1f1d2f9b41b22e5ddc9adabf71a7e04ad1bd037801d99ed83cbcf49dbacc08fa6b9608cc487e93afcf8df02945c6ad1784bbc9a5c2efea55788",

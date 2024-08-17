@@ -179,6 +179,16 @@
         "version": "1.2.18+1.20.4-forge",
         "version_id": "XgQjD9fF"
     },
+    "5aaWibi9": {
+        "checksum": "ab3d28d45ee80eb7d604b4038e62308e7323c83a05f91f197de3b6465340454d0c3a78ed41ce31586ad0722c8d648c5572f012cc5df4d88bf7203a25d2157d62",
+        "client_side_only": false,
+        "name": "Trinkets",
+        "pinned": false,
+        "project_id": "5aaWibi9",
+        "selected": false,
+        "version": "3.7.2",
+        "version_id": "AHxQGtuC"
+    },
     "67kVxsaO": {
         "checksum": "46c9b0818d14b81818fa2c412bce66ed32c10426da4a266a4e30720b214cc3081e3c2ca746b762f1a97138307faa4fdbf16e486cd039c09452ea614db3444a82",
         "client_side_only": false,
@@ -308,6 +318,16 @@
         "selected": true,
         "version": "1.20.1-1.1.3",
         "version_id": "Sp0NpaDe"
+    },
+    "AtT9wm5O": {
+        "checksum": "5309ec2fd96a001ff94e5e946c9f9ccf01ec19af9c37503284088985a96bcdbee834eaa4e49d53c1507fe0ec44aff95d2c533e9440ec130ddabc7008b7eb225d",
+        "client_side_only": true,
+        "name": "Radiant Gear",
+        "pinned": false,
+        "project_id": "AtT9wm5O",
+        "selected": false,
+        "version": "2.1.5+1.20.1",
+        "version_id": "97i06Z6R"
     },
     "B5uMasrz": {
         "checksum": "1f70f91f6d588b07dc51724ceb8840961172025f3815a65f87c85cd5e2f0deba50bf27fd168b302c28cc72010546b015b5b05799c242c95e3749beb3fcf1c748",
@@ -548,6 +568,16 @@
         "selected": true,
         "version": "1.20.1-Forge-1.0.2",
         "version_id": "3FmFt8jI"
+    },
+    "HzK9IrCM": {
+        "checksum": "8f12d41fdcea2922904b791a5a81d3e8c8113175b780a6c7a9d6571947025185fbdf5377ee3a8e3ec134a9b18e48f16bada102720a23c29c940cf4da62068678",
+        "client_side_only": false,
+        "name": "Wearable Lanterns",
+        "pinned": false,
+        "project_id": "HzK9IrCM",
+        "selected": true,
+        "version": "1.0.1",
+        "version_id": "FkTLB5q1"
     },
     "IAnP4np7": {
         "checksum": "4b1514f5adf1248e550fb93b2a1db69886cda3e911cdf2ff0a8f3ee77c30df2982bcd90605361010c64601c0c5ea34c1a4991852b1741629350d9df5f3a4bf37",
@@ -1609,5 +1639,4 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
-
+}

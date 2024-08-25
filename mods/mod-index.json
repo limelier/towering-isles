@@ -419,16 +419,6 @@
         "version": "1.0.8",
         "version_id": "zDQYiIfV"
     },
-    "EpKz6cxj": {
-        "checksum": "864b3dc20b24d93820175720466c5972cf5a02e90f1e97413986cb528f8c4bc25ab5a82c8905770c8d2cf03b34f69c441f06349585f19368f4cc4ca85d51a494",
-        "client_side_only": true,
-        "name": "Map In Slot",
-        "pinned": false,
-        "project_id": "EpKz6cxj",
-        "selected": true,
-        "version": "3.0.0",
-        "version_id": "u9rQ5EKn"
-    },
     "EsAfCjCV": {
         "checksum": "0f4a47a4310ab1af7d88cc9a5b5a817a173611f617cdea24af78b9b972c10500d308e6ac9abcf6ab0fefdcd2a0d148488ba281134a3b3bd7aac2b3db43778a61",
         "client_side_only": false,

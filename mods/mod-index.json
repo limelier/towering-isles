@@ -380,14 +380,14 @@
         "version_id": "8A75yWDg"
     },
     "D157Rgyf": {
-        "checksum": "c29709db038a0f08b98d0d5c645d4a75e60c75cb09459b25e555cbf169bb670fca3e9e46e8918ee904aee774b4b6e3981ae52ac54b940bf71e2de33caf6bb71a",
+        "checksum": "97184664d8fbdaeab446051a2671d97476444c3dcca3099b4967773e52742584b03dc1c7db1df61c547d0dc8b7f7b7d030fec112377e29cce0c98856b4836c8d",
         "client_side_only": false,
         "name": "Lexiconfig",
-        "pinned": false,
+        "pinned": true,
         "project_id": "D157Rgyf",
         "selected": true,
         "version": "1.3.11",
-        "version_id": "pwTdTEQD"
+        "version_id": "lwVdnWWV"
     },
     "EO27GKs1": {
         "checksum": "566869d87ed16508011138732b97aa84b8537756db6bbce2840e0cdb1e4c58e04d16bd7aecee8f2990e312b45734c9edf5c8a9fd598ec8658ced376792b893f8",
@@ -1490,14 +1490,14 @@
         "version_id": "j0igWmaL"
     },
     "u6dRKJwZ": {
-        "checksum": "0bff5a03c4801b9eb34d5ca2345d47254ccf657af6a1f7851158e9c9644dd85d6e5dcc81f8e988ee79330bd01abc12d0b1e13a219f5e08af1a1739d7a102ba6f",
+        "checksum": "b86fa400032fa8fbc129476f04423ee9f0f57d2a065de047dee3265a8f94724b00aef3f697abd9c98fd39f00becd282a38e6ba96e4d9d37ee7f3d0bf9dbe9033",
         "client_side_only": true,
         "name": "Just Enough Items",
-        "pinned": false,
+        "pinned": true,
         "project_id": "u6dRKJwZ",
         "selected": true,
-        "version": "15.12.3.55",
-        "version_id": "OATFVg0W"
+        "version": "15.12.3.54",
+        "version_id": "lTsLGis7"
     },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",

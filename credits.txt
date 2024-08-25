@@ -1,5 +1,4 @@
 Credits:
-Vanilla Tweaks: https://vanillatweaks.net/
 Biome Berries: https://www.planetminecraft.com/texture-pack/biome-berries/
 Realistic Moon and Sun: https://www.planetminecraft.com/texture-pack/realistic-moon-and-sun/
 Complementary Shaders: https://www.complementary.dev/shaders/

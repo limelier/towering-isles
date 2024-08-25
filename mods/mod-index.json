@@ -579,16 +579,6 @@
         "version": "3.5.9-1.20.1",
         "version_id": "E2BNWtJP"
     },
-    "K7BL4mb2": {
-        "checksum": "68a99b277b46ada4652bd7ec62d5d3288642fed9c624b03a5b812a30f077656d01e88ff3f51b996b35ee340f6bbb9382c5f1a07b1292e060a946474aa306c4f5",
-        "client_side_only": true,
-        "name": "Client Maps",
-        "pinned": false,
-        "project_id": "K7BL4mb2",
-        "selected": true,
-        "version": "1.0.3+1.20.1",
-        "version_id": "8HOvJwsl"
-    },
     "KuNKN7d2": {
         "checksum": "91560e2d81759d7776b853825519c40b309b573d2c7af7f4604e01da7bc7e86855d0e06bccef31bb11cbf80b41fe3a7d200b20d6a165ae1bda023b9b0b9d494d",
         "client_side_only": false,
@@ -1609,4 +1599,5 @@
         "version": "3.0.2",
         "version_id": "M178L4Do"
     }
-}
+}
+

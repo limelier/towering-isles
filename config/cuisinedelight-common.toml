@@ -16,4 +16,11 @@ maxIngredient = 9
 #nourishment duration per food type
 #Range: 1 ~ 10000
 nourishmentDuration = 100
+#Enable SoL compat so that eating a dish is equivalent to eating all components
+enableSoLCompat = true
+#Enable Diet compat so that eating a dish is equivalent to eating all components
+enableDietCompat = true
+#Speed factor for slow-cooking
+#Range: 0.01 ~ 1.0
+slowSpeed = 0.5
 

@@ -40,6 +40,9 @@
 		[types.wood_type.betterarcheology]
 			rotten = true
 
+		[types.wood_type.crabbersdelight]
+			palm = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.regions_unexplored]
@@ -88,6 +91,9 @@
 			yellow_blossom = true
 			red_blossom = true
 
+		[types.leaves_type.crabbersdelight]
+			palm = true
+
 	[types.cake]
 
 		[types.cake.createaddition]
@@ -111,6 +117,7 @@
 			trapped_chest = true
 			bookshelf = true
 			hollow_log = true
+			vertical_slab = true
 
 		[entries.wood_type.create]
 			window_pane = true

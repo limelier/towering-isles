@@ -2,12 +2,13 @@ localpack.toml
 *.mrpack
 
 # config files ignored by default
-config/*
+config/**
 !config/paxi
 !config/lmft.json
 !config/oculus.properties
 !config/defaultoptions
 !config/vinery
+!config/lithium.properties
 
 # python venv
 mise.toml

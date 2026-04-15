@@ -2,6 +2,7 @@
     "11hKNQb2": {
         "checksum": "45931ea58f61404da843cb621aa5e1f2b5bea9ff6686175f9bd88863c0820335514f2e47d10314472617e9986f0ade74a0846d5da0b6286939243faf409af10d",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "EMI Enchants",
         "pinned": false,
         "project_id": "11hKNQb2",
@@ -10,48 +11,64 @@
         "version_id": "Lzvq7JEE"
     },
     "1DWmBJVA": {
-        "checksum": "58903c3296f3bd810cd8b841d48dea9ef24239daccaedb4e2b4781230ba0fab12a77a8b7860da5198ffc18ea047e368d782d30a6568957682d7a6f5b9dc76d77",
+        "checksum": "4853a518b57b0e8507f875c8713c583d3d85c4638a660629b851f917704e7c0545d811481b354e53a42644aede9bdd3de31cee378fa7943dc2dc57581e511f64",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "[Let's Do] Vinery",
         "pinned": false,
         "project_id": "1DWmBJVA",
         "selected": true,
-        "version": "1.4.27",
-        "version_id": "XPGuV4sB"
+        "version": "1.4.41",
+        "version_id": "2I4cH49O"
     },
     "1IjD5062": {
-        "checksum": "0b5abbaface8895293b8ca689a63aa08dd2550991547515cc382dcc379395a5ec208d182042b34fe7ef085fc219696a178c3db4c67ff2490c0176ab9e7566f54",
+        "checksum": "2d537ee1eec19099d132cabb818d0dddfc82fffb762de200748f3d41e0b13a52638993fa8239e73b16dfe5473f9ffcae743f6ef43b659d2063f451fdcb492b22",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Continuity",
         "pinned": false,
         "project_id": "1IjD5062",
         "selected": true,
-        "version": "3.0.0-beta.5+1.20.1",
-        "version_id": "84Zs6tNo"
+        "version": "3.0.0+1.20.1.forge",
+        "version_id": "9KbAcWSO"
     },
     "1dxbxzCg": {
-        "checksum": "1de85665225be7db5cea6a29a72667f84227a9fd2825941c11fc16c838985b15a1dc0dd48e7888cba79cec8901b6a9e48e40510333077c42da02d821a914a05e",
+        "checksum": "b5a47d55be04539f66efc396b5bb773c6c6197be3ff99748a2ae541a3ed1c4d5cc6b99dedae0a850561145b3bb9bb09431b10809947a19efce8e7eb4d9f7f98d",
         "client_side_only": false,
-        "name": "Moderately Enough Effect Descriptions (MEED) - A JEED Addon",
+        "ignore_dependencies": false,
+        "name": "Moderately Enough Effect Descriptions (MEED)",
         "pinned": false,
         "project_id": "1dxbxzCg",
         "selected": true,
-        "version": "4.7.0",
-        "version_id": "NICdzU31"
+        "version": "5.7",
+        "version_id": "VLkj6ZLI"
     },
     "1eAoo2KR": {
-        "checksum": "fe2ac7569c539b5810cd5fd58e45ebe83a9ea14e235f1f3361d15d62c2f62edf18915794754ee54e108773c11ac8c557a45b36aedc3d352c92dce21e3dc96352",
-        "client_side_only": true,
-        "name": "YetAnotherConfigLib",
+        "checksum": "623bab68259ae5917d7c89a8ec5943f7d54f18b2e666f6437a5a67956d11607aea1613bbf480a1989ece9536a683aea22f0bc0373aaade843d73dde0b5486ee5",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "YetAnotherConfigLib (YACL)",
         "pinned": false,
         "project_id": "1eAoo2KR",
         "selected": true,
-        "version": "3.2.2+1.20-forge",
-        "version_id": "WdbHS4uT"
+        "version": "3.6.6+1.20.1-forge",
+        "version_id": "sCWgXDYQ"
+    },
+    "1oUDhxuy": {
+        "checksum": "0c34f0201225ffb91533c0b79b8c28b58a6b11b243da8f05c17eb469c8ad3005e6596c2ecce894e4db21614e8700c1f65395ebc93a4a46c7a3fef00b6ec880dc",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "Moog's Structure Lib (moogs_structures)",
+        "pinned": false,
+        "project_id": "1oUDhxuy",
+        "selected": true,
+        "version": "1.1.0-1.20-1.20.4",
+        "version_id": "xtqWb6du"
     },
     "2BwBOmBQ": {
         "checksum": "cc4ec2183c1d18967145959b629e2d5f122dfff2ea26bac3b76bb07defb729d1bb62fb9655377deca535d78b4e42f6e9d4e916fe91925ab7a19dffec5170c39e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's Better End Island",
         "pinned": false,
         "project_id": "2BwBOmBQ",
@@ -60,38 +77,42 @@
         "version_id": "Izqhg3Va"
     },
     "2cMuAZAp": {
-        "checksum": "4c4a965bda239b29befb09070967f401e59defbe64c7d4e34403d9acc3ec51e44d3719863125a84ada3a60934d269206c541ee39ad3fca21ac51f554120c07f0",
+        "checksum": "bf00b740ce32a7a9c2a2b3414431adac7c39793fa4d6d0468a61ecb9f5e75ef34672c4337092761786b0d1d6faea28cf576ef577fa41bdf354a7c9577acf428d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Alex's Mobs",
         "pinned": false,
         "project_id": "2cMuAZAp",
         "selected": true,
-        "version": "1.22.8",
-        "version_id": "oaRqJ7uM"
+        "version": "1.22.9",
+        "version_id": "XoIASRVU"
     },
     "2gvRmQXx": {
-        "checksum": "2c857bdc6a7ba0fdfac0875a9aade7cf3247d9f62b25a95c237051e674c05a0028ffdfe6ef8b5cc431b943a28a508cb1d51d2919dac1be6739e8b5b99f9ae8f7",
+        "checksum": "c0a8bfbca692324caaee37af77fc618ec3baf4fc076e2cb89f558b97a49b5133f426fda1b4fa1a5980888ed59c6ecbbbb7d7fa222b9cdccd8a77c4a2d25d159a",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Radium",
         "pinned": false,
         "project_id": "2gvRmQXx",
         "selected": true,
-        "version": "0.12.3",
-        "version_id": "NhMILNAm"
+        "version": "0.12.4",
+        "version_id": "n947JjJH"
     },
     "3qAYkBMB": {
-        "checksum": "daeb9623099b1796ca9225bb0eb2c6dbbb9ee8042e46f766bff40c363abaa765f5dfad9bfae7d46e755cd3857de6cac6f501450fdd8b7f5bd688085035331191",
+        "checksum": "c63166364e937e61c016265ed60fe19aa92e94812bde60e43b553d56037a8fc8b05898a5376fe2ecc34a72a0fa5a3052386f6acccb65bafb0aca0b1a1c9bfba0",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Polytone",
         "pinned": false,
         "project_id": "3qAYkBMB",
         "selected": true,
-        "version": "1.20-2.3.1",
-        "version_id": "YtyajnmT"
+        "version": "1.20-3.5.23",
+        "version_id": "fV8kQtsI"
     },
     "40FYwb4z": {
         "checksum": "a92069ba40d6cb77c7daed252012f642141f313658cc807d66c4fe17b04714cc05cf68d4c268cf8b14a8eef659f5892249cc9c912c5daa7389e6038bd730c6c2",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Caelus API",
         "pinned": false,
         "project_id": "40FYwb4z",
@@ -100,28 +121,31 @@
         "version_id": "mRry0DgY"
     },
     "4KjqhPc9": {
-        "checksum": "b86c9a4738331303e08de2e5131d31cfba13e86842e41c241e4098cdd12c3f41de4c4451bf19e3274f168393baad8159bfcbfda8873a92d1147521757323f0b3",
+        "checksum": "3a5da7604edda2f1e5075fa036583ad631708607606b6cce29b15ee4fb81ea1eb4050f7c333f5627fe2359cbd800a1cf752fe81cbb9a656e8826a4d9b1e80620",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Surveyor Map Framework",
         "pinned": false,
         "project_id": "4KjqhPc9",
         "selected": true,
-        "version": "0.6.23+1.20",
-        "version_id": "neaYRlMb"
+        "version": "1.2.3+1.20",
+        "version_id": "4xTKSdqW"
     },
     "4TTDxtOx": {
-        "checksum": "d413c37cf2a432112fc0583ee0af5b4960e7793bd85899b4e71356735f7616b4ffe06b0939039b4a02698ba4f4eab8cb4bf4fa924950f2be3aa4d879601067fa",
+        "checksum": "5282e92fc6715defc4b26888588ed739ab6df85a2b7356c40da37f4dbf4cadda1638b0fd185e888f1e264ae3ba7d6fd927d862a8e13348a19bd4c2f0aaa0fb8d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "[Let's Do] NetherVinery",
         "pinned": false,
         "project_id": "4TTDxtOx",
         "selected": true,
-        "version": "1.2.14",
-        "version_id": "CeoWrWDK"
+        "version": "1.2.19",
+        "version_id": "am5K7Gy8"
     },
     "4XJZeZbM": {
         "checksum": "b2c3e3baa1ef61d3d3ccc4b0cb10dd54726dd75c1897d839a6daed2076ce621b6cfffa704f30ab9c35640b954194c659304abd9cfae701ab8dd294c96e624f10",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "[Let's Do] API",
         "pinned": false,
         "project_id": "4XJZeZbM",
@@ -132,6 +156,7 @@
     "54eqfZSC": {
         "checksum": "4bf3338d069359eb3282fbc6f76442cde9c5bb38798d8805b1838921e837caf1e9f205b7e4bd6e99d514612378a4ea764245d63b2e415ac99ba6c884380e4e26",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Towers of the Wild Modded",
         "pinned": false,
         "project_id": "54eqfZSC",
@@ -140,18 +165,20 @@
         "version_id": "kYlLoQ9i"
     },
     "5ZwdcRci": {
-        "checksum": "93662adb02f29e6cbd9e6c6a0264566fd45e6fb6e2d6387bcb858f1e39dfa524782484e42d38f67432a8659d6ce6bf7b1f8b589cb0faa52b388e1fdc5e45145a",
+        "checksum": "096858e7041ebdd9d3a7162efa485c293125cb92633676a5cac8cbeee3a2c1f4727da154dfd545004889f09326fdc305b468f46100e2ba7c8ea6b612bf1bb2cb",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "ImmediatelyFast",
         "pinned": false,
         "project_id": "5ZwdcRci",
         "selected": true,
-        "version": "1.2.20+1.20.4-forge",
-        "version_id": "RTOwYh47"
+        "version": "1.5.4+1.20.4-forge",
+        "version_id": "OomXW3xp"
     },
     "5aaWibi9": {
         "checksum": "ab3d28d45ee80eb7d604b4038e62308e7323c83a05f91f197de3b6465340454d0c3a78ed41ce31586ad0722c8d648c5572f012cc5df4d88bf7203a25d2157d62",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Trinkets",
         "pinned": false,
         "project_id": "5aaWibi9",
@@ -162,6 +189,7 @@
     "67kVxsaO": {
         "checksum": "46c9b0818d14b81818fa2c412bce66ed32c10426da4a266a4e30720b214cc3081e3c2ca746b762f1a97138307faa4fdbf16e486cd039c09452ea614db3444a82",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Load My F***ing Tags",
         "pinned": false,
         "project_id": "67kVxsaO",
@@ -170,18 +198,20 @@
         "version_id": "XJdD8eB6"
     },
     "6iTJugQR": {
-        "checksum": "8374ea8fca00d2b275bb9211fb31983aac2d486ba8799a6a676f46136098e6de226b9dd6c69fb513caffba20fa7c5529f8f30e1942d0df0c9e6ad975d9d63416",
+        "checksum": "f0e14ed526326296a9521904b183b8f0bf7fb75bc5188475a40f6c5f2e1303a60742713e5eed7bacbba3cf62c5ac7fec86b648ceeefdc2b12aad02e57102f727",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Amendments",
         "pinned": false,
         "project_id": "6iTJugQR",
         "selected": true,
-        "version": "1.20-1.2.8",
-        "version_id": "rygiK2go"
+        "version": "1.20-2.2.5",
+        "version_id": "73W8UHX3"
     },
     "705gWllI": {
         "checksum": "17d6a7c57630f88b3b0f7300fb99c4fbb1776c1f5bcf8f35776fa0db2f6c6f4eb6ee57655755099b7e1860939fc3d94d87bcd9c2724fce65f454d948a8462d14",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "EMIffect",
         "pinned": false,
         "project_id": "705gWllI",
@@ -190,38 +220,42 @@
         "version_id": "cwzXpY1E"
     },
     "84USeAvk": {
-        "checksum": "146bc6742be12f32bea00ecb6d7310bd9b433c2bbca8e437d8371529664b4f7c1826b198bfee0ad0be9f656f38ac628d621cf843c1abc25f75ecdb497c226576",
+        "checksum": "58e5795a41a37b76a16553a5977ef21130f2137440bfab06d0070b86e6ba71fed6bf7b964d910dc2034794919145b49408d68441a9b17caf3b2a5115ef29efcf",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Clockwork",
         "pinned": false,
         "project_id": "84USeAvk",
         "selected": true,
-        "version": "1.20.1-0.1.16",
-        "version_id": "Bk2kwZr0"
+        "version": "1.20.1-forge-0.5.5.2",
+        "version_id": "q7OCzMfX"
     },
     "8BmcQJ2H": {
-        "checksum": "eacdc10dd055aa8d26e6c95df28a92201e1284706dfb1baa967e9611bb5a05e4850d26f3240af863df7d627fe52c174ce78c2fbeb522238cd6fe603cb0ae148f",
+        "checksum": "6734a794ee6bef0b6ffe7b1641125ec9fb9c9928255f05178995bf80534a62c5b27a41ce4e0ca691414c41f412aae5cb005f57a95c2a71a17da4738a31cf3f27",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Geckolib",
-        "pinned": true,
+        "pinned": false,
         "project_id": "8BmcQJ2H",
         "selected": true,
-        "version": "4.4.7",
-        "version_id": "4ysPVX1z"
+        "version": "4.8.3",
+        "version_id": "HVdLnQMI"
     },
     "8DfbfASn": {
-        "checksum": "5530f14fda845dec4457af9959a22b0d8cfe4a0bbaf28bab7edd5c32c3c8982dc5bb77128bbfd1ff7f845b132a796ede9c87a7f59fcb60a75419ab7750987053",
+        "checksum": "c4c39ebfb3ac52a23bc95c101eef338de78e2cc8a4f87951861d6be18b4e2d0cb958dbb3388fff2f6c87f575f7f5773ee751f28f4e380e13cafe0a9845496d38",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "When Dungeons Arise",
         "pinned": false,
         "project_id": "8DfbfASn",
         "selected": true,
-        "version": "2.1.57-1.20.1",
-        "version_id": "wiCQJUDT"
+        "version": "2.1.58-1.20.x",
+        "version_id": "6hQpx5Tc"
     },
     "8shC1gFX": {
         "checksum": "1ae64dc8d0b8e42aea0bc630e2ffa162c4c4d15d02e72d38cb24a22a12a7a10a103e636ed13c3f29ea926a0a809e5d85ae117539816a6a8354f39cdd475d09f0",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "BetterF3",
         "pinned": false,
         "project_id": "8shC1gFX",
@@ -230,38 +264,53 @@
         "version_id": "xo6HmgWj"
     },
     "9eGKb6K1": {
-        "checksum": "9beaa3bf54792d467c1cd7614286b871e255a9c66ba8499dbd906cf6cdb26ac157df8d86de3b851b88147392aa50c2263d7ed129a72e3749192169b873dc2733",
+        "checksum": "fc9e4936121e9ca24a4cd391d7804be3671e98c42ae199c737b40a034766ff1d3193f8479e8607045196c256a985ebb79e74af2d0fdfee7445d8f21192f6128f",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Simple Voice Chat",
         "pinned": false,
         "project_id": "9eGKb6K1",
         "selected": true,
-        "version": "forge-1.20.1-2.4.32",
-        "version_id": "nHtyikTv"
+        "version": "forge-1.20.1-2.6.16",
+        "version_id": "3vK57tXe"
+    },
+    "9nfaJPtX": {
+        "checksum": "d07f97dc1032e115eee6382393436152a5cded6c4b91e6cc0c3e21a6b2a237e8975a0391d2509f8174fcffa44fab164eafec79ff46be12dbf0e84d6200bd78a8",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "Iron's Lib",
+        "pinned": false,
+        "project_id": "9nfaJPtX",
+        "selected": true,
+        "version": "1.20.1-1.0.2",
+        "version_id": "FPYSRrdq"
     },
     "9rlXSyLg": {
-        "checksum": "bf9f1b4eeda0f197108fc593fdd6eb2fc8f94ffc764ac4dda873dfb475306c8356c3a6adb871a4caae7824e6c499fd1b698c9fd731868fce30dc9edd835dd5cd",
+        "checksum": "64dd53a04292016ecb7841468fca84493be2eec7644f891b1ec7bd8a0136e41396cc48c5d98cd437fd09caa748f12329f098546432ca8f2baf135b19d987eb8d",
         "client_side_only": false,
-        "name": "Crate Delight for Farmer's Delight",
+        "ignore_dependencies": false,
+        "name": "Crate Delight",
         "pinned": false,
         "project_id": "9rlXSyLg",
         "selected": true,
-        "version": "2024.07.12-1.20.1-forge",
-        "version_id": "AkIYQu82"
+        "version": "25.09.22-1.20-forge",
+        "version_id": "2AJQvQZZ"
     },
     "9s6osm5g": {
-        "checksum": "2f6c78de05f0c60fcd61a05ee272618a6522f8039805ab8c97b28c9cd123ff55ff7153224203f824261e509a478cee2ae100a5d428ae488239d089916a70e6ed",
+        "checksum": "0a192c5f64f61f9170892c6a0dae4087929d0569624f9bd02236e3a727b4b17c6174a6c1c4a617d5015ee2dc805678671a92a99842831ee288991fa099a0f36a",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Cloth Config API",
         "pinned": false,
         "project_id": "9s6osm5g",
         "selected": false,
-        "version": "11.1.118+forge",
-        "version_id": "nr1znv5v"
+        "version": "11.1.136+forge",
+        "version_id": "t8TXrZvZ"
     },
     "AVq17PqV": {
         "checksum": "5924ecfdae525df816e83ca1bac7d6f917d8f43df952df7a384382e3390d1b57b4e1eea7988f52bab5f4b9e0780780f03b9ab7564d3e18426fc7345846bc4672",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Leaves Be Gone",
         "pinned": false,
         "project_id": "AVq17PqV",
@@ -270,38 +319,53 @@
         "version_id": "slScQFdb"
     },
     "Aqlf1Shp": {
-        "checksum": "c92ebe2c7425bec3181673c17970804a9228d65521eb98c7e5e74e7a79bab50c07053d1599026baeb39123a1b3d346f74f5b50b1bae954e385f7930fa8e3ad40",
+        "checksum": "564356b36711a0836a76c1fa8ef46608bf0fde20057e4e96d7e9a05628980f76ab48e125e9762bad1e5a2373377080b0e8bfc1dff4284709f996c9aef7ebc919",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Forgified Fabric API",
         "pinned": false,
         "project_id": "Aqlf1Shp",
         "selected": false,
-        "version": "0.92.2+1.11.8+1.20.1",
-        "version_id": "D3EZO1Kr"
+        "version": "0.92.6+1.11.14+1.20.1",
+        "version_id": "XweDEycJ"
     },
     "AtB5mHky": {
-        "checksum": "88d3bb438c3ac9afdec370602e0d32d424368e95691c812c1e65758670f9ecbbb60ee3d486995994f1c4fd57cc3980b5be1d0ba2c41d18e60f8e9b37b75799ee",
+        "checksum": "df3a5b73f63a33825342aae8159c24a26e119f6214c950d6376d4a6f5354e2e3c875df0f52bd2169229c15665687283801c74b92ddcb26a5409324c88283473d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "What Are They Up To (Watut)",
         "pinned": false,
         "project_id": "AtB5mHky",
         "selected": true,
-        "version": "1.20.1-1.1.3",
-        "version_id": "Sp0NpaDe"
+        "version": "1.20.1-1.2.3",
+        "version_id": "GpiXMxvP"
     },
     "AtT9wm5O": {
-        "checksum": "5309ec2fd96a001ff94e5e946c9f9ccf01ec19af9c37503284088985a96bcdbee834eaa4e49d53c1507fe0ec44aff95d2c533e9440ec130ddabc7008b7eb225d",
+        "checksum": "d09cb2e076ecc8759f5e0d866fc2d0f7745009b8a0debbd25bfc9f6f77d90eb38d91ff6d7d4690c65a0321bacd26e35a2c5125470fc20102ca444ae6ece00e42",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Radiant Gear",
         "pinned": false,
         "project_id": "AtT9wm5O",
         "selected": false,
-        "version": "2.1.5+1.20.1",
-        "version_id": "97i06Z6R"
+        "version": "2.2.0+1.20.1",
+        "version_id": "dQfDugX5"
+    },
+    "B3pb093D": {
+        "checksum": "1a5176eca1b075565463c9ae458cc8c2ef35bda08a9e591e3e20742dcb5590ab73c1d90744a6b848ff8c957b34cb0ba6f1c3be2bdd539ac11a2b848d2482dea1",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "Ritchie's Projectile Library",
+        "pinned": false,
+        "project_id": "B3pb093D",
+        "selected": true,
+        "version": "2.1.1",
+        "version_id": "PdGBsNte"
     },
     "B5uMasrz": {
         "checksum": "1f70f91f6d588b07dc51724ceb8840961172025f3815a65f87c85cd5e2f0deba50bf27fd168b302c28cc72010546b015b5b05799c242c95e3749beb3fcf1c748",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Dust's Keymap",
         "pinned": false,
         "project_id": "B5uMasrz",
@@ -312,6 +376,7 @@
     "BCLngNKp": {
         "checksum": "715d97f7a79a22ebef4659b22db2fd247a2c5fb2eb4fce1b154417a4372132803351eb5058148d1c4c02a3439e2ea5f5a27f11570b6d51b2858604b227777d82",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Stalwart Dungeons",
         "pinned": false,
         "project_id": "BCLngNKp",
@@ -322,6 +387,7 @@
     "BORRKwOq": {
         "checksum": "c298ee9db61aa6dcb821c84b221035a94b45cc1b369e00a92ae6250fe42e7c10c8d3c735e799babf0252061b11f0fc5da144725cd43e66f70f7ef8b82c39824e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "CTOV - Domesticated Innovation Compat",
         "pinned": false,
         "project_id": "BORRKwOq",
@@ -330,18 +396,20 @@
         "version_id": "Te91BHKO"
     },
     "BVzZfTc1": {
-        "checksum": "eef0cf3649f8227ba7974e929c48f54c5132414a1d382415cf8a34985a23e83765fdf42c5750731f820f3f97f2beaa3a9e8182f83d5f4d96eec9c50f5b27d0d4",
+        "checksum": "8779f823cc4f19c7281f1d7bd375b28530d97ad533f903c6200abee780da9a38b3b7bcdbcc5ba203394b811307c1879e205e0b3578efec0666f621b2f62a599b",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "[ETF] Entity Texture Features",
-        "pinned": true,
+        "pinned": false,
         "project_id": "BVzZfTc1",
         "selected": true,
-        "version": "6.1.3",
-        "version_id": "VzqvqFHV"
+        "version": "7.0.13-forge-1.20.1",
+        "version_id": "6Rsbdc6P"
     },
     "BgNRHReB": {
         "checksum": "2f5f0246e189e8d8622f1bbe26214910f7fb69470956d08075e0d2a2aca29fc2ca94894fa7e9ef9ba81417e468347d18f053078f883fd7987126902755db2f83",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "BCLib",
         "pinned": false,
         "project_id": "BgNRHReB",
@@ -349,9 +417,21 @@
         "version": "3.0.14",
         "version_id": "TPC86Pyz"
     },
+    "BzHgFoGz": {
+        "checksum": "3c195d1d99261153118d3a959715f956ec76914235b409883c0c1c4adb69fc5853229465928744647413f77fae06a110d31236c04ca262673f6dba52d9b99445",
+        "client_side_only": true,
+        "ignore_dependencies": false,
+        "name": "Colorwheel",
+        "pinned": false,
+        "project_id": "BzHgFoGz",
+        "selected": true,
+        "version": "1.2.3+mc1.20.1",
+        "version_id": "D1JEGUGi"
+    },
     "CU0PAyzb": {
         "checksum": "3b9f61f8ad493f080d1fc96ef8acd5c3005827555d0f47d37baa9e563a971fe97142c6b9c0792b5b0c8e1caaaa2392ec49d98266fe88eaca06058edb445e2788",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Paxi",
         "pinned": false,
         "project_id": "CU0PAyzb",
@@ -362,6 +442,7 @@
     "CdRC4fyI": {
         "checksum": "65ec47de33918f7c9ec0c938e9586b7bd378677c1c64a9011eec807176d0b3345680fbbb6af56078aa33544708c3eb8feeeccf8d71fc138dc685fd076e20e1dd",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "CTOV - Farmer Delight Compat",
         "pinned": false,
         "project_id": "CdRC4fyI",
@@ -372,6 +453,7 @@
     "CrDd9QcD": {
         "checksum": "5e7c857fa7704e05a35aaa1a79fc2b86928aebefc7b8c5e87eb8197d081b308bbf8fa954a52fb73ad2f942f3182faeaa9d0d0eb91925b6ed91b3873972d4080a",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Salt",
         "pinned": false,
         "project_id": "CrDd9QcD",
@@ -380,48 +462,53 @@
         "version_id": "8A75yWDg"
     },
     "D157Rgyf": {
-        "checksum": "97184664d8fbdaeab446051a2671d97476444c3dcca3099b4967773e52742584b03dc1c7db1df61c547d0dc8b7f7b7d030fec112377e29cce0c98856b4836c8d",
+        "checksum": "359e96370c6bd1fae3fb9106752e7dc1d39a323a2ec4f32079b9608b95f7a2fd742712c6f21fa48383b313637a9917eff6114e4448585f5ecd1e9a43b5ff02f5",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Lexiconfig",
-        "pinned": true,
+        "pinned": false,
         "project_id": "D157Rgyf",
         "selected": true,
-        "version": "1.3.11",
-        "version_id": "lwVdnWWV"
+        "version": "1.4.18-1",
+        "version_id": "iv3Hdpa6"
     },
     "EO27GKs1": {
-        "checksum": "566869d87ed16508011138732b97aa84b8537756db6bbce2840e0cdb1e4c58e04d16bd7aecee8f2990e312b45734c9edf5c8a9fd598ec8658ced376792b893f8",
+        "checksum": "fd21d7352ee5bccd1d92ef9786f6a59caf91febaedbe964849a5e6e8358f6f0afc8e1278b26391755d961f6a43e33f4306a1eceec53b0850c77c87f77f10d2f4",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Just Enough Effect Descriptions (JEED)",
         "pinned": false,
         "project_id": "EO27GKs1",
         "selected": false,
-        "version": "1.20-2.2.2",
-        "version_id": "UsKXS9eh"
+        "version": "1.20-2.2.5",
+        "version_id": "jHYonbva"
     },
     "EO8aSHxh": {
-        "checksum": "3917fb31f64d4571fc9e0a747b50d345f330199ac561751383c6c21dc82b5783c1327301da3c5e5002ee3a60f4bb1a860535f9f9fb7953ff91608904540fd2a9",
+        "checksum": "8e27c9f117b748d996cbb606d9880f6a5bb692e5afc0b123e4904216d89d4c2e6baf00f74508a5c31fe393224e8fb11e0ea63d16f80d0eeee0d9b4978fe319e7",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)",
         "pinned": false,
         "project_id": "EO8aSHxh",
         "selected": true,
-        "version": "1.20.1-forge-1.5.1-beta.3",
-        "version_id": "9gbnRz82"
+        "version": "1.20.1-forge-1.6.2",
+        "version_id": "QPGzLtos"
     },
     "Eh11TaTm": {
-        "checksum": "ee069dcc8cd9942e58280ab4417897ae3746130afbc65396641aa0823c7aba4a9c3cf016cd2fed88be42f52c9d198daabea267e508baad5d21d3dbf40e2d5ebf",
+        "checksum": "afe5f46a552324a0c26a925b125a4a766a8ae1708235b13fbf1c7cee51ad22f87b53a74d3379b4f4c54aaa93ed786e325d2275c96857639e89722844b284ae45",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "[Let's Do] HerbalBrews",
         "pinned": false,
         "project_id": "Eh11TaTm",
         "selected": true,
-        "version": "1.0.8",
-        "version_id": "zDQYiIfV"
+        "version": "1.0.12",
+        "version_id": "qKfEj2BA"
     },
     "EsAfCjCV": {
         "checksum": "0f4a47a4310ab1af7d88cc9a5b5a817a173611f617cdea24af78b9b972c10500d308e6ac9abcf6ab0fefdcd2a0d148488ba281134a3b3bd7aac2b3db43778a61",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "AppleSkin",
         "pinned": false,
         "project_id": "EsAfCjCV",
@@ -432,6 +519,7 @@
     "FGlHZl7X": {
         "checksum": "9727d12abc307767ede77b0d41fe6669ee3f9c0692158a2154bd90e0766ab411cb7357048155bbbcfbf48f317e860a33dd657cb45d8276962eed6a3b74c0cd77",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "The Lost Castle",
         "pinned": false,
         "project_id": "FGlHZl7X",
@@ -442,6 +530,7 @@
     "GNtptqqU": {
         "checksum": "b44906c6c2cf9c8c364385813da7d269e69fa67783b8d1993c1c133a51a5669e75006cf9bb2b01b2cefca41ccf20f404c8a0a430f3d04ace38373cdc5a8c666a",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Map Tooltip",
         "pinned": false,
         "project_id": "GNtptqqU",
@@ -450,28 +539,31 @@
         "version_id": "Lp7DWTvI"
     },
     "GWp4jCJj": {
-        "checksum": "057487e38b635f1887248ac4a104cfae6998cdb1f300457d8e755d84480db6ee2bcd396fec48d12e12b3641e66ebb9ffefa2c45ad31f57f832c01b469016039b",
+        "checksum": "f348aad58df65331088469bcaf239a55f563a4756b8625bfb381860b371b07d1476e5a335837d498e6409083428cf100b08465f6a7b391cbfa11a7a3a39c67fd",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create Big Cannons",
         "pinned": false,
         "project_id": "GWp4jCJj",
         "selected": true,
-        "version": "5.5.1",
-        "version_id": "aR5Z2L1h"
+        "version": "5.11.2",
+        "version_id": "bZUqx4Cg"
     },
     "GchcoXML": {
-        "checksum": "f3ee8bb8e53d117278c141e71d4ceaee9f162171f1a8cadd7419dd2a9d9ea02e0317972876768946769e33f2e3312c8c10a5b7c4038becaf2dc60cb063649ed6",
+        "checksum": "4377277b7e9bffaf4c7c67b9134a457db5a524eaac4a2c5e2b7a65f7dd10c925c841c337287b01de31148e69c9cd2bbcc6cd8fad48957aa474cf8c6d1da3fa47",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Oculus",
         "pinned": false,
         "project_id": "GchcoXML",
         "selected": true,
-        "version": "1.20.1-1.7.0",
-        "version_id": "vVuYfukI"
+        "version": "1.20.1-1.8.0",
+        "version_id": "iQ1SwGc3"
     },
     "GkIc6rRo": {
         "checksum": "5608b830c59f35f9b3bbbb7099e467089f3fc519769e79737e1c28144452ce60807ef1fe75f1bf91064d795d26a06bf94464df05c8acc2a4f1d0cc4a8726a907",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "CERBON's API",
         "pinned": false,
         "project_id": "GkIc6rRo",
@@ -480,38 +572,42 @@
         "version_id": "XWZQbKsr"
     },
     "GmjmRQ0A": {
-        "checksum": "17f60a7b1cd3b6c49ce5945600fd2760a99949ab83e9a3bc2d560332190fddef749063a2f72c9dad750550ee561f8697797b665b3ef5f8fb2d1bbe04f93d5db9",
+        "checksum": "fe3f5632ec47502fa98656a80cd5bd31eccf2816d883a346bb5e8241ae27bf452e888c48d7733eff1d2ae74097a43ca9e7500ed2456af977fcb097671be8b2ee",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create Slice & Dice",
         "pinned": false,
         "project_id": "GmjmRQ0A",
         "selected": true,
-        "version": "3.2.1",
-        "version_id": "GDyNpDy7"
+        "version": "3.6.0",
+        "version_id": "KWLI8Ng7"
     },
     "HSfsxuTo": {
-        "checksum": "455a5238e56d3482a6de2a21a3cfbb3fff0f18acafcf8847377f11c738703249941d9b2e4f3294ea15381f1d9b54ebae4cc21ee1739342cf219b110169bcaced",
+        "checksum": "2813b6dbe1ec2ff822a86d05e58699a2be7b133760c6661872610eb2588b453da03f01e0bc3863a9f75ee33308a579c0b4928a3f7011da3db0cc378f1bb07130",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Explorify",
         "pinned": false,
         "project_id": "HSfsxuTo",
         "selected": true,
-        "version": "1.6.1",
-        "version_id": "ovtuGAG4"
+        "version": "1.6.4",
+        "version_id": "9vHj342y"
     },
     "HWHl8Evb": {
-        "checksum": "5793e90fda4698d634dcd4c53584b2b368d9856e11636b94c5179ca8236c815d424e9339bf01088506c50206d647ee234cace6b44e0b671e4d59a477e2d6bf2e",
+        "checksum": "d86745a2f84c396f5ab606fac24b396782ba27b1dbc166d2be8b1186089a8531a544940c9a056d63574bdfc761fedad1a140ccedb1a08300b243ff011377a15c",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "mutil",
         "pinned": false,
         "project_id": "HWHl8Evb",
         "selected": false,
-        "version": "6.1.1",
-        "version_id": "PI1cIWsh"
+        "version": "6.3.0",
+        "version_id": "ls59E7KT"
     },
     "HaaH232J": {
         "checksum": "1b4f84ada27225fc25236e80a92594da860313148b0b773476c113f8fb6700a3a26cb4ba02e999d914c0db8ca920a4a19f7baa9befd69404fc105ba96c1b16bf",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Yeetus Experimentus",
         "pinned": false,
         "project_id": "HaaH232J",
@@ -522,6 +618,7 @@
     "Hcy2DFKF": {
         "checksum": "5c5ad4d1ccc6bbcab3d2809604b069198fe3ae705fe1717d75eaf5e4ba609d8ec8e3b0a6b085a0a732a3b46053b61329431010f3febd5e91509fec21cdc96d3e",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "YUNG's Menu Tweaks",
         "pinned": false,
         "project_id": "Hcy2DFKF",
@@ -532,6 +629,7 @@
     "HzK9IrCM": {
         "checksum": "8f12d41fdcea2922904b791a5a81d3e8c8113175b780a6c7a9d6571947025185fbdf5377ee3a8e3ec134a9b18e48f16bada102720a23c29c940cf4da62068678",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Wearable Lanterns",
         "pinned": false,
         "project_id": "HzK9IrCM",
@@ -542,6 +640,7 @@
     "IAnP4np7": {
         "checksum": "4b1514f5adf1248e550fb93b2a1db69886cda3e911cdf2ff0a8f3ee77c30df2982bcd90605361010c64601c0c5ea34c1a4991852b1741629350d9df5f3a4bf37",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create: Structures",
         "pinned": false,
         "project_id": "IAnP4np7",
@@ -549,29 +648,21 @@
         "version": "0.1.1",
         "version_id": "XALEBs0a"
     },
-    "JmybsfWs": {
-        "checksum": "7c5ae304ee21ba37631e2a08333e358f890e4eb4e487e78bec7536b66ecc40985a1a026f5a282ca2b74845d62ea8d3d5eac2046e88924b3850be4b72ceb99601",
-        "client_side_only": false,
-        "name": "Create: Dreams & Desires",
-        "pinned": false,
-        "project_id": "JmybsfWs",
-        "selected": true,
-        "version": "1.20.1-0.1b.Release-Early-Dev",
-        "version_id": "GZxkqfDv"
-    },
     "JtSnhtNJ": {
-        "checksum": "c3e2197c5f1e4f672bed472f7468fdea1ded97167a5e8ef2e86e2639791e695cf347cb43318f817baf883ad2b4bf630a13b59a3db040a836ccbb8669c725e8ca",
+        "checksum": "29719708af22fd518d6ea1c4769fb1f7484a604e495134504220cf71faa0cc06e056ca0b9b38ef4ffd6ce0f2a77f260127a48f9a1cb1c8c82a098398f12e7e23",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Delightful",
         "pinned": false,
         "project_id": "JtSnhtNJ",
         "selected": true,
-        "version": "3.5.9-1.20.1",
-        "version_id": "E2BNWtJP"
+        "version": "3.7.8-1.20.1",
+        "version_id": "BVRaaYM8"
     },
     "KuNKN7d2": {
         "checksum": "91560e2d81759d7776b853825519c40b309b573d2c7af7f4604e01da7bc7e86855d0e06bccef31bb11cbf80b41fe3a7d200b20d6a165ae1bda023b9b0b9d494d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Noisium",
         "pinned": false,
         "project_id": "KuNKN7d2",
@@ -579,59 +670,76 @@
         "version": "2.3.0+mc1.20-1.20.1",
         "version_id": "gbYUKrDP"
     },
-    "LNytGWDc": {
-        "checksum": "7b04f3d0d53de93b50bbd6c25828667b758ec7ca7dcce8e2fed63c0523cb8cde23e4849f9538078039aecaa4e1168daa0ded90199e297628e12ea0651cf130c2",
+    "LN9BxssP": {
+        "checksum": "66b997f2771229d7526e68d2d41d311d9b599211bd62c48972791016627a79a08e20b903f22e101e5ea7b9234985f30fc8dea2873a58f06302c82d1df38b7b42",
         "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "SuperMartijn642's Config Lib",
+        "pinned": false,
+        "project_id": "LN9BxssP",
+        "selected": true,
+        "version": "1.1.8-forge-mc1.20",
+        "version_id": "ZKor79dR"
+    },
+    "LNytGWDc": {
+        "checksum": "0ea10cc71bfbdfd3654a2330b55ba4e8b772399b2a67ccf3b65c5324106a729aae3bbfa3f4dc163720255de2101dc370b4d6d1f8c2a9d4a0e231c5f5fcefdde3",
+        "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create",
         "pinned": false,
         "project_id": "LNytGWDc",
         "selected": true,
-        "version": "1.20.1-0.5.1.f",
-        "version_id": "HNYrbfZZ"
+        "version": "mc1.20.1-6.0.8",
+        "version_id": "8amzvn9x"
     },
     "LPjGiSO4": {
-        "checksum": "bcfdb384868daa93ab9672303a5d58b1e1195305e50b297edf806d118f826c79c87df83061e96af5254e2660100d510f9d9a7c7bed070441570f44b0f9e40040",
+        "checksum": "401a966ef4ef51f7d15298b80bda874e999fc0dcd2ae14f67368de4c3db57bed95fdccefa271abef65b06a89dc72a4e7ec79ab7e1021567d3384c6aa06851f2c",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Nullscape",
         "pinned": false,
         "project_id": "LPjGiSO4",
         "selected": true,
-        "version": "1.2.7",
-        "version_id": "IGSIk1BM"
+        "version": "1.2.8",
+        "version_id": "QsRKydVt"
     },
     "MBAkmtvl": {
-        "checksum": "0769479331b4ae69dd7abd51014b9ddec56d7ae386889a07619d37da265276e70afaa10917fdc1c80b4b8377831f91537be02f139de27e7f1fec68ad84cd5323",
+        "checksum": "231db65aff16ce1f598a0fd097d1ad74597ee444ca9b0dd199c1f0d3df825bfc2efa4392e4136a2bccf6cef044a7a2982f73fdfa4028552516864c3df743ad16",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Balm",
         "pinned": false,
         "project_id": "MBAkmtvl",
         "selected": false,
-        "version": "7.3.9+forge-1.20.1",
-        "version_id": "UTwD7ASf"
+        "version": "7.3.38+forge-1.20.1",
+        "version_id": "8rz04Kha"
     },
     "MPCX6s5C": {
-        "checksum": "2759b3a41aaecbf6ea70bb8c8d8626ea40cb3540a1040e915d5278f5a5b300ffc5664c2f34384ab1edb121ff6aafde6a0977773a32ea338740dde763f2c4454e",
+        "checksum": "a0df516ff3578c9eb7cea7496422d1d78988177a4b20bf33ef22da6af3b5ec83726e64c7b3de813dc74fca09f4d4433c4076fc195d8adb0421b3a2423543b3bf",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Not Enough Animations",
         "pinned": false,
         "project_id": "MPCX6s5C",
         "selected": true,
-        "version": "1.7.5",
-        "version_id": "fVjHoH5V"
+        "version": "1.12.2",
+        "version_id": "jc7Z1Zot"
     },
     "MVARlG2f": {
-        "checksum": "a33c5e3e4efb6a8edca0acfb5fe246810d902e574be76ccda0bf43629d9b993478ad7c68dbe348457aff8873294df46851512a100b73cea054efeab366499e11",
+        "checksum": "945a88372c75fa87ff68e18b6918f6ed43336de47607e409526f3dc2db1186b8dd33b3ba5b9fc76f4a574b06aa850445ea1096e0dbd70afc024c3786c6dea850",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Zeta",
         "pinned": false,
         "project_id": "MVARlG2f",
         "selected": false,
-        "version": "1.20.1-1.0-24",
-        "version_id": "MRyLCiek"
+        "version": "1.20.1-1.0-31",
+        "version_id": "mSER3jBI"
     },
     "NRjRiSSD": {
         "checksum": "cea9f9053aba0f04c50ab54eeac04a9417c825ae4955192c2757a6e80b9c96598d374d34ba63488e6bd293a00f685c5cc5a198557d5d0d2eda6f14af541ee209",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Memory Leak Fix",
         "pinned": false,
         "project_id": "NRjRiSSD",
@@ -640,118 +748,130 @@
         "version_id": "3w0IxNtk"
     },
     "OCJRPujW": {
-        "checksum": "f6a227a29374c8ec13202981994bc676f3fe62441a90639f6aceb36ea353809558af5acb3e260cf4f388e20c452cc18bd6dacda223fcf9c68003e543f1644dec",
+        "checksum": "dbd0eb81f17de863e7504e93639896bf284198fcacef346a30b50c7ba9b4fd8c32f23e14a00340795ce48b88925889b925f4a948a94f256ebd66d4757e8181f5",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Relics",
         "pinned": false,
         "project_id": "OCJRPujW",
         "selected": true,
-        "version": "0.8.0.6",
-        "version_id": "XH4KNdG3"
+        "version": "0.8.0.13",
+        "version_id": "C7tM1LJR"
     },
     "OQAgZMH1": {
-        "checksum": "beb4d9b0f4c925c927195298a1295adc1f8ece88ac215c9f7b8aa9c2707d64d1e3c90dae45fa6c000eb57ae3aec644161600ad17c8a6b6e1ea236bfae85b0752",
+        "checksum": "0ba13c073592f3101d39155d1b2b3e03fdfa0ae46571fdc6369600ca3430e19208324ec70cc6b0bcef5114e6b94aac872ca547609dee4d98a4be72db3384edee",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "MVS - Moog's Voyager Structures",
         "pinned": false,
         "project_id": "OQAgZMH1",
         "selected": true,
-        "version": "4.1.2-1.20-forge",
-        "version_id": "iYOyd0Bu"
+        "version": "5.0.4",
+        "version_id": "GRPrSi9S"
     },
     "P0Mu4wcQ": {
-        "checksum": "ef98c44f7e98706f8f62dd7883238a8c5123d552350db30e99037d558a70057c46355b6b8f411fb150bb2d29346ebd0890e5b5811254faeae9fe0a62e764cde6",
+        "checksum": "cd49872e191d2c6f3ba7a62fb0128ef0a2a4f6f4d3318ccf28274b9ddd3b5187aee9db9f18164de7052ee1d04dbaa99778e32f2fbb9d7e37a28748cdf0f7ccc9",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Artifacts",
         "pinned": false,
         "project_id": "P0Mu4wcQ",
         "selected": true,
-        "version": "9.5.11",
-        "version_id": "jDAjEp8X"
+        "version": "9.5.19",
+        "version_id": "lrLPBSzq"
     },
     "QAGBst4M": {
-        "checksum": "e4576bc4a5f646cdd861d568daefe250ca810c9f80af7ed75ce6413c8c4d3461c37a570c8aa06f99f6fe89190dc2ea1f490037136a092827334eed7aab3fda71",
+        "checksum": "b0ba3b682958efbcc0162aaacae1d0c954a909b2118d813a06801bbc0c7141bb3701813f5aaf0453dd4da5af7e1f0b5cdba058563a2bf363fd4bc52926994b78",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Puzzles Lib",
         "pinned": false,
         "project_id": "QAGBst4M",
         "selected": false,
-        "version": "v8.1.21-1.20.1-Forge",
-        "version_id": "z0kHAGDv"
+        "version": "v8.1.33-1.20.1-Forge",
+        "version_id": "mIyVGf3d"
     },
     "R2OftAxM": {
-        "checksum": "7ef7759227e6f64d80b998462b54ec02be1ca6be7be1c8aef4426894758c211890c53965f9ed10ee68d9321cf8ccbadaeb7c26b50056ed577cdb1ea753c4e4ba",
+        "checksum": "5775ad6042363455051ee6e0da811037b30bcdc71b44af1580750058004e291d126990d67bcdd8977f1eaa6541cd2045055e2b2da3c66f98265a4324c20ce4a7",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Farmer's Delight",
         "pinned": false,
         "project_id": "R2OftAxM",
         "selected": true,
-        "version": "1.20.1-1.2.4",
-        "version_id": "AxgOboGq"
+        "version": "1.20.1-1.2.11",
+        "version_id": "bCtijHxU"
     },
     "RH2KUdKJ": {
-        "checksum": "768014f0640168f8821fdb6838cad935f346033d3b5755b87b7794d78e4c519fcaac2dd15642956451ed190239533ad6ac8ac8e3c56e72b4ee6cfdb2f00578c4",
+        "checksum": "94cc3d0dd92642117ce30d812d9233bca754d19f1269ed3fe0dd3cf0245c6d7d18c382d57fedd4bd29497a8e685b8e135538869e2435eba732d9dfc693a48f0d",
         "client_side_only": false,
-        "name": "OctoLib",
+        "ignore_dependencies": false,
+        "name": "ShatterLib | OctoLib",
         "pinned": false,
         "project_id": "RH2KUdKJ",
         "selected": true,
-        "version": "0.4.2",
-        "version_id": "9dJfM8hR"
+        "version": "0.5.0.1",
+        "version_id": "HZ7KmyXp"
     },
     "RV4ezinu": {
-        "checksum": "c68230584fa0e9b860632995560d773d520412ea29c3d953795409ead58deaba5112014da890aba1d554bc5e55475c957fd502068cc85dc1e93f7576a3e5b675",
+        "checksum": "d71bdd0867848b65a5cd4987f79f8622a253c598e7cacd6fe225432c852d4e7620c49add8ceae3508ffca5e9169f52003a2be09f82c55ae4a28f7c23e0931b0e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Call of Yucat\u00e1n",
         "pinned": false,
         "project_id": "RV4ezinu",
         "selected": true,
-        "version": "1.0.12",
-        "version_id": "8foncxoL"
+        "version": "1.0.13",
+        "version_id": "s49dr29b"
     },
     "RfFxanNh": {
-        "checksum": "b519e4997d27c03ff7c9a514ff1e443872f83c5822c869156a06dee754ee367e4b4c0071c281b47891ff81a5c63c576ebc5cf89b3ad963873d6ccb6302ba9219",
+        "checksum": "d5688c46c821e07de05ee0b88a34f2c80ff56d301f4c08a359724a69ec75369bdf343e287a4f7e27f7bbcd1a29c16b11034fc72161cb3ae89fbf72dcdb375919",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Faster Random",
-        "pinned": true,
+        "pinned": false,
         "project_id": "RfFxanNh",
         "selected": true,
-        "version": "5.0.1",
-        "version_id": "39yHBKs1"
+        "version": "5.1.0",
+        "version_id": "BbFqiKvi"
     },
     "S7b8mMXS": {
-        "checksum": "0a1e55d564cc79f724965303ded55adf663802b0ec6c460685b0c985228f6efd9265271554a0f3af69cf1ee9ad84e84846453e36206d6e0c7d11505afe0e3bb5",
+        "checksum": "817f755e34c84b1c240e542132eccec0344a0a69cf9a6d7fe69d897413bbd3e5fa571e9ca5006ed45cac83424b5e41eb46c1bde3ae49e769338c12e0b1188d0d",
         "client_side_only": false,
-        "name": "Simple Voice Radio",
+        "ignore_dependencies": false,
+        "name": "Simple Radio",
         "pinned": false,
         "project_id": "S7b8mMXS",
         "selected": true,
-        "version": "2.4.6.1",
-        "version_id": "WQ689CyS"
+        "version": "3.4.6",
+        "version_id": "YNYTaait"
     },
     "SNVQ2c0g": {
-        "checksum": "92a83c49155286fd74d8489928661265eb59ea30fe2f6ed89943cb98a365cfe66033f57691f1d7fbe1f5e1b98920f724f7e3de7620bd1e61facd7e32fc89d441",
+        "checksum": "94a87a9cf0a83589acb040f00fab0332c2e0c4c3e8c385d3899173611e6f8c2751f67698720e55998d707a67e4c5273977ea4ee315e147bb029e82c5b68e518d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "M.R.U",
         "pinned": false,
         "project_id": "SNVQ2c0g",
         "selected": false,
-        "version": "1.0.2+1.20.1-forge",
-        "version_id": "T3ZVDUfl"
+        "version": "1.0.4+1.20.1-forge",
+        "version_id": "nKL4LKzM"
     },
     "TWsbC6jW": {
-        "checksum": "14f497116aacd63e2ec4429220e4b5203e6af6855198406789e7a5066531365fb402fa1d90573abb9473e98467a110bbe33cb96a69bdffc2c760ac3901342dbb",
+        "checksum": "e61dd54fe55bf0040f5df16fc5cc274e9002b4b45ae77be360d7a2f48e97455bab35b3ac175444d264a31af1b09eb0d1b91f99afe9965ac1f6612951c510b9ba",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Additional Structures",
         "pinned": false,
         "project_id": "TWsbC6jW",
         "selected": true,
-        "version": "v.4.2.1",
-        "version_id": "Y5xnelKV"
+        "version": "v.4.2.2",
+        "version_id": "UOnYtYlg"
     },
     "Tkikq67H": {
         "checksum": "a1e3d77562c232fd44979c3d47b0c77a2d26a2bfaeb2c8284326f4826180ecc87ad6f7f1d30d1e75968ca2aae3ca6dc6a20768e4994e37b9d37519ac7e9fce90",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Regions Unexplored",
         "pinned": false,
         "project_id": "Tkikq67H",
@@ -760,58 +880,64 @@
         "version_id": "XTrgsfIB"
     },
     "TyTPFOiF": {
-        "checksum": "134460c2506d6183e206857839c07a9a8d1aa05e3c259121ef5f0a1a328d29fcd9ce9e58df933272929b2efaefece0e34394126ab75ff3669719e1f2341906af",
+        "checksum": "c7f4c066dfdb85c76bebe60e53f470946d1b6ef2c9184090b966f1323e2151281090554bd9467e4da2de05bcade48d001289690077523c33103a85dc1d8016d6",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Seamless Loading Screen ",
         "pinned": false,
         "project_id": "TyTPFOiF",
         "selected": true,
-        "version": "2.0.2+1.20.1",
-        "version_id": "c462xgHW"
+        "version": "2.0.3+1.20.1",
+        "version_id": "iguviUFl"
     },
     "UVtY3ZAC": {
-        "checksum": "e8acc1cd2d09b606a4b199bc8841b88ad2d43cbf6488916d20ed7ff6c464580942a68e11a4cba76db1411861b1ae0ee7d98a7d93558ffc4d03666f0da116aaab",
+        "checksum": "9e53b616b41e07e8e746d37f5637b994857df606f79c093997be5729a1d44bb1168cbe2773a242d8c3c25f92d17395491758cf9ba34696d99a1368a9d1cb6640",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Enchantment Descriptions",
         "pinned": false,
         "project_id": "UVtY3ZAC",
         "selected": true,
-        "version": "17.1.18",
-        "version_id": "n3plC8IW"
+        "version": "17.1.21",
+        "version_id": "OPgBRfTQ"
     },
     "Ua7DFN59": {
-        "checksum": "eb7614da88afea9679e3b03d2f375d8ad75f183393b85d1792eb69b3cbff517f77db339304d45ba3279da419092263aebd24222f4e8e4e0a9c8970660b83dc27",
+        "checksum": "d9fef2f4193c707d360f9f550562374b494a47b5d77cc39fa0a4bdffdc3e619a7eab3c42ec67cebe9245ef19f2ad631ae916ce1d65851951f7e16fc479d0fdef",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's API",
         "pinned": false,
         "project_id": "Ua7DFN59",
         "selected": false,
-        "version": "1.20-Forge-4.0.5",
-        "version_id": "aMs83SRk"
+        "version": "1.20-Forge-4.0.6",
+        "version_id": "PJOYAmAs"
     },
     "UbFnAd4l": {
-        "checksum": "b946ae99a919cf918f73f3faa5d8d7ee80a75ed46728501c1f4c2133d5d527273e3d8f03c16a2cb7a711dd386ed85e35f1ba5e35667c991e41dfcdf8fc7b1462",
+        "checksum": "fb5d862180bb4b17dd31b1ec534b01ebdfddaa71c70f700d482317076e0f405ced95e9d37be1460547b4a696f4082d37fbc2fd328ac900dece9e15e6b27cd6cf",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create Jetpack",
         "pinned": false,
         "project_id": "UbFnAd4l",
         "selected": true,
-        "version": "4.2.1",
-        "version_id": "r9jMwK81"
+        "version": "4.4.6",
+        "version_id": "Ft2vxKG4"
     },
     "V5ujR2yw": {
-        "checksum": "76be986150e10dc05a2b4b74863404de85b3ead72470f341dbd47eaca2203b313fbbfa0ee41b53eee3e3c114da1b777b5bbc201aa73dfcf899ab83265bfd849c",
+        "checksum": "7167f89f67177c542ea8ca0b56fa121cee93f0c5ebb714698a7a521cce680ac40a1583cb5c202ceecc8816aadba53abfcbfa4cb1b1f0cd1be1bc8aa1b7b0252e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Valkyrien Skies",
         "pinned": false,
         "project_id": "V5ujR2yw",
         "selected": true,
-        "version": "1.20.1-forge-2.3.0-beta.5",
-        "version_id": "JmkvaGb4"
+        "version": "1.20.1-forge-2.4.11",
+        "version_id": "pOkdwuUh"
     },
     "Vv0RM7WN": {
         "checksum": "94694b85dcc22d6f05604441059be1d0063d50883675ad46ad8bea967521a1a560979d29612eb32bc718f6f6ee045a1b9b20029d331ae3aeeffe0474b8ef4ca8",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Nether's Delight",
         "pinned": false,
         "project_id": "Vv0RM7WN",
@@ -820,18 +946,20 @@
         "version_id": "MTDQhZd2"
     },
     "WEg59z5b": {
-        "checksum": "5b9eeeb0d76ec7ffab64b1b2cad510f089e7d0b3941d7ad94b8e1d26ce04e14b5749d010eafaace631ab09ba3c0b261fbd629c6f5a2e0f531222d86f0cd7b333",
+        "checksum": "23b25b3d4882bd8135080a2fd6ef3e29d30c25a244b40faa69ee84875c87f79942b74b7e44a55a12b6d97772bfaacc59aa994f77b761b6d1a98523659ba36e19",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Default Options",
         "pinned": false,
         "project_id": "WEg59z5b",
         "selected": true,
-        "version": "18.0.1+forge-1.20",
-        "version_id": "CKNINccT"
+        "version": "18.0.4+forge-1.20.1",
+        "version_id": "t5i53ltA"
     },
     "WFwYiVoG": {
         "checksum": "04a901de11b9371e4567e672111854366bfa7bd00f48aab5fe83a4b398d57b0b4e798cec4a09f2967c7fb09a49dccbd56b39b901437c1a8ee9bd84394c8633c4",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Legacy: [Let's Do] Bakery",
         "pinned": false,
         "project_id": "WFwYiVoG",
@@ -840,18 +968,20 @@
         "version_id": "Jo8EwiDR"
     },
     "WrpuIfhw": {
-        "checksum": "bf629657522ed00314490208fc04a424277cca0ec34e8fc507be86ca10a45345bce11e934ac169bf7afaab7359c3c350a643c79cc1154e298f4d490615d4e22c",
+        "checksum": "55a7512b2f8bc0ddd29a08e614e28d4a0e8c446ebfe09520559a9b754a5bef569c274bd99fc448a48ef6f91f47a3141d7076fd142ff305705fbab3085603e005",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Corpse",
         "pinned": false,
         "project_id": "WrpuIfhw",
         "selected": true,
-        "version": "forge-1.20.1-1.0.9",
-        "version_id": "kVSwG79H"
+        "version": "forge-1.20.1-1.0.23",
+        "version_id": "7fc0hJN6"
     },
     "WtcuxDNN": {
         "checksum": "88713ab73bce218f23247c5b06915fe381c6868851b038c6ce06ac8aa902e02d1bc4954f541e0c30c15b672c3917dbecb46e5a48e6ada655735b0df8bfd5f92d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Ecospherical Expansion",
         "pinned": false,
         "project_id": "WtcuxDNN",
@@ -860,38 +990,42 @@
         "version_id": "5lXIJiba"
     },
     "XaDC71GB": {
-        "checksum": "bb670be8c13a0c140b1fdc0a59db0fa04365b7513fdc068135461aee578336b1e5d78276c399f7caf08e421479ed1d3a52b3e13a86c9fa4323f3c5ad92775e2a",
+        "checksum": "19a4f0635edd5b063b29ceda55e3e8fb50f11664525958050b1f141d727b94e5745e5a59104e20310875dc043d6735037a41279a92a4790fd29951022642a62d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Lithostitched",
         "pinned": false,
         "project_id": "XaDC71GB",
         "selected": false,
-        "version": "1.1.8",
-        "version_id": "Lhb8AZxY"
+        "version": "1.4.11-forge-1.20",
+        "version_id": "srPoHKt8"
     },
     "Y5Ve4Ui4": {
-        "checksum": "70bb400b62e8ed681259255e3bbf6b3221f7678895912ab0a541f4e69f0292ebd8a1ba7f0916738284636a069abb506d8eaac4335ae908f430b13673a9df636a",
+        "checksum": "b1eb18f95385714ab16ce3bc04e93e4b104ca49758db623d1c1ed4e90a3664662b62bc6c9bd5985544f12a4ecdbed884d7c3b846cbea166829c0ba639d248ae4",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Antique Atlas 4",
         "pinned": false,
         "project_id": "Y5Ve4Ui4",
         "selected": true,
-        "version": "2.9.17+1.20",
-        "version_id": "9Olt7kwm"
+        "version": "3.1.2+1.20",
+        "version_id": "yIV6zMoy"
     },
     "YWGP4Y1d": {
-        "checksum": "1e7f343e4ec049618fab4bce12ae431fb44cd1a5b8330f05d728eacb460118fd7e4995b75970caaf59865e5f1b8508f92427f67e35ac925aebfce63ca08932e2",
+        "checksum": "75b4d0ae5ce2931610a22122b3b850c6abf6d9cff172af77eaee0994941afebb8c86c64fb766256e1e1952311a825693d3451c2eda5647f3bfc838536f1d1d86",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Chalk",
         "pinned": false,
         "project_id": "YWGP4Y1d",
         "selected": true,
-        "version": "1.6.4",
-        "version_id": "YhueAXpz"
+        "version": "1.6.7",
+        "version_id": "egCIyHFr"
     },
     "Z2mXHnxP": {
         "checksum": "bec16551098648de28f72287f95d6bdca7b688662bf5d29c27d2b2eb0e60291adf41322704f304a4db6555bb380d33f26fb6f74b2f7c14b5a2357ba1211795ab",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's Better Nether Fortresses",
         "pinned": false,
         "project_id": "Z2mXHnxP",
@@ -900,18 +1034,20 @@
         "version_id": "2nUEz0zq"
     },
     "Z6ykjRlM": {
-        "checksum": "c4c9e3bb02d512347c50337aadf718c26217b21526516c38f75e0dd18b287d73411cc209936caac53d65f18291c59d541b54bb9bc9d0a74c8aadf1da25a67801",
+        "checksum": "9141f074d9b01e697f163547bd28105effa4ddc4d864252f922f594d39239b11ae08a7dc162df0e2c04d12bc277cdee21500f633c2aaa3d033e7e7fa40627892",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Spyglass Improvements",
         "pinned": false,
         "project_id": "Z6ykjRlM",
         "selected": true,
-        "version": "1.5+mc1.20+forge",
-        "version_id": "chgnA6zJ"
+        "version": "1.5.12b+mc1.20+forge",
+        "version_id": "3MPiN8W6"
     },
     "ZYgyPyfq": {
         "checksum": "59b86035706bcfa8c636079489f934343f42f1e727e00d368ddb1eda34aa4dfe8fc8a71f356f478a0854573f0118c5752ce7e9be0cad3f176492d4449fa36df1",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's Extras",
         "pinned": false,
         "project_id": "ZYgyPyfq",
@@ -922,6 +1058,7 @@
     "aC3cM3Vq": {
         "checksum": "55761388ccd5ceda59be1138f0a1b543c4885bbeaf57b6e742d3a45244236966c580d77289dfcca8eb36cc82658f87fd7d06464bcf4c462e91cf69fb55a78d5f",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Mouse Tweaks",
         "pinned": false,
         "project_id": "aC3cM3Vq",
@@ -930,18 +1067,20 @@
         "version_id": "7JVXOe3K"
     },
     "b3w1XM9H": {
-        "checksum": "a90c6ad56ccc59970f761beee0d06dd5dd4c501019622d664aa4c8acfe50230d970e53f120b0cd93c0bfbcb9292b3e6cb5e038aba5ae0b45a61e961e42a81719",
+        "checksum": "50aefa7bb50f3f7af751a51e577177cfe1c70dc0610738ea098d383bdf399e446c25f014c2cac03ead9d7f7288fc5ebc89276d3d1718ef5e5fe2d4b822079e10",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Sooty Chimneys",
         "pinned": false,
         "project_id": "b3w1XM9H",
         "selected": true,
-        "version": "1.2.1",
-        "version_id": "antfC9D5"
+        "version": "1.3.4",
+        "version_id": "cKRji5t2"
     },
     "bK3Ubu9p": {
         "checksum": "17ab71de6b031e8d6dce464be1baa86595862211118ead8af04b8e9f1b8f58ebba610e7798b050b4d3fc560c52da8f4fe8b62cbf2abd237d520cbed601bff513",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Simply Swords",
         "pinned": false,
         "project_id": "bK3Ubu9p",
@@ -952,6 +1091,7 @@
     "cV5LQXKx": {
         "checksum": "7d1d06d115e1956be6cce5c11eea1c85c48d09ea2b0be3d6b673ea26b487db4bd67902441152ebf8004d0ed529842020c0826f444b92d6d0ad84ca8af762704a",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Legacy: [Let's Do] Brewery",
         "pinned": false,
         "project_id": "cV5LQXKx",
@@ -962,6 +1102,7 @@
     "egyqODDj": {
         "checksum": "ec08510a915642c26408eee7a772231dffb0f146f08558743f23cb4dd59fe779d4adeafab92d30f88c99db0a91a028ba04b08bded406fa0bdda43ee6cd783db0",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Spellbound Weapons",
         "pinned": false,
         "project_id": "egyqODDj",
@@ -970,18 +1111,20 @@
         "version_id": "nxtkgmc5"
     },
     "eiktJyw1": {
-        "checksum": "a3b168acb0d1ebf7b8268012309caee5a5a6dfc4f11c3844f04a61e32549d420b4fc265d97dfb2e96575cda9c70bb344a7ca035613267bb8be9b424974f8ab06",
+        "checksum": "bae3f5d63d97d8481e77dc49818b9f90caa3607e663629482499849a4aedb295f531a8e92e76ac6ef873b1e24f46e516742895c8d80e7767a4cfad44528bd024",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Every Compat (Wood Good)",
         "pinned": false,
         "project_id": "eiktJyw1",
         "selected": true,
-        "version": "1.21-2.6.72",
-        "version_id": "7UFDB8hp"
+        "version": "1.20-2.9.20-forge",
+        "version_id": "FcoqvoEO"
     },
     "fALzjamp": {
         "checksum": "f27d5e0ccd6772f676ff1fbd7d713c3ec03f3176314d57e3e479c21568643ae120843d655d1314ffc6985b5052766fef3ea43d47da3a762ca9cc43a3ee959e01",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Chunky",
         "pinned": false,
         "project_id": "fALzjamp",
@@ -990,58 +1133,64 @@
         "version_id": "4FTDk9wv"
     },
     "fFEIiSDQ": {
-        "checksum": "4e4f3a6731dc7a10e7621bc5a47b620124aee1aa3f01d3a55cdf104c3637af889e0fe6bde351c6805265bdde99e1bb573e41266ac7b90e4dd2daf4f7cdecf009",
+        "checksum": "02bda7620481b13edf21711137c8bd8eefc1a3aeb76b298b6cfc5c04de94d0ddafff00ee31448b96535b5164bba3e9c218ab725baa102b0b1fd1ceff30c4cd90",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Supplementaries",
         "pinned": false,
         "project_id": "fFEIiSDQ",
         "selected": true,
-        "version": "1.20-2.8.17",
-        "version_id": "KAx6eLAF"
+        "version": "1.20-3.1.43-forge",
+        "version_id": "S0TIJ1hU"
     },
     "fPetb5Kh": {
-        "checksum": "17de1bbfadeb896501dc2db97606eb3e37adb7b5c0116d7e62238aa3d1d1c277f9481b3f40425b395107b291c24eb7e934e203c319736288b46e970263536d27",
+        "checksum": "a201eef858857622dd5fc80adbdc9af911dc1fc85b426648052e72039301a4aa6e13884e787beffcd2361ccc4404b6cc51150ee1a51c6eba4b0e506771108c83",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Nature's Compass",
         "pinned": false,
         "project_id": "fPetb5Kh",
         "selected": true,
-        "version": "1.20.1-1.11.2-forge",
-        "version_id": "Og40jCNX"
+        "version": "1.20.1-1.12.0-forge",
+        "version_id": "eRSDvCjN"
     },
     "fRiHVvU7": {
-        "checksum": "b08a81bd67540569a9a2d1034261010051f815325e7f65c5226f7c67e9e805da21dd8ebe4584bb3b2c834a6f2f8d93b31c4536d01779a0795f8c73383a6168f7",
-        "client_side_only": true,
+        "checksum": "3a2c720174b784ec28267834e3e8caddb0e479ab8dfe5ebb1289dd6392ed0b267a407f9fc341130509be16a60285e44753b1dc17dd44647bd8d67d65bfe49cb6",
+        "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "EMI",
         "pinned": false,
         "project_id": "fRiHVvU7",
         "selected": true,
-        "version": "1.1.12+1.20.1+forge",
-        "version_id": "X6p68pI0"
+        "version": "1.1.22+1.20.1+forge",
+        "version_id": "WtJS5tVw"
     },
     "fgmhI8kH": {
-        "checksum": "df0673b6bd208f6e0db8bb4b58bed973c6b28a87e174c283fa05adbf9c40d412caf09e8196aca54db3ab0f56d83ae93221cf0dec61248b666ef0a168b3485bc9",
+        "checksum": "2d7fdf6cfbd1a0908c6800fc2412f12aa12e9fb0f032c7e8dc2ee50e507dbf0992ce0f17a06a8444fd2b496d1485094d2cd2bcbf63055e2290d50f2e40d89a8e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "ChoiceTheorem's Overhauled Village",
         "pinned": false,
         "project_id": "fgmhI8kH",
         "selected": true,
-        "version": "3.4.5",
-        "version_id": "Hxo3cge6"
+        "version": "3.4.14",
+        "version_id": "o7mg6MeV"
     },
     "ftdbN0KK": {
-        "checksum": "2456e4876827ba922fa2629c3a7970205a8f9cef08636d78468038433a0cf1d1806d140b20c470fa4b13dbb4800abe32f1a8421c5385c37681d9222f72045310",
+        "checksum": "d8350cb58395c48077dd5611914dbc3f2d398cca2a7a1b13ec694b03d01d9d68cafd601a0a03a0eab3182acfc556524c630118fd16f53da75711069dbc4da6f1",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "bad packets",
         "pinned": false,
         "project_id": "ftdbN0KK",
         "selected": false,
-        "version": "forge-0.4.2",
-        "version_id": "dcVcnZ7u"
+        "version": "forge-0.4.3",
+        "version_id": "aXZqpNgH"
     },
     "fuuu3xnx": {
         "checksum": "a9ff55588e577256d98b20d1d7af19bf7ed703a597e86e59b88c9c13260063bc7185a9d511f75216bfa21062c075e603bc1cbc5c3b81e75da3a376189ef64661",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Searchables",
         "pinned": false,
         "project_id": "fuuu3xnx",
@@ -1050,28 +1199,31 @@
         "version_id": "PM9yAW1G"
     },
     "gBGdVBJy": {
-        "checksum": "681a33972f1be5dc597ccd627f8689e58510f107f6914229f9792a0dd42598cb3c1f206c7a3a7a3f918c173a694c297df609c6b830a913b12f354777d90f696f",
+        "checksum": "17983167802ed35a784a40291b2da1c53392c5768bc01f262958ffea353b6be3e11035dd1f9336966baa892b4b25b75a738728927c2c80687f433bf9ba038d2e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Crabber's Delight",
         "pinned": false,
         "project_id": "gBGdVBJy",
         "selected": true,
-        "version": "1.1.7",
-        "version_id": "d5KahnbR"
+        "version": "1.2.3",
+        "version_id": "B2BQTXh9"
     },
     "gOQjCAAD": {
-        "checksum": "1baa64873b6a677809211c214dd422ab804c3b0f0706697bbb5df556bfb14a4a85fac030cd6dce8c7475964078bb0e6d6cf228f25ba6197c4e9a8ed75754cd24",
+        "checksum": "63bebcd06c8dda215129bcab54e5bf68b430d81733a64cb0886dc5f8f3ea3a9e0c5ddfa5ce8e3fe76f1b1acb86b2b436488afd6c3b852b6624885963336c4282",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Cuisine Delight",
         "pinned": false,
         "project_id": "gOQjCAAD",
         "selected": true,
-        "version": "1.1.14",
-        "version_id": "8yeZOJDQ"
+        "version": "1.1.18",
+        "version_id": "W8HtUUqB"
     },
     "gedNE4y2": {
         "checksum": "dd05171b8b2b01f2daa0a1d370d4f64760b59f26169830dc0bb38449a84ff233d756c4a8e81db0e4b5a8297e37a3842f931bbb66e0f68eab39f34ddc02b68923",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "playerAnimator",
         "pinned": false,
         "project_id": "gedNE4y2",
@@ -1082,6 +1234,7 @@
     "gu9PQOOc": {
         "checksum": "9b1e745427000635a200920e387d9f5eec7c9e759c08a2942755d4dd18b517b4732ee9dcd355053463f7b502e22341ba8d862c7c98963f2e699d75b04f44728e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "trolldom",
         "pinned": false,
         "project_id": "gu9PQOOc",
@@ -1090,28 +1243,31 @@
         "version_id": "HrAKzfqQ"
     },
     "h5JyLdjM": {
-        "checksum": "dc4330c78056fbc4d755616a15bc562c1ca901eda9d1f14819436dbdb04585a6c18ddef06304f2a2ed969d7696bdb26e657d73856571882e45c055b6d72fb097",
+        "checksum": "fd876c65e5405ebf2d7f1831800b841e824192f66e7076d88fe62d44f64441ebdf3fd95e7eff58c2310d5ec9f394e7023b05a51c0a262f01aad3eb096f5d3ba1",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Domestication Innovation",
         "pinned": false,
         "project_id": "h5JyLdjM",
         "selected": true,
-        "version": "1.7.0",
-        "version_id": "dbdSXAji"
+        "version": "1.7.1",
+        "version_id": "SGxCLghg"
     },
     "hB899VmG": {
-        "checksum": "ad3025b7dd272d3b7e42f3dca4cba993302f8d49acd8fe99c6b22bf0bf817a75b7b6f4c728ea58d2ad7a9a6ff6b5651017e11df5cd2fd8456f040dc7a611a0d5",
+        "checksum": "7b9bd204c3643399bf6910ee4fc02c75887c504bf1cb319d36d023c9448745cc62e49de2374618cb6d8b3127a2597160b89bc14a2dbba4b19286e44a2ffab00e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Exposure",
         "pinned": false,
         "project_id": "hB899VmG",
         "selected": true,
-        "version": "1.7.6",
-        "version_id": "6tNXzXkA"
+        "version": "1.7.16",
+        "version_id": "Wk43p4gt"
     },
     "hFUzfDsn": {
         "checksum": "a8846143ed17ece94fea70d97912e740b625e0b9fb6378821af11b72bc82c82409b2595aaaa94bde0138977b6e6832a7af0410837575071e1f821ff2dac21d24",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Bosses of Mass Destruction Forge",
         "pinned": false,
         "project_id": "hFUzfDsn",
@@ -1122,6 +1278,7 @@
     "hGWjTxOA": {
         "checksum": "93d155b5258b8c0c2e49c2500866e3364e3e64c49f03544c25b6bb2038346bd21d39af6b7aa3e67c9cb64b70a9c1614b322a8b7921f84fb9dd6e5ed714d51096",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Grappling Hook Mod",
         "pinned": false,
         "project_id": "hGWjTxOA",
@@ -1129,19 +1286,32 @@
         "version": "v13-1.20.1",
         "version_id": "RGcgyxBt"
     },
-    "iWMeHtdv": {
-        "checksum": "a39d9a487f05a1fb8b12be97b31251ace797dd63de331e472623abb62a3b38b7042672ca5ae1ae891d8fd102cb6dc883eae73c9f937c9b3030036d7e75c38a95",
+    "hYykXjDp": {
+        "checksum": "6d4eefa347c70f5c2813fbf3045bdc3832d86f19a7eb5653146b9d0749b4babff6e0b0fd924786d567cb9f5376bc3a126c1ef591c5e64ed2163e0b31e7ef2a60",
         "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "Fzzy Config",
+        "pinned": false,
+        "project_id": "hYykXjDp",
+        "selected": true,
+        "version": "0.7.6+1.20.1+forge",
+        "version_id": "7MmXhjWs"
+    },
+    "iWMeHtdv": {
+        "checksum": "192498452f5add1588c8e1bd4b0e71c09c32e9a953421a2c87b2965a0263f3f18920ef4f4aa09c68f51cf028e341db5642a4ee8870999f03c068239452ecd3b0",
+        "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "No Void Structures",
         "pinned": false,
         "project_id": "iWMeHtdv",
         "selected": true,
-        "version": "1.0.0",
-        "version_id": "sNMfFTww"
+        "version": "2.0.1+mod",
+        "version_id": "T0kgpBJv"
     },
     "j2HhbEE7": {
         "checksum": "d31a86839deafd2f9d1f507f15fa7c02b565d7e21b3951c4819e4f036165539676c6f49990a7986d864c3874a4654c979accf024b32f529476aaea8ce8110bf5",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "EMI Trades",
         "pinned": false,
         "project_id": "j2HhbEE7",
@@ -1150,28 +1320,31 @@
         "version_id": "LBT7pcVH"
     },
     "jJfV67b1": {
-        "checksum": "30c7badd87f7bba80138f1495141c3cdd281548f8d4d40fc7e491774aec6cb01e581671ede348800fba52bec8abb43d1caad8f2aa6d1db1bb08fd0a3774e0fa7",
+        "checksum": "68a7e23ceb7ba47f65125f44c490e7865045e747437f05137a3d0437e59d2419783d95e35750e11cd7b7120236618d6046c00216a2bcaae8af9179e3c8dec62f",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Citadel",
         "pinned": false,
         "project_id": "jJfV67b1",
         "selected": false,
-        "version": "2.6.0",
-        "version_id": "mL5pYWWo"
+        "version": "2.6.3",
+        "version_id": "lTAAe4sZ"
     },
     "jkskOO9i": {
-        "checksum": "495da87ead71580cbb437e15ad6ca9a7e2d12c824f10208c0ec56d3c69bcf4ab6775063fe153d42cb3bba343668a2269b08e4eb5120abc21058ebf2b7b398fd0",
+        "checksum": "e553a5be5d66703bc47e2722d81de5446f2fb7f6e34a8d21ca5cd32ba2dc4842344231b551fb02ef5e81a9129f534680625e4d00c477c0882c29612c9ba27cd7",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Immersive Weathering",
         "pinned": false,
         "project_id": "jkskOO9i",
         "selected": true,
-        "version": "1.20.1-2.0.1",
-        "version_id": "f3ttCid9"
+        "version": "1.20.1-2.0.5",
+        "version_id": "Fl2lADP9"
     },
     "k040zVg5": {
         "checksum": "440ced80572291c28867527d26f4af8978990f4ddefac5f0074ece1c4da77cd83f89f53bcae956ffca59324a2fc3d053e374a2d8464fac4e76c5b64cab108cdf",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Map Album",
         "pinned": false,
         "project_id": "k040zVg5",
@@ -1180,28 +1353,31 @@
         "version_id": "7N4fnDj1"
     },
     "k6hi4lMv": {
-        "checksum": "a98d3ea84ab3e1f1d2f9b41b22e5ddc9adabf71a7e04ad1bd037801d99ed83cbcf49dbacc08fa6b9608cc487e93afcf8df02945c6ad1784bbc9a5c2efea55788",
+        "checksum": "46bee44df02a5c9fa0cdc103ccb273486ecc285a77a350a8ced01ed60ab71bdb732b6c69aace90f34ebf4852d84af8b0d47ea560e710d8859738a651bdc6ff82",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "[Let's Do Addon] EMI Compat",
         "pinned": false,
         "project_id": "k6hi4lMv",
         "selected": true,
-        "version": "1.2",
-        "version_id": "mjFf60qW"
+        "version": "1.8.1+1.20.1+forge",
+        "version_id": "iltPVvOV"
     },
     "kU1G12Nn": {
-        "checksum": "738abc1b80b4559a05260bf341bf7d3a96db106d325d7c0864470c8161df95b2f5f26c855b82c07469f5f53edc852096dc31debc5e2e49bd1408419b3bfe23bf",
+        "checksum": "9f6f35d43c3470cadf1aa07403e9e5a7eae36767026f73cccafdcce6be766b5bec6d09e5da32e2a765f9c0b23df250729571bcbf9011a695b1b4d987806a3c0e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create Crafts & Additions",
         "pinned": false,
         "project_id": "kU1G12Nn",
         "selected": true,
-        "version": "1.20.1-1.2.4e",
-        "version_id": "4DW3pAsX"
+        "version": "forge-1.20.1-1.3.",
+        "version_id": "9LgyB6Yb"
     },
     "kidLKymU": {
         "checksum": "78ec395fbc6907216820880b0285a2d72c533ec977f016616bf862f71aaeafe21fef8f44affd2defa1e9011dbf95f1d2ea970dbae07710156f0cc46b06925dbe",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's Better Strongholds",
         "pinned": false,
         "project_id": "kidLKymU",
@@ -1210,18 +1386,20 @@
         "version_id": "rwiShgsc"
     },
     "kkmrDlKT": {
-        "checksum": "24de3145f0705ddfbeed8e03518db1b4fc7f1ccc51ea07f91ede1ec63451d3580264acfe5d05076fb0bce950a2fc321259c87c1ea5780fd513aaa9644e8a15bf",
+        "checksum": "45586d48579ba9c11e903ff407c617ce374e76206d12208d2a6d11bdae9d61aeee722081fdc7026be78565c509a6237b6bd201ffa8c69aeb85187d322ea3abba",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "TerraBlender",
         "pinned": false,
         "project_id": "kkmrDlKT",
         "selected": true,
-        "version": "3.0.1.7",
-        "version_id": "HI0iCUpi"
+        "version": "3.0.1.10",
+        "version_id": "zGconCHG"
     },
     "l9fldtN4": {
         "checksum": "12c78c3c1921ce9ac13194726cfd4b049cc7458c623f02c7f7b245e428ba0cebcbdfda82f94e1127daf7fba136d0e71fb9a4f6b0ba26b8e89bac9468fe601e32",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "CTOV - Create: Structures",
         "pinned": false,
         "project_id": "l9fldtN4",
@@ -1232,6 +1410,7 @@
     "lhGA9TYQ": {
         "checksum": "fc3a762fd6a7ef7cf9243efd317950bcc6e8e7eca1119aa97fa190fb5f5d4db2d0d53081cd805532e3f080d5c6e9f2b3d051f45f834f5d6f0dba27420a00260a",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Architectury API",
         "pinned": false,
         "project_id": "lhGA9TYQ",
@@ -1242,6 +1421,7 @@
     "mPND0Adp": {
         "checksum": "df996ffef122652b4d827b413673b0d3d64f5ec44716932379346802ce86ccd64f17d27df336fb925fc4c8bbed631d729272a20ce4346d59ba9bb55a66f6ab46",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Legacy: [Let's Do] Candlelight",
         "pinned": false,
         "project_id": "mPND0Adp",
@@ -1249,79 +1429,76 @@
         "version": "1.2.13",
         "version_id": "ImuP9F4N"
     },
-    "ndHYMY2K": {
-        "checksum": "d89084688279962d4e60e252fd3a4fcc95997339cd98919bea4f58ce80f1bc71b8c3ee3a4e95f8f431f526d1810d05a53538d120c3dbad90ffcf717b008d0aff",
-        "client_side_only": true,
-        "name": "Iris & Oculus Flywheel Compat",
-        "pinned": false,
-        "project_id": "ndHYMY2K",
-        "selected": true,
-        "version": "1.1.2",
-        "version_id": "9fvGbqdA"
-    },
     "nmDcB62a": {
-        "checksum": "7ff44b4ae8d8c25a80862d209d9af0e2249bc6e614feaef6c8b83e9a68e0a50fa17b423e1704e4b19e6dd357864b55472dd16758b3d6a3f66c3da54c57643d33",
+        "checksum": "1ad055d7a9de62423e2c56dfe97191002dd0ad8f62c8638ccf4af3f6334607f74308249512a94d0fe33ffc0b5097afabed00fd58589a507017af9de24ed5e741",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "ModernFix",
         "pinned": false,
         "project_id": "nmDcB62a",
         "selected": true,
-        "version": "5.18.6+mc1.20.1",
-        "version_id": "QroNBg6X"
+        "version": "5.27.8+mc1.20.1",
+        "version_id": "OvpPdk44"
     },
     "nvQzSEkH": {
-        "checksum": "c92e4e931f022c50bd66abe6b7127c1c55940be5309c2d5537d74ca40809349c4c04ad14df558e113551691af3ed3f1eed5f54e22598b53c138a07e97f7df835",
+        "checksum": "3312173a38d5f0397e25f9a6876691da5ed7dab86fe2f179ad1da99053a4e53fe0a56899d997c072862aad3ab93f4b66b528d86ae80cc1a75cd06c04ab4ccc0f",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Jade \ud83d\udd0d",
         "pinned": false,
         "project_id": "nvQzSEkH",
         "selected": true,
-        "version": "11.10.1+forge",
-        "version_id": "dldgfOqB"
+        "version": "11.13.2+forge",
+        "version_id": "LecuGude"
     },
     "ordsPcFz": {
-        "checksum": "7251fd60cd3929ec11b1709807c0d3d24c33f341dfb756eb59c4dc6db392402213ab062736f9354ebdfb184e4ed1df7b589bafbd491134f47023b9f0135e5ac4",
+        "checksum": "303d361f3f4d1a8634a3c53b9a174eb3594bcc20c904ac6acfe34292a400b38127fb0b0aaed87ae00e8e2ef3718a3d1b466fa6ccb2d5067c18f843442964d988",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Kotlin for Forge",
         "pinned": false,
         "project_id": "ordsPcFz",
         "selected": false,
-        "version": "4.11.0",
-        "version_id": "hmeyC41q"
+        "version": "4.12.0",
+        "version_id": "Zsh14XeQ"
     },
     "qANg5Jrr": {
-        "checksum": "f7986b09cc9b29419260476203534908c385f3034285cf23d82f59e650df7f48afb32a36a08501375f03dc7b5ed0c65dc9d48cd030ae2167400c10e4a2b25d8f",
+        "checksum": "d095ff4dc932bee3d6b471095e8652cf19042a30ef4a9109f30895a434517a43d328daa3f864e4e654483d5b69b57b9c5198be56f98dafe52391f4e045b4e3b4",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "e4mc",
         "pinned": false,
         "project_id": "qANg5Jrr",
         "selected": true,
-        "version": "4.0.1+1.19.4-forge",
-        "version_id": "bFG2YxbQ"
+        "version": "6.1.0-forge",
+        "version_id": "jjcQdp8y"
     },
     "qbbO7Jns": {
-        "checksum": "dc32b8411d87e19c53bcff7e6cf392a4268c1a948e8661c63b9e1896a5377bedb2a2c579881ef8e140daf93896d54b9411799b9cbad2c2547fd248993ac3eed9",
+        "checksum": "78868c80843fe385d6a6d52c4473fc55eff0f2e68742b0ab01ccd1852226c0cb0260b14c32c3dde02e890636541b996efe8df2986b408a4f569756621c102e17",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "EMI Loot",
         "pinned": false,
         "project_id": "qbbO7Jns",
         "selected": true,
-        "version": "0.6.5+1.20.1+forge",
-        "version_id": "91c49w5V"
+        "version": "0.7.9+1.20.1+forge",
+        "version_id": "KKWmdLti"
     },
     "qnQsVE2z": {
-        "checksum": "2a0d7eaa21185fa8c8f2117c50ef72520205f3bf3645fe0e3c7fe9d600e465a84395f530f653b03ed24c70b1952f0b1486f278ff8e1bc36fa07819075459718c",
+        "checksum": "7d5e5e02c02e13561c487786e951fd4ffe20c5f9bd5573bdc32c4cab3bc2cda2903b8f50819cb3ed37f327db190f13b1b8aea568c9ce8f024a1a2c06d752452d",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Quark",
         "pinned": false,
         "project_id": "qnQsVE2z",
         "selected": true,
-        "version": "1.20.1-4.0-460",
-        "version_id": "vIWYw2yn"
+        "version": "1.20.1-4.0-462",
+        "version_id": "DijQLauD"
     },
     "qsSP2ZZ0": {
         "checksum": "9f7b8b40e329c4117d37f1b296c56937a6f3a8ba363119d1af2faa91aab6299c0e4778865a136c025eb5d811aecc2dfdcce22c6c2676b536e759b858d65f1259",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Voice Chat Interaction",
         "pinned": false,
         "project_id": "qsSP2ZZ0",
@@ -1330,28 +1507,31 @@
         "version_id": "LX0uNyw4"
     },
     "qyVF9oeo": {
-        "checksum": "01e1210ba173ad52cc49d756c42cb2b70a09237b638f80707d69546f3e7e6cc504f413d21f2703f381ef75fb80a19f9c427667b9f4b9145073011d3a6af30305",
-        "client_side_only": true,
+        "checksum": "a8f384c50ec7a0d8a6290750323d7c54a83acb2c35515b95a415143d7d392c8c9dd28ae26a9be7e395be96ad0e0250fa8e40354abd9f5eb0d609482ea25667d7",
+        "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Sound Physics Remastered",
         "pinned": false,
         "project_id": "qyVF9oeo",
         "selected": true,
-        "version": "forge-1.20.1-1.3.0",
-        "version_id": "sSV5WT7s"
+        "version": "forge-1.20.1-1.5.1",
+        "version_id": "x0sJ9PeR"
     },
     "r4Knci2k": {
-        "checksum": "cee7e6b162459703d388378b3eed674585e2059f08b48c8fce33a015fe00b30b0b80a4aad8e0d969a7c01433631765a4ddacf04cbbae6b6879a475a6ae083982",
+        "checksum": "92b1fb90e75348d7f1990ae1e4a6d2af1c4b52f309a4b8222d16b86131c3119c3368702ae16e84f40de00286de6446fad8baafd14f1c095c59db207249c0c5dd",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Create: Interiors",
         "pinned": false,
         "project_id": "r4Knci2k",
         "selected": true,
-        "version": "0.5.4+forge-mc1.20.1",
-        "version_id": "773UvJvN"
+        "version": "1.20.1-forge-0.6.0",
+        "version_id": "3Gpm5qDT"
     },
     "rGWEHQrP": {
         "checksum": "36d1c26a12d10a0da2dace2320fd4276e4a430ab737bdfa42f8e5e2926a82ec1e784213c1879d8db2c821cb951d047beca3bb0ebb2e30f6cb8c190d45425f9c1",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Small Ships",
         "pinned": false,
         "project_id": "rGWEHQrP",
@@ -1362,6 +1542,7 @@
     "rLLJ1OZM": {
         "checksum": "2d68928bcefe3d63221b9eac7cb584b9600ace2cbe2065cfe6dbeefca04d91301168f366d0d4d18f79855eb89eb1b73b96b325ffcb2c98c2766f207b8a106371",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "CoroUtil",
         "pinned": false,
         "project_id": "rLLJ1OZM",
@@ -1370,28 +1551,31 @@
         "version_id": "6rPDKAT8"
     },
     "rcTfTZr3": {
-        "checksum": "53529f3337317e6b230e3d8eca3e3a4f8c4f96324983ad85d1222b75872e6d260f62e9c1480deefbb1fbb69c3e4ba3fd0c84485ada05c51b4e8c026d0252d718",
+        "checksum": "22fe70fe1da62259c34d823d2f96dbf9cebca28ad10d66722229182169fcedf0fae848277fe1d3d616647e49ce27184e0ec923a9566bed29dd7133b54dffd4b8",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Presence Footsteps",
         "pinned": false,
         "project_id": "rcTfTZr3",
         "selected": true,
-        "version": "1.9.4+1.20.1",
-        "version_id": "LjDXTyEn"
+        "version": "1.10.1+1.20.1",
+        "version_id": "k0t6DSmw"
     },
     "s4OWxYQQ": {
-        "checksum": "3e5b1069147f02b345e64267b97f7a3d761e0d38ec52ed84418f17218f42933f1aadb93b3233470577265a4b264024aa8e68488552ecc939c914c96fbabbbf01",
+        "checksum": "f88b0974727295cb3a24f3516ad5ffb46c690e9e982cd102ba4429ba3900e1dcc05d33dd00cdbeb10c473cd312c47a1e14cb2d8d7cb68d24456a2a3906284018",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Iron's Spells 'n Spellbooks",
         "pinned": false,
         "project_id": "s4OWxYQQ",
         "selected": true,
-        "version": "1.20.1-3.4.0",
-        "version_id": "5N3s3wn6"
+        "version": "1.20.1-3.15.6",
+        "version_id": "Az9kyOso"
     },
     "sMHZd2kw": {
         "checksum": "f806615170ec0baad905c11fd66741f8c8942f621713b147dd7db962e33e59be9497e05f2741485bde0abe33e0dc7d1cbb9cde47958ecc367c0c99f0bbac32f7",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Sparse Structures Reforged",
         "pinned": false,
         "project_id": "sMHZd2kw",
@@ -1400,18 +1584,20 @@
         "version_id": "5z0uxlH9"
     },
     "sk9rgfiA": {
-        "checksum": "09a6c42f34ab6cbf6790fbd79fadb40f97c859b8ed27015ba8a8307496e6731b3486b88ac9ad4b5fa003ff9d429b4154d6ecb3593bdd9888f89ed498d29c3671",
+        "checksum": "55d6c2b3e9d3ecab9155dc0f2ee8fbc8feb15898920e957c0b40e9f561751dd45956f9ef35480ac43e7e308267f8f436d8f04a090b8ad1111d55da15169b4891",
         "client_side_only": true,
+        "ignore_dependencies": false,
         "name": "Embeddium",
         "pinned": false,
         "project_id": "sk9rgfiA",
         "selected": true,
-        "version": "0.3.30+mc1.20.1",
-        "version_id": "EKA4u4Uy"
+        "version": "0.3.31+mc1.20.1",
+        "version_id": "UTbfe5d1"
     },
     "t5FRdP87": {
         "checksum": "0c460955c9a78beda0a71d770954e09e55f7ab3423af51a852652506f75cc329856cbd65ba7190d40aad1021e30041a091668f9781a276a0749d430d4d8a064b",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "YUNG's Better Witch Huts",
         "pinned": false,
         "project_id": "t5FRdP87",
@@ -1420,28 +1606,31 @@
         "version_id": "mwlYB7rq"
     },
     "tIm2nV03": {
-        "checksum": "c9a8ca06e9c5db92f9b7bca766d94c0159b6f4c78000d90a9fe540b80982f2e0af5e223bda0bb5dfe2a4acb46670598f05178bd2d1fe73e675ba918b455a77c4",
+        "checksum": "b2f12d06ae5d9cd4b3272c65d6bf9a940d777d21f603476a5b96eb35acbe4e4e9ef7a5c29732f519c306a994ccefbe1bb4c513f8c144d70e18f07af04b408540",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Immersive Engineering",
         "pinned": false,
         "project_id": "tIm2nV03",
         "selected": true,
-        "version": "1.20.1-10.1.0-171",
-        "version_id": "MAqXk6P8"
+        "version": "10.2.0-183",
+        "version_id": "WUzj4tgJ"
     },
     "tagwiZkJ": {
-        "checksum": "d4fa5a8c5d65b2de5881ce9d5576a69b11f38e79ac2d7fe671ca09568f56eff6674f99248e11f26038f097628b224f72658bf3b6a324d3f96c7abe59f536d05d",
+        "checksum": "ef3617e4e66a919b965c59ca3fabeaca26af3440eb872516f3b1e41bc4258f796085d06c42c9292e4a135b832ba7468ae3e2b2f7eff4cce232b6b79f4e6ff447",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Polymorph",
         "pinned": false,
         "project_id": "tagwiZkJ",
         "selected": true,
-        "version": "0.49.2+1.20.1",
-        "version_id": "km82tZAr"
+        "version": "0.49.10+1.20.1",
+        "version_id": "UZBKtFyR"
     },
     "tpehi7ww": {
         "checksum": "ec788accfd9258ec8e7826b41a18db68e196c9bd74df8ca155962673c8e74388f3e32b353b7afaaeb82a222daea1c66b3452a5f0f286a627396630df1ed0293f",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Dungeons and Taverns",
         "pinned": false,
         "project_id": "tpehi7ww",
@@ -1450,38 +1639,42 @@
         "version_id": "ojHpWOrz"
     },
     "twkfQtEc": {
-        "checksum": "01e50cbd0ef2e310f0df1451a814653555d2caef3550fe21a36031450ff611d6ef586c6bafa526243e66b984fbeb1134bfdd0500efd8eff8959f9762e31d0557",
+        "checksum": "deb0d00219c5515e9b3d060dcb4f918677e1eeea33c528ee17860239c1b670f44c8508cff8abd281fac188b88d1acbd932960324231b4e717497836fc755e86e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Moonlight Lib",
         "pinned": false,
         "project_id": "twkfQtEc",
         "selected": false,
-        "version": "forge_1.20-2.12.16",
-        "version_id": "RmEqJfrT"
+        "version": "1.20-2.16.28-forge",
+        "version_id": "4f5Vm2TE"
     },
     "u58R1TMW": {
-        "checksum": "0bc1e8835e54ee43275edd0f14ea93d5cbdbdbb1b74ed45c399015e6389bbe781c9553d6e9979b4467376e29e25aa6098b67501aa6a0c646586f0dae307e2309",
+        "checksum": "5ee44b0583f4b15334864d9d88208b809e18c168d40537f12148fd70eb4d5546ecde804e61d29b3e2bcb7b5b716f66ea5f337872b95939e31aad7f95759fe419",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Sinytra Connector",
         "pinned": false,
         "project_id": "u58R1TMW",
         "selected": true,
-        "version": "1.0.0-beta.45+1.20.1",
-        "version_id": "j0igWmaL"
+        "version": "1.0.0-beta.48+1.20.1",
+        "version_id": "dmW0aite"
     },
     "u6dRKJwZ": {
-        "checksum": "b86fa400032fa8fbc129476f04423ee9f0f57d2a065de047dee3265a8f94724b00aef3f697abd9c98fd39f00becd282a38e6ba96e4d9d37ee7f3d0bf9dbe9033",
-        "client_side_only": true,
-        "name": "Just Enough Items",
-        "pinned": true,
+        "checksum": "49684311d1aeb500b15ef35836d6d967df25717b90005b61710f068adafcfd5a35f74127ea07985ca797c367bd33f2e6f1579878e912c323bb8215a7667100db",
+        "client_side_only": false,
+        "ignore_dependencies": false,
+        "name": "Just Enough Items (JEI)",
+        "pinned": false,
         "project_id": "u6dRKJwZ",
         "selected": true,
-        "version": "15.12.3.54",
-        "version_id": "lTsLGis7"
+        "version": "15.20.0.130",
+        "version_id": "RTFeXsvE"
     },
     "uXXizFIs": {
         "checksum": "0267f37feab383991403e3f22effd26f6e530cbe71ab11e406e97b303ee3baee3ee7fe85e463e258813aa32d92a920f2ed137dad15fc15012e5cd0a3ae85be1c",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "FerriteCore",
         "pinned": false,
         "project_id": "uXXizFIs",
@@ -1490,104 +1683,113 @@
         "version_id": "DG5Fn9Sz"
     },
     "uy4Cnpcm": {
-        "checksum": "348ac9efb39abfbb5311e1cc6c244c7eac8e779d5e8efd1d48076f1b2b1938d7224ff7173c3f7fc1ad7993cfc32dda4c66b9940943f6f78c416f96429f4e7b86",
+        "checksum": "c9c3881b9ccf1c96f22f448c756b09e38f5b6d8508cf709ec8302e99a8554c38f1e68aee5ff0a11df16a9a69632dedec3eb0a7698b620e1040c8eb11145281a2",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Bookshelf",
         "pinned": false,
         "project_id": "uy4Cnpcm",
         "selected": false,
-        "version": "20.2.13",
-        "version_id": "tNwsir0K"
+        "version": "20.2.15",
+        "version_id": "7eS5OIHj"
     },
     "vvuO3ImH": {
-        "checksum": "786c6c34e3f1a5358075cf95330b3e732293861a4ca60e4aa1780b55d32d3ab5b998b014bd521b3567f474a7bab738f821d46b71a7da201e0fa9321bb8e7e03b",
+        "checksum": "e2dd3c4bbbccc55fdcde49605bd863f1aa43bc21ec4a2a1559fddef9c06759f6941d51d42202e7991a04961d29ca9818b7ab5937f803ec6029bb95464f87d37e",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Curios API",
         "pinned": false,
         "project_id": "vvuO3ImH",
         "selected": false,
-        "version": "5.9.1+1.20.1",
-        "version_id": "moWmAnjY"
+        "version": "5.14.1+1.20.1",
+        "version_id": "IPQlZkz1"
     },
     "wXiGiyGX": {
-        "checksum": "0f13ec6982b74d44684474f08f1da6383957c6b68306913bf75003eec6b90fb16cbdaaacf9017ff228d335a99d72d5ffc3f1a28547915a293f13a68b83b48580",
+        "checksum": "78d1e630e7b7cd70cdc640aafbfbd517a594422d7804c8daf848a16545ac189f168e6c93cef89bd85d60611d85d23a22fa5b9870a63e4cf48f63b311587431a9",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Amplified Nether",
         "pinned": false,
         "project_id": "wXiGiyGX",
         "selected": true,
-        "version": "1.2.5",
-        "version_id": "qO36KEYQ"
+        "version": "1.2.14",
+        "version_id": "rp2A0tDf"
     },
     "x3HZvrj6": {
-        "checksum": "0b004351567710de74ee6f59b886a4b2244bc7726e3120a860dd6ccebbd40547420e310979ccbda8bfaaea1aa4cf339588fb99c0c483756b98e23a5f64f79a36",
+        "checksum": "be9b1c7a52478b84045c7b88bc408474da977165aa824127d494cca638ed3845883fa1f78059e8e78bd6265fa4faaf748844b611a241af9d250dee0ea0977eb0",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Immersive Aircraft",
         "pinned": false,
         "project_id": "x3HZvrj6",
         "selected": true,
-        "version": "1.0.1+1.20.1",
-        "version_id": "Tju2o3p2"
+        "version": "1.4.0+1.20.1",
+        "version_id": "jPZ0GRsN"
     },
     "x6r7yhfi": {
-        "checksum": "52e1db55a291a69f38eaf5fa3156751bd2351f2f24d7c31e043e13f8a7f9ecf3419adc7bb72db85a9bd6b80040b3c175e2bcf41f2d4992738a3e99d639b849be",
+        "checksum": "f9fdbac67817c85f6a3bb6361be391e8edaa476df8896cc1556993efd4eec1620ef8812f3ba936c77bd971676fa5a794bca7b8f2f4e2da6bee95f30f62e34e7f",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Storage Labels",
         "pinned": false,
         "project_id": "x6r7yhfi",
         "selected": true,
-        "version": "1.20-1.20.1",
-        "version_id": "ra0opL4S"
+        "version": "1.20-2.0.0",
+        "version_id": "euTZP75U"
     },
     "xuDOzCLy": {
-        "checksum": "a981ab844388a188e96c2dd9398b7eef6f2fab03ee7532696c1b3ffa5ff2b68594d9ccfea1acdbb0956931858d5e30ebc9df4f4066056bd5c4aa0811bad2a7dd",
+        "checksum": "64b3c86d49c4bfa031669015dd2deede7764496b499f5e1f43132e1529193d1c2fa3667af8fb8ca0682a49d1c089239f3456c181d59cc198e4f8d7e66d82a45e",
         "client_side_only": false,
-        "name": "Jade Addons (Forge)",
+        "ignore_dependencies": false,
+        "name": "Jade Addons (Neo/Forge)",
         "pinned": false,
         "project_id": "xuDOzCLy",
         "selected": true,
-        "version": "5.3.0+forge",
-        "version_id": "vSfJX8UF"
+        "version": "5.5.0+forge",
+        "version_id": "AvIT9ADi"
     },
     "yBW8D80W": {
-        "checksum": "d0789d237ac15e6df0fe58e6272055defd72a49de1d3e133e4568aa42984beb65ccc07b88d44fb41ea70971f09ea9c02a71fa83c13e8ec7f7e9db377728c0526",
+        "checksum": "3048637e49cdfc0c5213aab72f7107002cd87179439286de530a5a778acea5f97c18f6de805b696f5765df44c730abc5fb828259e04d56e52cdc9ffdda60a266",
         "client_side_only": true,
-        "name": "LambDynamicLights",
+        "ignore_dependencies": false,
+        "name": "LambDynamicLights - Dynamic Lights",
         "pinned": false,
         "project_id": "yBW8D80W",
         "selected": true,
-        "version": "2.3.2+1.20.1",
-        "version_id": "mYl4RvKg"
+        "version": "4.4.0+1.20.1",
+        "version_id": "AQfTnYyJ"
     },
     "yM94ont6": {
-        "checksum": "ef3328fd379c5ee0e832530648f289ac049856474a3cf3acffe178afd0af2de2db73b7b766632806781ecd3fab3945eb1b9426b15a124e5c98a16c8810824331",
+        "checksum": "27fceeb634e96d4424e8914c8b88b5b60b1254b5a944a56740bf2119174e305b7deaa923d351eb9dafa97d68dad4f0a676358a2ac6e18cb88a34a7a6470e1b5c",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Not Enough Crashes",
         "pinned": false,
         "project_id": "yM94ont6",
         "selected": true,
-        "version": "4.4.7+1.20.1-forge",
-        "version_id": "W6W0bVtN"
+        "version": "4.4.9+1.20.1-forge",
+        "version_id": "6XEwkJBV"
     },
     "zCh7omyG": {
-        "checksum": "767cf4503855edfb26fc71b6f75b4df9feed9482177c0fbc241d7bdd3ce6a341b3a398ca02ea4c15422865a18e19a0e902d532fb06bba22010bc6d08b083e1b3",
+        "checksum": "627a653c88723619a03bd2c42e653211f70a5106755b08059dd302135811f80744ae5aa26dbbccefc1ea8e7dbe547df4b224250ea48728336797476362ac5353",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Better Archeology",
         "pinned": false,
         "project_id": "zCh7omyG",
         "selected": true,
-        "version": "1.1.9-1.20.1",
-        "version_id": "8f9j7B3i"
+        "version": "1.2.1-1.20.1",
+        "version_id": "vsqxpUo3"
     },
     "zi3Fnfmc": {
-        "checksum": "75e4883affff9cb2e578ebc474da18b721e7c265b96fecf0d085de4cf149fe459aada468956685e916cdc1091ad32882096825a63d661e7f67f1b5d9544fcd16",
+        "checksum": "e43a75ef16f5134eeae3708bf86db62ef878ff4a62fd751af9abf452e38587962a78bf401610258e036b14623cc6036a2ea1a6e1e3ab03a38ef967c2cc524ca2",
         "client_side_only": false,
+        "ignore_dependencies": false,
         "name": "Etched",
         "pinned": false,
         "project_id": "zi3Fnfmc",
         "selected": true,
-        "version": "3.0.2",
-        "version_id": "M178L4Do"
+        "version": "3.0.4",
+        "version_id": "k1G15lhE"
     }
 }
-

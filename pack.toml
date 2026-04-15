@@ -10,6 +10,6 @@ game_version = "1.20.1"
 include_directories = ["shaderpacks"]
 
 [loader]
-type = "neoforge"
+type = "legacyforge"
 sinytra_compat = true
 prefer_fabric_geckolib = false

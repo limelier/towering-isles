@@ -120,6 +120,17 @@
         "version": "3.2.0+1.20.1",
         "version_id": "mRry0DgY"
     },
+    "4H6sumDB": {
+        "checksum": "83091fb58275fdf07c28561e94161e88ca67c607c98aeaf7712ec1896c5a2413131ee27216170be9f18bed86ecd23dd5127746a80b35f3edf1bec972134432c4",
+        "client_side_only": true,
+        "ignore_dependencies": false,
+        "name": "Euphoria Patches",
+        "pinned": false,
+        "project_id": "4H6sumDB",
+        "selected": true,
+        "version": "1.8.6-r5.7.1-forge",
+        "version_id": "m1F9rztV"
+    },
     "4KjqhPc9": {
         "checksum": "3a5da7604edda2f1e5075fa036583ad631708607606b6cce29b15ee4fb81ea1eb4050f7c333f5627fe2359cbd800a1cf752fe81cbb9a656e8826a4d9b1e80620",
         "client_side_only": false,

@@ -74,7 +74,7 @@ key_key.jei.copy.recipe.id:key.keyboard.unknown:NONE
 key_key.jei.previousSearch:key.keyboard.up:NONE
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.clearSearchBar:key.mouse.right:NONE
-key_effect.trolldom.air_boon.draft_binding:key.keyboard.space:CONTROL
+key_effect.trolldom.air_boon.draft_binding:key.keyboard.unknown:NONE
 key_key.push_to_talk:key.keyboard.v:NONE
 key_key.whisper:key.keyboard.unknown:NONE
 key_key.mute_microphone:key.keyboard.m:NONE

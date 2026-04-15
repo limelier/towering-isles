@@ -8,3 +8,7 @@ config/*
 !config/oculus.properties
 !config/defaultoptions
 !config/vinery
+
+# python venv
+mise.toml
+.venv/
